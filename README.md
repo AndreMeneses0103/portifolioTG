@@ -1,7 +1,7 @@
 # André Filipe Meneses
 
 ## Sobre Mim
-Profissional de tecnologia com formação técnica em Informática e cursando Banco de Dados na Fatec São José dos Campos. Atuei em projetos acadêmicos e startups, passando por funções como freelancer, estagiário e desenvolvedor júnior, com foco em aplicações web e desktop. Atualmente, sou estagiário na área de Cibersegurança da Johnson & Johnson, onde venho expandindo meu conhecimento técnico e visão estratégica.
+Profissional de tecnologia com formação técnica em Informática e cursando Banco de Dados na Fatec São José dos Campos. Atuei em projetos acadêmicos e startups, passando por funções como freelancer, estagiário e desenvolvedor júnior, com foco em aplicações web e desktop. Tenho familiaridade com boas práticas de versionamento, organização com metodologias ágeis e colaboração em equipe utilizando ferramentas modernas. Atualmente, sou estagiário na área de Cibersegurança da Johnson & Johnson, onde venho expandindo meu conhecimento técnico e visão estratégica, especialmente em temas como gestão de identidade, segurança de aplicações e automação de processos.
 
 ## Contatos
 - Email: andremeneses0103@gmail.com  
@@ -11,22 +11,22 @@ Profissional de tecnologia com formação técnica em Informática e cursando Ba
 
 ## Conhecimentos Técnicos
 **Linguagens e Frameworks**:
-- Python
-- Java (Spring Boot)
-- JavaScript (VueJS e React)
+- Python (scripts, automações e desenvolvimento desktop com Tkinter)
+- Java (aplicações MVC com Spring Boot e interfaces com JavaFX)
+- JavaScript (desenvolvimento de SPAs com VueJS e React)
 
 **Bancos de Dados**:
-- SQL (MySQL e PostgreSQL)
-- MongoDB
+- SQL (MySQL e PostgreSQL, com criação de queries e modelagem relacional)
+- MongoDB (uso em projetos que exigem flexibilidade de dados)
 
 **Ferramentas**:
-- Git/GitHub
-- Jira/Trello
-- Figma
+- Git/GitHub (controle de versão, branches, pull requests e integração com Jira)
+- Jira/Trello (gestão de tarefas, metodologia Scrum e vinculação de commits a histórias)
+- Figma (prototipagem de interfaces e validação com usuários)
 
 **Metodologias**:
-- Scrum (Certificado ScrumStudy)
-- Desenvolvimento Ágil
+- Scrum  (experiência prática em projetos com sprints, dailies e reviews)
+- Desenvolvimento Ágil (entregas incrementais, feedback contínuo e foco em valor ao usuário)
 
 ## Projetos Acadêmicos
 
@@ -58,15 +58,15 @@ Solução desktop para automatização de processos avaliativos em instituiçõe
 | Documentação     | Notion            |
 
 **Contribuições**:
-- Desenvolvimento de 5 telas principais
-- Implementação do sistema de persistência em JSON
-- Criação de algoritmos para cálculo de médias
-- Documentação técnica do projeto
+- Desenvolvimento das principais telas do sistema, como cadastro de turmas e critérios, preenchimento de avaliações, visualização de médias e geração de relatório final.
+- Organização da estrutura de arquivos JSON para garantir escalabilidade, possibilitando o reaproveitamento de dados em múltiplas turmas e semestres.
+- Implementação da lógica de cálculos ponderados por critério, com tratamento de dados inconsistentes e validação de faixas de desempenho.
+
 
 **Resultados**:
 - Redução de 70% no tempo de avaliações
-- Padronização dos critérios avaliativos
-- Melhoria na experiência do usuário final
+- Facilidade para a geração de relatórios completos e visualmente organizados, com todas as médias, quantidades por faixa e notas consolidadas.
+- Organização clara dos dados de cada grupo, possibilitando consultas posteriores sem a necessidade de reprocessar informações manualmente.
 
 **Repositório**: [github.com/AndreMeneses0103/insight-360](https://github.com/AndreMeneses0103/insight-360)
 
@@ -100,15 +100,15 @@ Plataforma desktop para controle e acompanhamento de trabalhos de conclusão de 
 | Gestão Projeto   | Trello            |
 
 **Contribuições**:
-- Desenvolvimento de 3 módulos principais
-- Implementação do sistema de upload de arquivos
-- Criação de queries complexas para relatórios
-- Integração front-end e back-end
+- Desenvolvimento do módulo de login, permitindo acesso com diferentes permissões (admin, professor, aluno).
+- Criação das telas para visualização do status de cada entrega, com ordenação por datas e filtros por aluno e professor.
+- Implementação da lógica de cálculo da nota final com base nas entregas feitas e avaliações cadastradas.
+- Participação na modelagem do banco de dados, com tabelas normalizadas e relacionamentos definidos para garantir integridade das informações.
 
 **Resultados**:
-- Redução de 60% no tempo de gestão de TCCs
-- Maior transparência no processo avaliativo
-- Centralização de toda documentação
+- Otimização da gestão dos TCCs, com acompanhamento unificado de todos os alunos e orientadores em um só lugar.
+- Melhor acompanhamento por parte dos professores, que puderam visualizar com clareza a situação de cada grupo ou aluno.
+- Redução da dependência de planilhas externas e trocas de e-mail para controle de prazos.
 
 **Repositório**: [github.com/AndreMeneses0103/tgsync](https://github.com/AndreMeneses0103/tgsync)
 
@@ -142,14 +142,14 @@ Aplicação web desenvolvida em parceria com a Dom Rock para automatização da 
 | Gestão Projeto   | Jira              |
 
 **Contribuições**:
-- Desenvolvimento de endpoints RESTful
-- Implementação do sistema de upload
-- Criação de dashboards administrativos
-- Modelagem do banco de dados
+- Desenvolvimento do módulo de login, permitindo acesso com diferentes permissões (admin, professor, aluno).
+- Criação das telas para visualização do status de cada entrega, com ordenação por datas e filtros por aluno e professor.
+- Implementação da lógica de cálculo da nota final com base nas entregas feitas e avaliações cadastradas.
+- Participação na modelagem do banco de dados, com tabelas normalizadas e relacionamentos definidos para garantir integridade das informações.
 
 **Resultados**:
-- Redução de 80% no tempo de configuração
-- Diminuição da dependência de especialistas
-- Melhoria na qualidade dos dados processados
+- Otimização da gestão dos TCCs, com acompanhamento unificado de todos os alunos e orientadores em um só lugar.
+- Redução da dependência de planilhas externas e trocas de e-mail para controle de prazos.
+- Melhor acompanhamento por parte dos professores, que puderam visualizar com clareza a situação de cada grupo ou aluno.
 
 **Repositório**: [github.com/AndreMeneses0103/nextschema](https://github.com/AndreMeneses0103/nextschema)
