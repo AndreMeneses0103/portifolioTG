@@ -35,6 +35,8 @@ Desenvolvedor Full Stack com formação técnica em Informática pelo Colégio U
 
 ### Insight 360 - Sistema de Avaliação Educacional (2023/1)
 
+**Cliente**: Fatec São José dos Campos (Coordenação do curso de Banco de Dados)
+
 **Contexto**:  
 Solução desktop para automatização de processos avaliativos em instituições de ensino, desenvolvido como projeto acadêmico na Fatec SJC.
 
@@ -75,6 +77,8 @@ Solução desktop para automatização de processos avaliativos em instituiçõe
 
 ### TGSync - Sistema de Gestão de TCCs (2023/2)
 
+**Cliente**: Fatec São José dos Campos (Coordenação do curso de Banco de Dados)
+
 **Contexto**:  
 Plataforma desktop para controle e acompanhamento de trabalhos de conclusão de curso desenvolvida para a Fatec SJC, substituindo processos manuais.
 
@@ -114,6 +118,8 @@ Plataforma desktop para controle e acompanhamento de trabalhos de conclusão de 
 ---
 
 ### NextSchema - Plataforma de Pipeline de Dados (2024/1)
+
+**Cliente**: Dom Rock (Parceira externa especializada em processamento de dados)
 
 **Contexto**:  
 Aplicação web desenvolvida em parceria com a Dom Rock para automatização da configuração de fontes de dados em pipelines de processamento.
