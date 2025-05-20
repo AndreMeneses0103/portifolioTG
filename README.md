@@ -1,7 +1,7 @@
 # André Filipe Meneses
 
 ## Sobre Mim
-Desenvolvedor Full Stack com formação técnica em Informática pelo Colégio Univap e cursando Tecnólogo em Banco de Dados na Fatec São José dos Campos. Experiência em desenvolvimento web e aplicações desktop, com domínio em metodologias ágeis. Atuação como freelancer na RM Idiomas e como estagiário na Appstorm.
+Profissional de tecnologia com formação técnica em Informática e cursando Banco de Dados na Fatec São José dos Campos. Atuei em projetos acadêmicos e startups, passando por funções como freelancer, estagiário e desenvolvedor júnior, com foco em aplicações web e desktop. Atualmente, sou estagiário na área de Cibersegurança da Johnson & Johnson, onde venho expandindo meu conhecimento técnico e visão estratégica.
 
 ## Contatos
 - Email: andremeneses0103@gmail.com  
@@ -11,19 +11,16 @@ Desenvolvedor Full Stack com formação técnica em Informática pelo Colégio U
 
 ## Conhecimentos Técnicos
 **Linguagens e Frameworks**:
-- Python (TKinter, Django)
+- Python
 - Java (Spring Boot)
-- JavaScript (Node.js, jQuery)
-- PHP
+- JavaScript (VueJS e React)
 
 **Bancos de Dados**:
-- MySQL
+- SQL (MySQL e PostgreSQL)
 - MongoDB
-- JSON
 
 **Ferramentas**:
 - Git/GitHub
-- Postman
 - Jira/Trello
 - Figma
 
