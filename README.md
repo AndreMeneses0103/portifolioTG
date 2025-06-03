@@ -101,7 +101,7 @@ Os resultados foram notáveis, com **redução de 70% no tempo necessário para 
 
 ### TGSync - Sistema de Gestão de TCCs (2023/2)
 
-![Imagem do sistema](URL-da-imagem)
+![image](https://github.com/user-attachments/assets/cf8fdeb1-d79d-4d77-8c7e-3b47abfd4262)
 
 #### **Parceria com Fatec São José dos Campos**
 
@@ -138,6 +138,9 @@ Os resultados incluíram **melhor acompanhamento por parte da coordenação**, *
   <summary>Detalhes</summary>
   - Implementação de diferentes níveis de acesso.  
   - Sistema de autenticação seguro com validações.  
+    <br/>
+  <img src="https://github.com/user-attachments/assets/7093511b-14dd-4dce-a98d-f053554287e5" alt="Tela Dashboard" />
+
 </details>
 
 ##### **Visualização de Status**
@@ -145,6 +148,8 @@ Os resultados incluíram **melhor acompanhamento por parte da coordenação**, *
   <summary>Detalhes</summary>
   - Filtros por aluno e professor.  
   - Ordenação por datas e status de entrega.  
+  <br/>
+  <img src="https://github.com/user-attachments/assets/925d948a-7296-4ca5-8140-5e3adaeb8823" alt="Tela Dashboard" />
 </details>
 
 ---
