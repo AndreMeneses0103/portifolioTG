@@ -32,124 +32,194 @@ Profissional de tecnologia com formação técnica em Informática e cursando Ba
 
 ### Insight 360 - Sistema de Avaliação Educacional (2023/1)
 
-**Cliente**: Fatec São José dos Campos (Coordenação do curso de Banco de Dados)
+![Imagem do projeto](URL-da-imagem)
 
-**Contexto**:  
-Solução desktop para automatização de processos avaliativos em instituições de ensino, desenvolvido como projeto acadêmico na Fatec SJC.
+#### **Parceria com Fatec São José dos Campos**
+Solução desktop para automatização de processos avaliativos desenvolvida para a coordenação do curso de Banco de Dados.
 
-**Desafios Principais**:
+
+#### **Desafio**
 - Substituição de planilhas manuais
 - Centralização de dados avaliativos
 - Garantia de consistência nas avaliações
 
-**Solução Implementada**:
+#### **Solução Desenvolvida**
 - Interface gráfica com TKinter
 - Armazenamento em JSON
 - Algoritmos de cálculo de desempenho
 - Geração de relatórios consolidados
 
-**Stack Tecnológico**:
-| Componente       | Tecnologia        |
-|------------------|-------------------|
-| Linguagem        | Python 3.11       |
-| Interface        | TKinter           |
-| Armazenamento    | JSON              |
-| Controle Versão  | Git/GitHub        |
-| Documentação     | Notion            |
+#### **Tecnologias Utilizadas**
+- **Python 3.11:** Linguagem principal
+- **TKinter:** Framework para interface
+- **JSON:** Armazenamento de dados
+- **Git/GitHub:** Controle de versão
 
-**Contribuições**:
-- Desenvolvimento das principais telas do sistema, como cadastro de turmas e critérios, preenchimento de avaliações, visualização de médias e geração de relatório final.
-- Organização da estrutura de arquivos JSON para garantir escalabilidade, possibilitando o reaproveitamento de dados em múltiplas turmas e semestres.
-- Implementação da lógica de cálculos ponderados por critério, com tratamento de dados inconsistentes e validação de faixas de desempenho.
+#### **Contribuições Pessoais**
+1. **Desenvolvimento de Telas:**
+   <details>
+     <summary>Detalhes</summary>
+     - Criação de telas para cadastro de turmas
+     - Implementação de visualização de médias
+     - Desenvolvimento de relatórios finais
+   </details>
 
+2. **Estrutura de Dados:**
+   <details>
+     <summary>Detalhes</summary>
+     - Organização de arquivos JSON
+     - Implementação de escalabilidade
+   </details>
 
-**Resultados**:
+#### **Resultados**
 - Redução de 70% no tempo de avaliações
-- Facilidade para a geração de relatórios completos e visualmente organizados, com todas as médias, quantidades por faixa e notas consolidadas.
-- Organização clara dos dados de cada grupo, possibilitando consultas posteriores sem a necessidade de reprocessar informações manualmente.
-
-**Repositório**: [github.com/AndreMeneses0103/insight-360](https://github.com/AndreMeneses0103/insight-360)
+- Geração automatizada de relatórios
+- Organização clara dos dados
 
 ---
 
 ### TGSync - Sistema de Gestão de TCCs (2023/2)
 
-**Cliente**: Fatec São José dos Campos (Coordenação do curso de Banco de Dados)
+#### **Parceria com Fatec São José dos Campos**
+Plataforma desktop para controle e acompanhamento de trabalhos de conclusão de curso.
 
-**Contexto**:  
-Plataforma desktop para controle e acompanhamento de trabalhos de conclusão de curso desenvolvida para a Fatec SJC, substituindo processos manuais.
+![Imagem do sistema](URL-da-imagem)
 
-**Desafios Principais**:
-- Dificuldade no acompanhamento dos prazos
+#### **Desafio**
+- Dificuldade no acompanhamento de prazos
 - Falta de centralização das informações
 - Processo burocrático de avaliação
 
-**Solução Implementada**:
-- Interface desenvolvida com JavaFX
-- Banco de dados relacional MySQL
+#### **Solução Desenvolvida**
+- Interface com JavaFX
+- Banco de dados MySQL
 - Sistema de upload de arquivos
 - Geração automática de relatórios
 
-**Stack Tecnológico**:
-| Componente       | Tecnologia        |
-|------------------|-------------------|
-| Linguagem        | Java 11           |
-| Interface        | JavaFX            |
-| Banco de Dados   | MySQL             |
-| Prototipagem     | Figma             |
-| Gestão Projeto   | Trello            |
+#### **Tecnologias Utilizadas**
+- **Java 11:** Linguagem principal
+- **JavaFX:** Framework para interface
+- **MySQL:** Banco de dados relacional
+- **Figma:** Prototipagem
 
-**Contribuições**:
-- Desenvolvimento do módulo de login, permitindo acesso com diferentes permissões (admin, professor, aluno).
-- Criação das telas para visualização do status de cada entrega, com ordenação por datas e filtros por aluno e professor.
-- Implementação da lógica de cálculo da nota final com base nas entregas feitas e avaliações cadastradas.
-- Participação na modelagem do banco de dados, com tabelas normalizadas e relacionamentos definidos para garantir integridade das informações.
+#### **Contribuições Pessoais**
+1. **Módulo de Login:**
+   <details>
+     <summary>Detalhes</summary>
+     - Implementação de diferentes níveis de acesso
+     - Sistema de autenticação seguro
+   </details>
 
-**Resultados**:
-- Otimização da gestão dos TCCs, com acompanhamento unificado de todos os alunos e orientadores em um só lugar.
-- Melhor acompanhamento por parte dos professores, que puderam visualizar com clareza a situação de cada grupo ou aluno.
-- Redução da dependência de planilhas externas e trocas de e-mail para controle de prazos.
+2. **Visualização de Status:**
+   <details>
+     <summary>Detalhes</summary>
+     - Filtros por aluno e professor
+     - Ordenação por datas
+   </details>
 
-**Repositório**: [github.com/AndreMeneses0103/tgsync](https://github.com/AndreMeneses0103/tgsync)
+#### **Resultados**
+- Otimização da gestão de TCCs
+- Acompanhamento unificado
+- Redução de dependência de planilhas
 
 ---
 
-### NextSchema - Plataforma de Pipeline de Dados (2024/1)
+### Projeto Dom Rock (2024/1)
 
-**Cliente**: Dom Rock (Parceira externa especializada em processamento de dados)
 
-**Contexto**:  
-Aplicação web desenvolvida em parceria com a Dom Rock para automatização da configuração de fontes de dados em pipelines de processamento.
+#### Parceria com a Dom Rock
 
-**Desafios Principais**:
-- Processo manual de configuração
-- Alta dependência de especialistas
-- Dificuldade na validação de dados
+Este projeto foi desenvolvido em colaboração com a **Dom Rock**, uma empresa especializada em soluções de processamento de dados em pipeline. Sua tecnologia é amplamente utilizada para processar grandes volumes de dados, gerar insights automatizados e auxiliar a tomada de decisões estratégicas.
 
-**Solução Implementada**:
-- Interface web intuitiva
-- Sistema de upload de arquivos (CSV/Excel)
-- Dashboard administrativo
-- Mapeamento automático de campos
+![Imagem do sistema](https://github.com/user-attachments/assets/f04147f3-5d4e-4455-9837-d0b7ecc3e73a)
 
-**Stack Tecnológico**:
-| Componente       | Tecnologia        |
-|------------------|-------------------|
-| Backend          | Spring Boot       |
-| Frontend         | HTML/CSS/JS       |
-| Banco de Dados   | MySQL             |
-| API Testing      | Postman           |
-| Gestão Projeto   | Jira              |
+#### **Desafio**
+A configuração manual das fontes de dados era um gargalo no processo de operação da plataforma, demandando muito tempo e expertise técnica, comprometendo a agilidade no atendimento aos clientes.
 
-**Contribuições**:
-- Desenvolvimento do módulo de login, permitindo acesso com diferentes permissões (admin, professor, aluno).
-- Criação das telas para visualização do status de cada entrega, com ordenação por datas e filtros por aluno e professor.
-- Implementação da lógica de cálculo da nota final com base nas entregas feitas e avaliações cadastradas.
-- Participação na modelagem do banco de dados, com tabelas normalizadas e relacionamentos definidos para garantir integridade das informações.
+#### **Solução Desenvolvida**
+Foi criada uma interface inovadora e automatizada para configuração das fontes de dados, eliminando a necessidade de processos manuais. As principais entregas incluíram:
 
-**Resultados**:
-- Otimização da gestão dos TCCs, com acompanhamento unificado de todos os alunos e orientadores em um só lugar.
-- Redução da dependência de planilhas externas e trocas de e-mail para controle de prazos.
-- Melhor acompanhamento por parte dos professores, que puderam visualizar com clareza a situação de cada grupo ou aluno.
+- **Sistema de Cadastro:** Interfaces para registro de clientes, usuários e soluções.
+- **Upload e Visualização de Dados:** Ferramenta para importar arquivos CSV ou Excel, permitindo visualizar e estruturar os dados.
+- **Dashboard Administrativo:** Painel com métricas quantitativas e análises para gestores.
+- **Mapeamento e Regras de Negócio:** Funcionalidades que automatizam a associação de campos-chave e a aplicação de regras específicas.
+- **Segurança e Auditoria:** Implementação de autenticação, controle de acesso e rastreabilidade de ações no sistema.
 
-**Repositório**: [github.com/AndreMeneses0103/nextschema](https://github.com/AndreMeneses0103/nextschema)
+Os resultados foram notáveis, com maior velocidade na implantação de soluções e menor dependência de técnicos especializados.
+
+#### **Tecnologias Utilizadas**
+- **Java 17:** Linguagem estável e eficiente com suporte de longo prazo.
+- **Spring Boot:** Framework que simplifica o desenvolvimento de APIs e aplicações web.
+- **Spring Security:** Solução para autenticação e autorização.
+- **Hibernate:** ORM para bancos de dados relacionais.
+- **HTML, CSS e JavaScript:** Desenvolvimento de interfaces web interativas e responsivas.
+- **MySQL:** Banco de dados relacional utilizado para gerenciar informações.
+- **Slack e Discord:** Comunicação efetiva entre equipe e cliente.
+- **Jira:** Gerenciamento de tarefas e projetos com metodologias ágeis.
+
+#### **Comunicação com o Cliente**
+A interação com a **Dom Rock** foi conduzida principalmente pelo **Slack**, garantindo alinhamento de requisitos, discussão de melhorias e acompanhamento do progresso.
+
+#### **Contribuições Pessoais**
+#### **Atuação como Front-end e Product Owner**
+
+##### **Desenvolvimento Front-end**
+Atuei amplamente na criação, aprimoramento e padronização da interface do sistema, abordando diversos aspectos:
+
+1. **Desenvolvimento de Telas e Funcionalidades:**
+      <details>
+        <summary>Detalhes</summary>
+        - Criação de telas interativas para cadastro de clientes, usuários e soluções.
+        - Implementação de funcionalidades como upload de arquivos CSV e visualização dos dados carregados.
+        - Integração das interfaces com APIs para comunicação eficiente entre front-end e back-end.
+        <br/>
+        <img src="https://github.com/user-attachments/assets/237cb4a7-03ce-4759-a3f5-8c20a6af7d19" alt="Tela interativa de cadastro" />
+      </details>
+
+
+2. **Conexão com APIs:**
+      <details>
+       <summary>Detalhes</summary>
+       - Configurei chamadas para os endpoints do back-end, permitindo o envio e recebimento dinâmico de dados.
+       - Garanti uma experiência fluida com sincronização precisa entre as ações do usuário e os dados exibidos.
+       <img src="https://github.com/user-attachments/assets/bd5aebfc-fef7-4a09-91a1-31fea353530e" alt="Conexão com API" />
+      
+      </details>
+
+3. **Padronização de Estilos:**
+   <details>
+      <summary>Detalhes</summary>
+      - Uniformizei as interfaces, criando um padrão visual coeso.
+      - Centralizei estilos em arquivos CSS reutilizáveis, reduzindo duplicação e facilitando a manutenção do código.
+      <br/>
+      <img src="https://github.com/user-attachments/assets/7860c69f-5c90-471c-9dfd-34e580e41e95" alt="Imagem de interface padronizada" />
+  </details>
+
+##### **Comunicação com o Cliente**
+  <details>
+    <summary>Detalhes</summary>
+    - Realizei levantamento de requisitos e priorização com o cliente via Slack.
+    - Propus ajustes e melhorias com base no feedback, garantindo alinhamento de expectativas.
+    <br/>
+    <img src="https://github.com/user-attachments/assets/346bedb7-c5ba-4846-82c6-f506749b46e0" alt="Imagem do levantamento de requisitos"/>
+  </details>
+
+
+---
+
+### **Hard Skills**
+
+- **JavaScript:** Manipulação de DOM, eventos interativos e integração com APIs.
+- **CSS:** Desenvolvimento de estilos personalizados e reutilizáveis sem frameworks.
+- **HTML:** Estruturação semântica e acessível para páginas web.
+- **Java:** Contribuição na integração com APIs e alinhamento com lógica de negócios.
+- **MySQL:** Modelagem, definição de relacionamentos e realização de consultas.
+
+---
+
+### **Soft Skills**
+- **Comunicação:** Habilidade em negociar, apresentar resultados e alinhar expectativas.
+- **Organização:** Estruturação de tarefas e priorização conforme prazos e relevância.
+- **Adaptabilidade:** Flexibilidade para lidar com mudanças e novas demandas.
+- **Resolução de Problemas:** Soluções criativas e eficientes para desafios técnicos.
+- **Proatividade:** Identificação de melhorias e ações rápidas para evitar atrasos.
