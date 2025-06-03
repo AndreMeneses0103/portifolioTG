@@ -35,92 +35,130 @@ Profissional de tecnologia com formação técnica em Informática e cursando Ba
 ![Imagem do projeto](URL-da-imagem)
 
 #### **Parceria com Fatec São José dos Campos**
-Solução desktop para automatização de processos avaliativos desenvolvida para a coordenação do curso de Banco de Dados.
 
+Este projeto foi desenvolvido para a **coordenação do curso de Banco de Dados** da Fatec São José dos Campos. O objetivo foi automatizar os processos avaliativos da instituição, reduzindo o uso de planilhas manuais e aumentando a confiabilidade das informações.
 
 #### **Desafio**
-- Substituição de planilhas manuais
-- Centralização de dados avaliativos
-- Garantia de consistência nas avaliações
+
+A gestão avaliativa era baseada em planilhas manuais, o que demandava tempo, aumentava a chance de erros e dificultava a centralização das informações. Era necessário garantir consistência nas avaliações e gerar relatórios mais rápidos e confiáveis.
 
 #### **Solução Desenvolvida**
-- Interface gráfica com TKinter
-- Armazenamento em JSON
-- Algoritmos de cálculo de desempenho
-- Geração de relatórios consolidados
+
+Foi criada uma aplicação desktop para automatizar a coleta, o processamento e a apresentação de dados avaliativos. As principais entregas incluíram:
+
+- **Interface Gráfica com TKinter:** Navegação intuitiva para o usuário.  
+- **Armazenamento em JSON:** Estrutura organizada e escalável.  
+- **Algoritmos de Cálculo de Desempenho:** Cálculo automático de médias e avaliações.  
+- **Geração de Relatórios Consolidados:** Exportação das informações finais em formato legível e estruturado.
+
+Os resultados foram notáveis, com **redução de 70% no tempo necessário para avaliações**, **maior organização dos dados** e **relatórios gerados automaticamente com maior confiabilidade**.
 
 #### **Tecnologias Utilizadas**
-- **Python 3.11:** Linguagem principal
-- **TKinter:** Framework para interface
-- **JSON:** Armazenamento de dados
-- **Git/GitHub:** Controle de versão
+
+- **Python 3.11:** Linguagem principal utilizada para desenvolvimento.  
+- **TKinter:** Framework para construção da interface gráfica.  
+- **JSON:** Utilizado como base de dados local, simulando persistência.  
+- **Git/GitHub:** Controle de versão e colaboração no código.
 
 #### **Contribuições Pessoais**
-1. **Desenvolvimento de Telas:**
-   <details>
-     <summary>Detalhes</summary>
-     - Criação de telas para cadastro de turmas
-     - Implementação de visualização de médias
-     - Desenvolvimento de relatórios finais
-   </details>
 
-2. **Estrutura de Dados:**
-   <details>
-     <summary>Detalhes</summary>
-     - Organização de arquivos JSON
-     - Implementação de escalabilidade
-   </details>
+##### **Desenvolvimento de Telas**
+<details>
+  <summary>Detalhes</summary>
+  - Criação de telas para cadastro de turmas.  
+  - Implementação de visualização de médias.  
+  - Desenvolvimento de relatórios finais.  
+</details>
 
-#### **Resultados**
-- Redução de 70% no tempo de avaliações
-- Geração automatizada de relatórios
-- Organização clara dos dados
+##### **Estrutura de Dados**
+<details>
+  <summary>Detalhes</summary>
+  - Organização e manipulação dos arquivos JSON.  
+  - Implementação de estrutura modular e escalável.  
+</details>
+
+---
+
+### **Hard Skills**
+
+- **Python:** Manipulação de arquivos, estrutura de dados e cálculos.  
+- **TKinter:** Desenvolvimento de interfaces gráficas simples e funcionais.  
+- **JSON:** Estruturação, leitura e escrita de dados em formato leve.  
+- **Git/GitHub:** Versionamento, commits frequentes e uso de branches.  
+
+### **Soft Skills**
+
+- **Organização:** Estruturação clara do código e dados.  
+- **Comunicação:** Alinhamento constante com a coordenação do curso.  
+- **Proatividade:** Identificação de gargalos no processo manual e proposta de solução digital.  
+
 
 ---
 
 ### TGSync - Sistema de Gestão de TCCs (2023/2)
 
-#### **Parceria com Fatec São José dos Campos**
-Plataforma desktop para controle e acompanhamento de trabalhos de conclusão de curso.
-
 ![Imagem do sistema](URL-da-imagem)
 
+#### **Parceria com Fatec São José dos Campos**
+
+Plataforma desktop desenvolvida para a **gestão e acompanhamento de Trabalhos de Conclusão de Curso (TCCs)** da Fatec São José dos Campos. O objetivo era modernizar o fluxo de acompanhamento e avaliação dos projetos finais dos alunos.
+
 #### **Desafio**
-- Dificuldade no acompanhamento de prazos
-- Falta de centralização das informações
-- Processo burocrático de avaliação
+
+- Dificuldade no acompanhamento de prazos  
+- Falta de centralização das informações  
+- Processo burocrático de avaliação  
 
 #### **Solução Desenvolvida**
-- Interface com JavaFX
-- Banco de dados MySQL
-- Sistema de upload de arquivos
-- Geração automática de relatórios
+
+Foi criada uma plataforma desktop com funcionalidades voltadas à automação e controle dos TCCs. As principais entregas foram:
+
+- **Interface com JavaFX:** Navegação intuitiva e responsiva.  
+- **Banco de dados MySQL:** Armazenamento persistente e seguro das informações.  
+- **Sistema de Upload de Arquivos:** Facilita o envio de documentos por alunos e professores.  
+- **Geração Automática de Relatórios:** Resumo e status dos projetos exportáveis.
+
+Os resultados incluíram **melhor acompanhamento por parte da coordenação**, **redução do uso de planilhas manuais** e **facilidade na geração de relatórios consolidados**, o que representou um **aumento significativo na eficiência do processo avaliativo**.
 
 #### **Tecnologias Utilizadas**
-- **Java 11:** Linguagem principal
-- **JavaFX:** Framework para interface
-- **MySQL:** Banco de dados relacional
-- **Figma:** Prototipagem
+
+- **Java 11:** Linguagem principal utilizada no projeto.  
+- **JavaFX:** Framework para construção da interface gráfica.  
+- **MySQL:** Banco de dados relacional para armazenamento de dados.  
+- **Figma:** Ferramenta de prototipagem e definição de layout.
 
 #### **Contribuições Pessoais**
-1. **Módulo de Login:**
-   <details>
-     <summary>Detalhes</summary>
-     - Implementação de diferentes níveis de acesso
-     - Sistema de autenticação seguro
-   </details>
 
-2. **Visualização de Status:**
-   <details>
-     <summary>Detalhes</summary>
-     - Filtros por aluno e professor
-     - Ordenação por datas
-   </details>
+##### **Módulo de Login**
+<details>
+  <summary>Detalhes</summary>
+  - Implementação de diferentes níveis de acesso.  
+  - Sistema de autenticação seguro com validações.  
+</details>
 
-#### **Resultados**
-- Otimização da gestão de TCCs
-- Acompanhamento unificado
-- Redução de dependência de planilhas
+##### **Visualização de Status**
+<details>
+  <summary>Detalhes</summary>
+  - Filtros por aluno e professor.  
+  - Ordenação por datas e status de entrega.  
+</details>
+
+---
+
+### **Hard Skills**
+
+- **Java:** Programação orientada a objetos, estruturação de módulos.  
+- **JavaFX:** Criação de interfaces gráficas desktop modernas.  
+- **MySQL:** Modelagem relacional, consultas SQL, manipulação de dados.  
+- **Git/GitHub:** Controle de versão, gerenciamento de branches e commits.  
+- **Figma:** Leitura e adaptação de protótipos para implementação.
+
+### **Soft Skills**
+
+- **Comunicação:** Alinhamento constante com os professores orientadores e equipe.  
+- **Colaboração:** Trabalho em equipe para integrar múltiplos módulos no sistema.  
+- **Organização:** Estruturação clara de código e banco de dados para facilitar manutenção.  
+
 
 ---
 
