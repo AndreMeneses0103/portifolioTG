@@ -308,39 +308,33 @@ Os resultados foram uma solução escalável com alta disponibilidade, garantind
 - **Figma:** Plataforma para criação de protótipos e design de interfaces visuais.  
 
 #### **Contribuições Pessoais**
-#### **Atuação como Front-end**
-
-##### **Desenvolvimento Front-end**
+#### **Atuação como Front-end e Back-End**
 Atuei amplamente na criação, aprimoramento e padronização da interface do sistema, abordando diversos aspectos:
 
-1. **Desenvolvimento de Telas e Funcionalidades:**
-      <details>
-        <summary>Detalhes</summary>
-        - Criação de telas interativas para cadastro de clientes, usuários e soluções.
-        - Implementação de funcionalidades como upload de arquivos CSV e visualização dos dados carregados.
-        - Integração das interfaces com APIs para comunicação eficiente entre front-end e back-end.
-        <br/>
-        <img src="https://github.com/user-attachments/assets/237cb4a7-03ce-4759-a3f5-8c20a6af7d19" alt="Tela interativa de cadastro" />
-      </details>
-
-
-2. **Conexão com APIs:**
-      <details>
-       <summary>Detalhes</summary>
-       - Configurei chamadas para os endpoints do back-end, permitindo o envio e recebimento dinâmico de dados.
-       - Garanti uma experiência fluida com sincronização precisa entre as ações do usuário e os dados exibidos.
-       <img src="https://github.com/user-attachments/assets/bd5aebfc-fef7-4a09-91a1-31fea353530e" alt="Conexão com API" />
-      
-      </details>
-
-3. **Padronização de Estilos:**
-   <details>
+1. **Gerenciamento e Configuração de Dados:**
+    <details>
       <summary>Detalhes</summary>
-      - Uniformizei as interfaces, criando um padrão visual coeso.
-      - Centralizei estilos em arquivos CSS reutilizáveis, reduzindo duplicação e facilitando a manutenção do código.
+      - Gerenciei e configurei dados de geolocalização no Oracle, importando tipos específicos para otimizar a eficiência e a solução.  
       <br/>
-      <img src="https://github.com/user-attachments/assets/7860c69f-5c90-471c-9dfd-34e580e41e95" alt="Imagem de interface padronizada" />
-  </details>
+      <img src="https://github.com/user-attachments/assets/237cb4a7-03ce-4759-a3f5-8c20a6af7d19" alt="Configuração de dados Oracle" />
+    </details>
+
+2. **Criação de Componentes e Views:**
+    <details>
+      <summary>Detalhes</summary>
+      - Desenvolvi componentes e views em Vue.js, modelando interfaces conforme as necessidades do cliente e prototipações de telas.  
+      <br/>
+      <img src="https://github.com/user-attachments/assets/7860c69f-5c90-471c-9dfd-34e580e41e95" alt="Criação de componentes Vue.js" />
+    </details>
+
+3. **Integração com REST API:**
+    <details>
+      <summary>Detalhes</summary>
+      - Realizei a integração com a REST API do back-end, adicionando funcionalidades essenciais e modelando os dados para melhor exibição no front-end.  
+      <br/>
+      <img src="https://github.com/user-attachments/assets/bd5aebfc-fef7-4a09-91a1-31fea353530e" alt="Integração com REST API" />
+    </details>
+
 
 ##### **Comunicação com o Cliente**
   <details>
