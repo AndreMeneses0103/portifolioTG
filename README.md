@@ -278,7 +278,7 @@ Atuei amplamente na criação, aprimoramento e padronização da interface do si
 
 Este projeto foi desenvolvido em colaboração com a ITO1, uma empresa especializada em soluções com dados e dispositivos IoT. Sua tecnologia é utilizada para coletar e processar grandes volumes de dados de geolocalização, garantindo escalabilidade, rastreabilidade e alta disponibilidade para consultas em tempo real.
 
-![Imagem do sistema](https://github.com/user-attachments/assets/f04147f3-5d4e-4455-9837-d0b7ecc3e73a)
+![image](https://github.com/user-attachments/assets/c4bd0c47-c557-4758-8b2a-f5b35fbf2006)
 
 #### **Desafio**
 O grande volume de dados gerados por dispositivos IoT exigia um sistema capaz de armazenar, consultar e rastrear geolocalizações de forma eficiente, escalável e com alta disponibilidade, sem comprometer a integridade das informações.
@@ -316,45 +316,28 @@ Atuei amplamente na criação, aprimoramento e padronização da interface do si
       <summary>Detalhes</summary>
       - Gerenciei e configurei dados de geolocalização no Oracle, importando tipos específicos para otimizar a eficiência e a solução.  
       <br/>
-      <img src="https://github.com/user-attachments/assets/237cb4a7-03ce-4759-a3f5-8c20a6af7d19" alt="Configuração de dados Oracle" />
+      <img src="https://github.com/user-attachments/assets/53cc1796-66bb-4303-9f1c-79fa8ab1ba5a" alt="Configuração de dados Oracle" />
     </details>
 
-2. **Criação de Componentes e Views:**
+2. **Criação de Componentes:**
     <details>
       <summary>Detalhes</summary>
-      - Desenvolvi componentes e views em Vue.js, modelando interfaces conforme as necessidades do cliente e prototipações de telas.  
+      - Desenvolvi componentes em Vue.js, modelando elementos primordiais conforme as necessidades do cliente e prototipações de telas.  
       <br/>
-      <img src="https://github.com/user-attachments/assets/7860c69f-5c90-471c-9dfd-34e580e41e95" alt="Criação de componentes Vue.js" />
+      <img src="https://github.com/user-attachments/assets/dc39795f-bb15-472a-a695-3411a3eab0e1" alt="Criação de componentes Vue.js" />
     </details>
-
-3. **Integração com REST API:**
-    <details>
-      <summary>Detalhes</summary>
-      - Realizei a integração com a REST API do back-end, adicionando funcionalidades essenciais e modelando os dados para melhor exibição no front-end.  
-      <br/>
-      <img src="https://github.com/user-attachments/assets/bd5aebfc-fef7-4a09-91a1-31fea353530e" alt="Integração com REST API" />
-    </details>
-
-
-##### **Comunicação com o Cliente**
-  <details>
-    <summary>Detalhes</summary>
-    - Realizei levantamento de requisitos e priorização com o cliente via Slack.
-    - Propus ajustes e melhorias com base no feedback, garantindo alinhamento de expectativas.
-    <br/>
-    <img src="https://github.com/user-attachments/assets/346bedb7-c5ba-4846-82c6-f506749b46e0" alt="Imagem do levantamento de requisitos"/>
-  </details>
-
 
 ---
 
 ### **Hard Skills**
 
-- **JavaScript:** Manipulação de DOM, eventos interativos e integração com APIs.
-- **CSS:** Desenvolvimento de estilos personalizados e reutilizáveis sem frameworks.
-- **HTML:** Estruturação semântica e acessível para páginas web.
-- **Java:** Contribuição na integração com APIs e alinhamento com lógica de negócios.
-- **MySQL:** Modelagem, definição de relacionamentos e realização de consultas.
+- **Java 17:** Desenvolvimento de lógicas de negócio robustas e seguras com recursos modernos da linguagem.  
+- **Spring Boot:** Criação de APIs RESTful e configuração simplificada de serviços com injeção de dependência.  
+- **Spring Security:** Implementação de autenticação, autorização e controle de acesso por perfis de usuário.  
+- **Hibernate:** Mapeamento objeto-relacional (ORM), criação de entidades e consultas com JPQL.  
+- **Oracle:** Criação de tabelas, procedimentos armazenados e consultas SQL otimizadas para grandes volumes de dados.  
+- **Vue.js:** Criação de componentes reutilizáveis, gerenciamento de estado com Pinia e construção de interfaces reativas.  
+- **Figma:** Interpretação e adaptação de protótipos para desenvolvimento de interfaces web funcionais.
 
 ---
 
