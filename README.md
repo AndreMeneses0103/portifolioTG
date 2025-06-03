@@ -32,7 +32,7 @@ Profissional de tecnologia com formação técnica em Informática e cursando Ba
 
 ### Insight 360 - Sistema de Avaliação Educacional (2023/1)
 
-![Imagem do projeto](URL-da-imagem)
+![image](https://github.com/user-attachments/assets/24b12545-1472-4a4f-802d-233d7fb5615d)
 
 #### **Parceria com Fatec São José dos Campos**
 
@@ -68,6 +68,8 @@ Os resultados foram notáveis, com **redução de 70% no tempo necessário para 
   - Criação de telas para cadastro de turmas.  
   - Implementação de visualização de médias.  
   - Desenvolvimento de relatórios finais.  
+  <br/>
+  <img src="https://github.com/user-attachments/assets/157df508-46e8-4d71-883d-3ba03e0685a9" alt="Tela Dashboard" />
 </details>
 
 ##### **Estrutura de Dados**
@@ -75,6 +77,8 @@ Os resultados foram notáveis, com **redução de 70% no tempo necessário para 
   <summary>Detalhes</summary>
   - Organização e manipulação dos arquivos JSON.  
   - Implementação de estrutura modular e escalável.  
+  <br/>
+  <img src="https://github.com/user-attachments/assets/dffc4243-de74-4149-a245-44c6792a35a1" alt="Tela Dashboard" />
 </details>
 
 ---
