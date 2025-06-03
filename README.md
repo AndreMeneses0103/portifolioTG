@@ -271,44 +271,44 @@ Atuei amplamente na criação, aprimoramento e padronização da interface do si
 
 ---
 
-### NextSchema (2024/1)
+### LocalTracker (2024/2)
 
 
-#### Parceria com a Dom Rock
+#### Parceria com a ITO1
 
-Este projeto foi desenvolvido em colaboração com a **Dom Rock**, uma empresa especializada em soluções de processamento de dados em pipeline. Sua tecnologia é amplamente utilizada para processar grandes volumes de dados, gerar insights automatizados e auxiliar a tomada de decisões estratégicas.
+Este projeto foi desenvolvido em colaboração com a ITO1, uma empresa especializada em soluções com dados e dispositivos IoT. Sua tecnologia é utilizada para coletar e processar grandes volumes de dados de geolocalização, garantindo escalabilidade, rastreabilidade e alta disponibilidade para consultas em tempo real.
 
 ![Imagem do sistema](https://github.com/user-attachments/assets/f04147f3-5d4e-4455-9837-d0b7ecc3e73a)
 
 #### **Desafio**
-A configuração manual das fontes de dados era um gargalo no processo de operação da plataforma, demandando muito tempo e expertise técnica, comprometendo a agilidade no atendimento aos clientes.
+O grande volume de dados gerados por dispositivos IoT exigia um sistema capaz de armazenar, consultar e rastrear geolocalizações de forma eficiente, escalável e com alta disponibilidade, sem comprometer a integridade das informações.
 
-#### **Solução Desenvolvida**
-Foi criada uma interface inovadora e automatizada para configuração das fontes de dados, eliminando a necessidade de processos manuais. As principais entregas incluíram:
+#### **Solução Desenvolvida**  
+Foi desenvolvido um sistema que integra registro e consulta de dados de geolocalização de dispositivos, com funcionalidades escaláveis e alta disponibilidade. As principais entregas incluíram:
 
-- **Sistema de Cadastro:** Interfaces para registro de clientes, usuários e soluções.
-- **Upload e Visualização de Dados:** Ferramenta para importar arquivos CSV ou Excel, permitindo visualizar e estruturar os dados.
-- **Dashboard Administrativo:** Painel com métricas quantitativas e análises para gestores.
-- **Mapeamento e Regras de Negócio:** Funcionalidades que automatizam a associação de campos-chave e a aplicação de regras específicas.
-- **Segurança e Auditoria:** Implementação de autenticação, controle de acesso e rastreabilidade de ações no sistema.
+- **Registro de dados do cliente:** Cadastro completo dos usuários e dispositivos.  
+- **Visualização em tempo real:** Exibição dos dispositivos no mapa atualizado ao vivo.  
+- **Filtros de busca:** Pesquisa por intervalo de datas e outros critérios.  
+- **Alertas georreferenciados:** Notificações quando dispositivos saem de áreas demarcadas.  
+- **Rastreabilidade:** Histórico completo e auditável das localizações registradas.  
+- **Gestão de usuários e segurança:** Autenticação e controle de acesso ao sistema.
 
-Os resultados foram notáveis, com maior velocidade na implantação de soluções e menor dependência de técnicos especializados.
+Os resultados foram uma solução escalável com alta disponibilidade, garantindo consultas rápidas e confiáveis, além da rastreabilidade completa dos dados de geolocalização.
 
 #### **Tecnologias Utilizadas**
-- **Java 17:** Linguagem estável e eficiente com suporte de longo prazo.
-- **Spring Boot:** Framework que simplifica o desenvolvimento de APIs e aplicações web.
-- **Spring Security:** Solução para autenticação e autorização.
-- **Hibernate:** ORM para bancos de dados relacionais.
-- **HTML, CSS e JavaScript:** Desenvolvimento de interfaces web interativas e responsivas.
-- **MySQL:** Banco de dados relacional utilizado para gerenciar informações.
-- **Slack e Discord:** Comunicação efetiva entre equipe e cliente.
-- **Jira:** Gerenciamento de tarefas e projetos com metodologias ágeis.
 
-#### **Comunicação com o Cliente**
-A interação com a **Dom Rock** foi conduzida principalmente pelo **Slack**, garantindo alinhamento de requisitos, discussão de melhorias e acompanhamento do progresso.
+- **Java 17:** Versão robusta da linguagem Java, trazendo melhorias em desempenho, novos recursos e suporte prolongado (LTS).  
+- **Spring Boot:** Framework Java que facilita a criação de aplicações, oferecendo configurações automáticas e recursos para desenvolver APIs e serviços.  
+- **Spring Security:** Biblioteca do Spring voltada para implementar autenticação e controle de acesso em aplicações.  
+- **Hibernate:** Ferramenta ORM que permite a comunicação eficiente entre aplicações Java e bancos de dados relacionais.  
+- **Oracle:** Sistema de banco de dados relacional utilizado para armazenar e consultar informações.  
+- **JavaScript:** Linguagem de programação que adiciona interatividade às páginas e aplicações web.
+- **Vue.js:** Framework JavaScript para construção de interfaces dinâmicas e reativas.  
+- **CSS (Cascading Style Sheets):** Linguagem responsável pela formatação visual e design das páginas web.  
+- **Figma:** Plataforma para criação de protótipos e design de interfaces visuais.  
 
 #### **Contribuições Pessoais**
-#### **Atuação como Front-end e Product Owner**
+#### **Atuação como Front-end**
 
 ##### **Desenvolvimento Front-end**
 Atuei amplamente na criação, aprimoramento e padronização da interface do sistema, abordando diversos aspectos:
