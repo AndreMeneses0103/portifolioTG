@@ -15,13 +15,13 @@ Busco o avanço contínuo da minha carreira por meio de desafios complexos que e
 - Email: andremeneses0103@gmail.com  
 - LinkedIn: [linkedin.com/in/andre-meneses-dev](https://www.linkedin.com/in/andre-meneses-dev)  
 - GitHub: [github.com/AndreMeneses0103](https://github.com/AndreMeneses0103)  
-- Portfólio: [andremenesesdev.vercel.app](https://andremenesesdev.vercel.app/)  
+- Website: [andremenesesdev.vercel.app](https://andremenesesdev.vercel.app/)  
 
 ## Conhecimentos Técnicos
 **Linguagens e Frameworks**:
 - Python (scripts, automações e desenvolvimento desktop com Tkinter)
-- Java (aplicações MVC com Spring Boot e interfaces com JavaFX)
-- JavaScript (desenvolvimento de SPAs com VueJS e React)
+- Java (aplicações MVC com Spring Boot)
+- JavaScript (desenvolvimento de páginas e funcionalidades com VueJS e React)
 
 **Bancos de Dados**:
 - SQL (MySQL e PostgreSQL, com criação de queries e modelagem relacional)
