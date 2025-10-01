@@ -1,7 +1,15 @@
 # André Filipe Meneses
 
 ## Sobre Mim
-Profissional de tecnologia com formação técnica em Informática e cursando Banco de Dados na Fatec São José dos Campos. Atuei em projetos acadêmicos e startups, passando por funções como freelancer, estagiário e desenvolvedor júnior, com foco em aplicações web e desktop. Tenho familiaridade com boas práticas de versionamento, organização com metodologias ágeis e colaboração em equipe utilizando ferramentas modernas. Atualmente, sou estagiário na área de Cibersegurança da Johnson & Johnson, onde venho expandindo meu conhecimento técnico e visão estratégica, especialmente em temas como gestão de identidade, segurança de aplicações e automação de processos.
+Meu nome é André Meneses, técnico em Informática pela Universidade do Vale do Paraíba (Univap), concluído em 2022, e atualmente graduando em Banco de Dados pela Faculdade de Tecnologia de São José dos Campos (Fatec-SJC).
+
+Minha trajetória é guiada por uma genuína paixão por lógica, raciocínio estratégico e a resolução prática de problemas, interesses que direcionaram minha escolha profissional e minha evolução na área de tecnologia.
+
+Minha experiência prática foi construída de forma sólida e ascendente. Iniciei atuando como freelancer, onde desenvolvi um sistema de boletim online para a RM Idiomas, consolidando minha base no ciclo de desenvolvimento. Essa experiência abriu portas para posições em startups inovadoras, passando por Estagiário e Desenvolvedor Júnior nas empresas Appstorm e Boostech. Nesses ambientes dinâmicos, adquiri uma experiência sólida em desenvolvimento Full Stack e vivenciei a aplicação de metodologias ágeis, como Scrum, no dia a dia, focando na entrega contínua de valor.
+
+Atualmente, atuo como Estagiário em Segurança da Informação na Johnson & Johnson, onde tenho a oportunidade de aplicar conceitos de cibersegurança na avaliação de novos negócios e projetos da companhia relacionados a terceiros. Minha atuação está centrada na análise e no gerenciamento de riscos cibernéticos associados a essas iniciativas, garantindo que novas parcerias e modelos de operação sejam implementados com conformidade aos padrões de segurança desde o seu estágio inicial.
+
+Busco o avanço contínuo da minha carreira por meio de desafios complexos que exijam a aplicação e a expansão do meu conhecimento. Acredito no aprendizado perpétuo e no desenvolvimento profissional como pilares para um impacto significativo no campo da tecnologia.
 
 ## Contatos
 - Email: andremeneses0103@gmail.com  
