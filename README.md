@@ -1,17 +1,26 @@
-# André Filipe Meneses
+# Trabalho de Graduação - André Filipe Meneses
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/e6de021d-1a19-4697-9b53-93d3ffa4f01c" 
+    alt="My Photo" 
+    width="350" 
+    height="350" 
+  />
+</p>
 
 ## Sobre Mim
 Meu nome é André Meneses, técnico em Informática pela Universidade do Vale do Paraíba (Univap), concluído em 2022, e atualmente graduando em Banco de Dados pela Faculdade de Tecnologia de São José dos Campos (Fatec-SJC).
 
 Minha trajetória é guiada por uma genuína paixão por lógica, raciocínio estratégico e a resolução prática de problemas, interesses que direcionaram minha escolha profissional e minha evolução na área de tecnologia.
 
-Minha experiência prática foi construída de forma sólida e ascendente. Iniciei atuando como freelancer, onde desenvolvi um sistema de boletim online para a RM Idiomas, consolidando minha base no ciclo de desenvolvimento. Essa experiência abriu portas para posições em startups inovadoras, passando por Estagiário e Desenvolvedor Júnior nas empresas Appstorm e Boostech. Nesses ambientes dinâmicos, adquiri uma experiência sólida em desenvolvimento Full Stack e vivenciei a aplicação de metodologias ágeis, como Scrum, no dia a dia, focando na entrega contínua de valor.
+Minha experiência prática foi construída de forma sólida e ascendente. Iniciei atuando como freelancer, onde desenvolvi um sistema de boletim online para a RM Idiomas, consolidando minha base no ciclo de desenvolvimento. Essa experiência abriu portas para posições em startups inovadoras, passando por Estagiário e Desenvolvedor Júnior nas empresas Appstorm e Boostech. Nesses ambientes dinâmicos, adquiri uma experiência sólida em desenvolvimento Full Stack e vivenciei a aplicação de metodologias ágeis como Scrum e foco na entrega contínua de valor.
 
 Atualmente, atuo como Estagiário em Segurança da Informação na Johnson & Johnson, onde tenho a oportunidade de aplicar conceitos de cibersegurança na avaliação de novos negócios e projetos da companhia relacionados a terceiros. Minha atuação está centrada na análise e no gerenciamento de riscos cibernéticos associados a essas iniciativas, garantindo que novas parcerias e modelos de operação sejam implementados com conformidade aos padrões de segurança desde o seu estágio inicial.
 
 Busco o avanço contínuo da minha carreira por meio de desafios complexos que exijam a aplicação e a expansão do meu conhecimento. Acredito no aprendizado perpétuo e no desenvolvimento profissional como pilares para um impacto significativo no campo da tecnologia.
 
-## Contatos
+## Contatos e Links
 - Email: andremeneses0103@gmail.com  
 - LinkedIn: [linkedin.com/in/andre-meneses-dev](https://www.linkedin.com/in/andre-meneses-dev)  
 - GitHub: [github.com/AndreMeneses0103](https://github.com/AndreMeneses0103)  
@@ -19,13 +28,16 @@ Busco o avanço contínuo da minha carreira por meio de desafios complexos que e
 
 ## Conhecimentos Técnicos
 **Linguagens e Frameworks**:
-- Python (scripts, automações e desenvolvimento desktop com Tkinter)
-- Java (aplicações MVC com Spring Boot)
-- JavaScript (desenvolvimento de páginas e funcionalidades com VueJS e React)
+- VueJS e React (desenvolvimento de páginas e funcionalidades em sistemas Web)
+- Java (aplicações MVC com Spring Boot e desenvolvimento desktop)
+- Python (scripts, automações, desenvolvimento desktop e APIs Rest)
 
 **Bancos de Dados**:
+Relacionais:
 - SQL (MySQL e PostgreSQL, com criação de queries e modelagem relacional)
+Não relacionais:
 - MongoDB (uso em projetos que exigem flexibilidade de dados)
+- Redis (uso em projetos que exigem velocidade e uso de dados repetidos)
 
 **Ferramentas**:
 - Git/GitHub (controle de versão, branches, pull requests e integração com Jira)
@@ -33,8 +45,8 @@ Busco o avanço contínuo da minha carreira por meio de desafios complexos que e
 - Figma (prototipagem de interfaces e validação com usuários)
 
 **Metodologias**:
-- Scrum  (experiência prática em projetos com sprints, dailies e reviews)
-- Desenvolvimento Ágil (entregas incrementais, feedback contínuo e foco em valor ao usuário)
+- Scrum (experiência prática em projetos com sprints, dailies e reviews)
+- Desenvolvimento Ágil (entregas incrementais, feedback contínuo e foco em valor ao cliente)
 
 ## Projetos Acadêmicos
 
@@ -42,50 +54,51 @@ Busco o avanço contínuo da minha carreira por meio de desafios complexos que e
 
 ![image](https://github.com/user-attachments/assets/24b12545-1472-4a4f-802d-233d7fb5615d)
 
-#### **Parceria com Fatec São José dos Campos**
+#### **Parceria**
 
-Este projeto foi desenvolvido para a **coordenação do curso de Banco de Dados** da Fatec São José dos Campos. O objetivo foi automatizar os processos avaliativos da instituição, reduzindo o uso de planilhas manuais e aumentando a confiabilidade das informações.
+Este projeto foi desenvolvido em parceria com o corpo docente da Fatec São José dos Campos, com o objetivo de criar um sistema de avaliação 360° voltado à gestão e ao aprimoramento do desempenho em equipes. A solução oferece recursos de gerenciamento de pessoas e times, autoavaliação, padronização de critérios de avaliação e hierarquia de permissões, proporcionando maior transparência, consistência e eficiência nos processos de feedback e desenvolvimento profissional.
 
 #### **Desafio**
 
-A gestão avaliativa era baseada em planilhas manuais, o que demandava tempo, aumentava a chance de erros e dificultava a centralização das informações. Era necessário garantir consistência nas avaliações e gerar relatórios mais rápidos e confiáveis.
+Antes do desenvolvimento do sistema, a gestão avaliativa era conduzida por meio de planilhas manuais, um processo que consumia muito tempo, aumentava a probabilidade de erros e dificultava a centralização e o acesso às informações. Havia uma necessidade clara de assegurar consistência nas avaliações, otimizar a coleta de dados e possibilitar a geração de relatórios de forma mais ágil, precisa e confiável, garantindo tomadas de decisão mais fundamentadas e estratégicas.
 
 #### **Solução Desenvolvida**
 
-Foi criada uma aplicação desktop para automatizar a coleta, o processamento e a apresentação de dados avaliativos. As principais entregas incluíram:
+Foi desenvolvida uma aplicação desktop com o objetivo de aprimorar todo o processo de coleta, processamento e apresentação de dados avaliativos, proporcionando maior eficiência e confiabilidade nas avaliações. As principais entregas do projeto incluíram:
 
-- **Interface Gráfica com TKinter:** Navegação intuitiva para o usuário.  
-- **Armazenamento em JSON:** Estrutura organizada e escalável.  
-- **Algoritmos de Cálculo de Desempenho:** Cálculo automático de médias e avaliações.  
-- **Geração de Relatórios Consolidados:** Exportação das informações finais em formato legível e estruturado.
+- **Interface Gráfica com TKinter:** Oferecendo uma navegação intuitiva e amigável, facilitando a interação do usuário com o sistema.
+- **Armazenamento em JSON:** Estrutura de dados organizada, escalável e de fácil manutenção, permitindo centralização e acesso rápido às informações.  
+- **Algoritmos de Cálculo de Desempenho:** Processamento automático das avaliações, incluindo médias e indicadores de desempenho, reduzindo erros humanos. 
+- **Geração de Relatórios Consolidados:** Exportação de informações em formatos claros e estruturados, garantindo relatórios confiáveis e de fácil interpretação.
 
 Os resultados foram notáveis, com **redução de 70% no tempo necessário para avaliações**, **maior organização dos dados** e **relatórios gerados automaticamente com maior confiabilidade**.
 
 #### **Tecnologias Utilizadas**
 
-- **Python 3.11:** Linguagem principal utilizada para desenvolvimento.  
-- **TKinter:** Framework para construção da interface gráfica.  
-- **JSON:** Utilizado como base de dados local, simulando persistência.  
-- **Git/GitHub:** Controle de versão e colaboração no código.
+- **Python:** Linguagem principal utilizada no desenvolvimento, responsável pelo processamento de dados e lógica do sistema. 
+- **TKinter:** Framework empregado na construção da interface gráfica, garantindo uma navegação intuitiva e interação amigável para o usuário.
+- **Matplotlib:** Biblioteca utilizada para a criação de gráficos a partir dos dados, oferecendo uma forma visual aprimorada de apresentar feedbacks e análises de desempenho.
+- **JSON:** Utilizado como base de dados local, permitindo armazenamento estruturado, centralizado e persistência simulada das informações. 
+- **Git/GitHub:** Ferramentas de controle de versão e colaboração, assegurando gerenciamento eficiente do código e histórico de alterações.
 
 #### **Contribuições Pessoais**
 
 ##### **Desenvolvimento de Telas**
 <details>
   <summary>Detalhes</summary>
-  - Criação de telas para cadastro de turmas.  
-  - Implementação de visualização de médias.  
-  - Desenvolvimento de relatórios finais.  
   <br/>
+  <b>Criação de telas para cadastro de turmas:</b> Desenvolvimento de interfaces intuitivas que permitem o registro e gerenciamento eficiente das turmas.<br/><br/>
+  <b>Implementação de visualização de médias:</b> Construção de recursos visuais para acompanhamento e análise de desempenho, facilitando a interpretação dos dados.<br/><br/>
+  <b>Desenvolvimento de relatórios finais:</b> Geração de relatórios estruturados e claros, consolidando informações essenciais para tomada de decisão e feedbacks aprimorados.<br/><br/>
   <img src="https://github.com/user-attachments/assets/157df508-46e8-4d71-883d-3ba03e0685a9" alt="Tela Dashboard" />
 </details>
 
 ##### **Estrutura de Dados**
 <details>
   <summary>Detalhes</summary>
-  - Organização e manipulação dos arquivos JSON.  
-  - Implementação de estrutura modular e escalável.  
   <br/>
+  <b>Organização e manipulação dos arquivos JSON:</b> Estruturação e gerenciamento eficiente dos dados, garantindo consistência, acessibilidade e manutenção simplificada.<br/><br/>
+  <b>Implementação de estrutura modular e escalável:</b> Desenvolvimento de código organizado em módulos, facilitando a expansão do sistema e a integração de novas funcionalidades.<br/><br/>
   <img src="https://github.com/user-attachments/assets/dffc4243-de74-4149-a245-44c6792a35a1" alt="Tela Dashboard" />
 </details>
 
@@ -93,17 +106,18 @@ Os resultados foram notáveis, com **redução de 70% no tempo necessário para 
 
 ### **Hard Skills**
 
-- **Python:** Manipulação de arquivos, estrutura de dados e cálculos.  
-- **TKinter:** Desenvolvimento de interfaces gráficas simples e funcionais.  
-- **JSON:** Estruturação, leitura e escrita de dados em formato leve.  
-- **Git/GitHub:** Versionamento, commits frequentes e uso de branches.  
+- **Python:** Experiência em manipulação de arquivos, estruturas de dados e implementação de cálculos automáticos, com foco em soluções eficientes e confiáveis.  
+- **TKinter:** Desenvolvimento de interfaces gráficas intuitivas e funcionais, proporcionando uma experiência amigável para o usuário.  
+- **JSON:** Estruturação, leitura e escrita de dados em formato leve, garantindo organização, centralização e persistência das informações.  
+- **Git/GitHub:** Controle de versão, gerenciamento de branches e commits frequentes, facilitando a colaboração e manutenção de projetos.
+  
 
 ### **Soft Skills**
 
-- **Organização:** Estruturação clara do código e dados.  
-- **Comunicação:** Alinhamento constante com a coordenação do curso.  
-- **Proatividade:** Identificação de gargalos no processo manual e proposta de solução digital.  
-
+- **Organização:** Capacidade de estruturar código, dados e processos de forma clara e eficiente, facilitando manutenção e escalabilidade.  
+- **Comunicação:** Habilidade em manter alinhamento constante com equipes e coordenação, garantindo entendimento e execução eficaz das demandas. 
+- **Proatividade:** Identificação de gargalos e oportunidades de melhoria, propondo soluções digitais que aumentam a eficiência e reduzem erros.
+- **Colaboração:** Auxílio proativo a colegas com menor familiaridade, promovendo aprendizado e fortalecimento da equipe.
 
 ---
 
