@@ -303,7 +303,7 @@ Este projeto foi desenvolvido em colaboração com a ITO1, uma empresa especiali
 ![image](https://github.com/user-attachments/assets/c4bd0c47-c557-4758-8b2a-f5b35fbf2006)
 
 #### **Desafio**
-O grande volume de dados gerados por dispositivos IoT exigia um sistema capaz de armazenar, consultar e rastrear geolocalizações de forma eficiente, escalável e com alta disponibilidade, sem comprometer a integridade das informações.
+O cliente, na utilização do sistema Taiga, enfrentava dificuldades pela ausência de um espaço centralizado que permitisse visualizar os indicadores dos projetos e acompanhar as atividades. Além disso, a falta de um controle de acesso por nível de usuário comprometia a organização das informações e tornava o processo de decisão menos eficiente.
 
 #### **Solução Desenvolvida**  
 Foi desenvolvido um sistema que integra registro e consulta de dados de geolocalização de dispositivos, com funcionalidades escaláveis e alta disponibilidade. As principais entregas incluíram:
@@ -331,6 +331,86 @@ Os resultados foram uma solução escalável com alta disponibilidade, garantind
 
 #### **Contribuições Pessoais**
 #### **Atuação como Front-end e Back-End**
+Atuei amplamente na criação, aprimoramento e padronização da interface do sistema, abordando diversos aspectos:
+
+1. **Gerenciamento e Configuração de Dados:**
+    <details>
+      <summary>Detalhes</summary>
+      - Gerenciei e configurei dados de geolocalização no Oracle, importando tipos específicos para otimizar a eficiência e a solução.  
+      <br/>
+      <img src="https://github.com/user-attachments/assets/53cc1796-66bb-4303-9f1c-79fa8ab1ba5a" alt="Configuração de dados Oracle" />
+    </details>
+
+2. **Criação de Componentes:**
+    <details>
+      <summary>Detalhes</summary>
+      - Desenvolvi componentes em Vue.js, modelando elementos primordiais conforme as necessidades do cliente e prototipações de telas.  
+      <br/>
+      <img src="https://github.com/user-attachments/assets/dc39795f-bb15-472a-a695-3411a3eab0e1" alt="Criação de componentes Vue.js" />
+    </details>
+
+---
+
+### **Hard Skills**
+
+- **Java 17:** Desenvolvimento de lógicas de negócio robustas e seguras com recursos modernos da linguagem.  
+- **Spring Boot:** Criação de APIs RESTful e configuração simplificada de serviços com injeção de dependência.  
+- **Spring Security:** Implementação de autenticação, autorização e controle de acesso por perfis de usuário.  
+- **Hibernate:** Mapeamento objeto-relacional (ORM), criação de entidades e consultas com JPQL.  
+- **Oracle:** Criação de tabelas, procedimentos armazenados e consultas SQL otimizadas para grandes volumes de dados.  
+- **Vue.js:** Criação de componentes reutilizáveis, gerenciamento de estado com Pinia e construção de interfaces reativas.  
+- **Figma:** Interpretação e adaptação de protótipos para desenvolvimento de interfaces web funcionais.
+
+---
+
+### **Soft Skills**
+- **Comunicação:** Habilidade em negociar, apresentar resultados e alinhar expectativas.
+- **Organização:** Estruturação de tarefas e priorização conforme prazos e relevância.
+- **Adaptabilidade:** Flexibilidade para lidar com mudanças e novas demandas.
+- **Resolução de Problemas:** Soluções criativas e eficientes para desafios técnicos.
+- **Proatividade:** Identificação de melhorias e ações rápidas para evitar atrasos.
+
+---
+
+### Stratify (2025/1)
+
+
+#### Parceria com a Youtan
+
+Este projeto foi desenvolvido em colaboração com a Youtan, uma empresa especializada no desenvolvimento de sistemas web. 
+
+<img width="400" height="157" alt="logo-youtan" src="https://github.com/user-attachments/assets/166189a1-d80d-48e1-809d-96ca406f8ec4" />
+
+
+#### **Desafio**
+O grande volume de dados gerados por dispositivos IoT exigia um sistema capaz de armazenar, consultar e rastrear geolocalizações de forma eficiente, escalável e com alta disponibilidade, sem comprometer a integridade das informações.
+
+#### **Solução Desenvolvida**  
+O Stratify foi desenvolvido como uma solução integrada ao Taiga, voltada para tornar a análise de projetos mais clara e acessível. A plataforma reúne informações em painéis visuais e permite definir diferentes níveis de permissão, garantindo que cada perfil de usuário acompanhasse o andamento das atividades de acordo com sua função.
+
+- **Dashboard Interativo:** visualização dinâmica dos indicadores dos projetos.
+- **ETL integrado ao Taiga:** extração, transformação e carregamento de dados de forma automática.
+- **Modelo Data Warehouse:** estrutura organizada para armazenamento e consulta eficiente de informações.
+- **Exportação de dados em CSVs:** possibilidade de gerar relatórios e planilhas para análise externa.
+- **Responsividade:** interface adaptável a diferentes dispositivos, garantindo acesso prático em qualquer tela.  
+- **Gestão de usuários e segurança:** Autenticação e controle de acesso ao sistema.
+
+A implementação do Stratify trouxe maior clareza na gestão dos projetos, agilidade nas decisões e fortalecimento da colaboração entre os membros da equipe.
+
+#### **Tecnologias Utilizadas**
+
+- **Python:** Linguagem utilizada para desenvolver o ETL, permitindo extrair, transformar e carregar dados de forma automatizada.
+- **Java 17:** Linguagem de programação utilizada para desenvolver aplicações robustas e escaláveis.  
+- **Spring Boot:** Framework que agiliza a construção de aplicações Java, oferecendo configuração automática e recursos prontos para APIs e serviços.
+- **Spring Security:** Ferramenta do Spring para gerenciar autenticação e definir permissões de acesso em sistemas.
+- **JavaScript:** Linguagem base que adiciona dinamismo, interatividade e lógica às páginas e aplicações web.
+- **Vue.js:** Framework JavaScript voltado para criar interfaces interativas e reativas de forma eficiente.  
+- **CSS (Cascading Style Sheets):** Linguagem usada para definir aparência, layout e estilo visual de sites e aplicações.
+- **PostgreSQL:** Banco de dados relacional para armazenar e consultar informações de forma organizada e confiável.
+- **Figma:** Plataforma para criar protótipos e designs de interfaces visuais de maneira colaborativa.
+
+#### **Contribuições Pessoais**
+#### **Atuação como Front-end**
 Atuei amplamente na criação, aprimoramento e padronização da interface do sistema, abordando diversos aspectos:
 
 1. **Gerenciamento e Configuração de Dados:**
