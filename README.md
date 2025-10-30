@@ -303,7 +303,7 @@ Este projeto foi desenvolvido em colaboração com a ITO1, uma empresa especiali
 ![image](https://github.com/user-attachments/assets/c4bd0c47-c557-4758-8b2a-f5b35fbf2006)
 
 #### **Desafio**
-O cliente, na utilização do sistema Taiga, enfrentava dificuldades pela ausência de um espaço centralizado que permitisse visualizar os indicadores dos projetos e acompanhar as atividades. Além disso, a falta de um controle de acesso por nível de usuário comprometia a organização das informações e tornava o processo de decisão menos eficiente.
+O grande volume de dados gerados por dispositivos IoT exigia um sistema capaz de armazenar, consultar e rastrear geolocalizações de forma eficiente, escalável e com alta disponibilidade, sem comprometer a integridade das informações.
 
 #### **Solução Desenvolvida**  
 Foi desenvolvido um sistema que integra registro e consulta de dados de geolocalização de dispositivos, com funcionalidades escaláveis e alta disponibilidade. As principais entregas incluíram:
@@ -383,7 +383,7 @@ Este projeto foi desenvolvido em colaboração com a Youtan, uma empresa especia
 
 
 #### **Desafio**
-O grande volume de dados gerados por dispositivos IoT exigia um sistema capaz de armazenar, consultar e rastrear geolocalizações de forma eficiente, escalável e com alta disponibilidade, sem comprometer a integridade das informações.
+O cliente, na utilização do sistema Taiga, enfrentava dificuldades pela ausência de um espaço centralizado que permitisse visualizar os indicadores dos projetos e acompanhar as atividades. Além disso, a falta de um controle de acesso por nível de usuário comprometia a organização das informações e tornava o processo de decisão menos eficiente.
 
 #### **Solução Desenvolvida**  
 O Stratify foi desenvolvido como uma solução integrada ao Taiga, voltada para tornar a análise de projetos mais clara e acessível. A plataforma reúne informações em painéis visuais e permite definir diferentes níveis de permissão, garantindo que cada perfil de usuário acompanhasse o andamento das atividades de acordo com sua função.
@@ -417,7 +417,8 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
   <br/>
   <b>Desenvolvimento da API Rest em MVC:</b> Desenvolvimento de Repositories, Services e Controllers observando as regras de negócio e boas práticas de codificação<br/><br/>
   <b>Implementação de testes unitários:</b> Construção de testes unitários automatizados para garantir a qualidade do sistema.<br/><br/>
-  <img src="https://github.com/user-attachments/assets/157df508-46e8-4d71-883d-3ba03e0685a9" alt="Tela Dashboard" />
+  <img width="584" height="466" alt="image" src="https://github.com/user-attachments/assets/a18165c0-9477-402f-b6a8-1da44eb57590" alt="Teste"/>
+
 </details>
 
 ##### **Desenvolvimento Front End**
@@ -428,7 +429,8 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
   <b>Padronização da Arquitetura:</b> Planejamento da arquitetura utilizada no sistema, sendo dividida em Views, Components e Services. Com objetivo de garantir qualidade e organização no desenvolvimento do projeto.<br/><br/>
   <b>Responsividade e estilização:</b> Implementação de estilizações organizadas e técnicas para tornar o sistema utilizável em dispositivos Desktop e Mobile<br/><br/>
   <b>Conexão com Back End e Assincronia:</b> Desenvolvimento de lógicas para enviar e receber dados do Back End, com métodos assíncronos para garantir qualidade e eficiência no uso do sistema.<br/><br/>
-  <img src="https://github.com/user-attachments/assets/157df508-46e8-4d71-883d-3ba03e0685a9" alt="Tela Dashboard" />
+  <img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/9ca94e93-28ee-45c0-be6b-68dc2b7f3230" alt="Tela Dashboard"/>
+
 </details>
 
 ##### **DevOps**
@@ -439,7 +441,8 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
   <b>Implementação da rastreabilidade:</b> Criação de ciclo para rastrear todas as entregas relacionando-as com os requisitos levantados.<br/><br/>
   <b>Jira:</b> Ligação da plataforma Jira com Github para automatizar o rastreamento de commits/branches e liga-los nos requisitos.<br/><br/>
   <b>Pre-Commit:</b> Implementação da ferramenta para estabelecer padrões na abertura de commits.<br/><br/>
-  <img src="https://github.com/user-attachments/assets/157df508-46e8-4d71-883d-3ba03e0685a9" alt="Tela Dashboard" />
+  <img width="1243" height="648" alt="image" src="https://github.com/user-attachments/assets/8f26ddd4-6d19-4418-a4a0-2da68fec2629" alt="Documento Requisitos"/>
+
 </details>
 
 ---
