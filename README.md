@@ -410,24 +410,26 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
 - **Figma:** Plataforma para criar protótipos e designs de interfaces visuais de maneira colaborativa.
 
 #### **Contribuições Pessoais**
-#### **Atuação como Front-end**
-Atuei amplamente na criação, aprimoramento e padronização da interface do sistema, abordando diversos aspectos:
 
-1. **Gerenciamento e Configuração de Dados:**
-    <details>
-      <summary>Detalhes</summary>
-      - Gerenciei e configurei dados de geolocalização no Oracle, importando tipos específicos para otimizar a eficiência e a solução.  
-      <br/>
-      <img src="https://github.com/user-attachments/assets/53cc1796-66bb-4303-9f1c-79fa8ab1ba5a" alt="Configuração de dados Oracle" />
-    </details>
+##### **Desenvolvimento Back End**
+<details>
+  <summary>Detalhes</summary>
+  <br/>
+  <b>Desenvolvimento da API Rest em MVC:</b> Desenvolvimento de Repositories, Services e Controllers observando as regras de negócio e boas práticas de codificação<br/><br/>
+  <b>Implementação de testes unitários:</b> Construção de testes unitários automatizados para garantir a qualidade do sistema.<br/><br/>
+  <img src="https://github.com/user-attachments/assets/157df508-46e8-4d71-883d-3ba03e0685a9" alt="Tela Dashboard" />
+</details>
 
-2. **Criação de Componentes:**
-    <details>
-      <summary>Detalhes</summary>
-      - Desenvolvi componentes em Vue.js, modelando elementos primordiais conforme as necessidades do cliente e prototipações de telas.  
-      <br/>
-      <img src="https://github.com/user-attachments/assets/dc39795f-bb15-472a-a695-3411a3eab0e1" alt="Criação de componentes Vue.js" />
-    </details>
+##### **Desenvolvimento Front End**
+<details>
+  <summary>Detalhes</summary>
+  <br/>
+  <b>Criação de Componentes:</b> Desenvolvimento de diversos componentes e páginas baseadas em protótipos construidos e requisitos do cliente<br/><br/>
+  <b>Padronização da Arquitetura:</b> Planejamento da arquitetura utilizada no sistema, sendo dividida em Views, Components e Services. Com objetivo de garantir qualidade e organização no desenvolvimento do projeto.<br/><br/>
+  <b>Responsividade e estilização:</b> Implementação de estilizações organizadas e técnicas para tornar o sistema utilizável em dispositivos Desktop e Mobile<br/><br/>
+  <b>Conexão com Back End e Assincronia:</b> Desenvolvimento de lógicas para enviar e receber dados do Back End, com métodos assíncronos para garantir qualidade e eficiência no uso do sistema.<br/><br/>
+  <img src="https://github.com/user-attachments/assets/157df508-46e8-4d71-883d-3ba03e0685a9" alt="Tela Dashboard" />
+</details>
 
 ---
 
