@@ -33,9 +33,12 @@ Busco o avanço contínuo da minha carreira por meio de desafios complexos que e
 - Python (scripts, automações, desenvolvimento desktop e APIs Rest)
 
 **Bancos de Dados**:
+
 Relacionais:
 - SQL (MySQL e PostgreSQL, com criação de queries e modelagem relacional)
+
 Não relacionais:
+<br/>
 - MongoDB (uso em projetos que exigem flexibilidade de dados)
 - Redis (uso em projetos que exigem velocidade e uso de dados repetidos)
 
@@ -56,7 +59,7 @@ Não relacionais:
 
 #### **Parceria**
 
-Este projeto foi desenvolvido em parceria com o corpo docente da Fatec São José dos Campos, com o objetivo de criar um sistema de avaliação 360° voltado à gestão e ao aprimoramento do desempenho em equipes. A solução oferece recursos de gerenciamento de pessoas e times, autoavaliação, padronização de critérios de avaliação e hierarquia de permissões, proporcionando maior transparência, consistência e eficiência nos processos de feedback e desenvolvimento profissional.
+Este projeto foi desenvolvido em parceria com o corpo docente da Fatec São José dos Campos, com o objetivo de criar um sistema de avaliação 360° voltado à gestão e ao aprimoramento do desempenho em equipes.
 
 #### **Desafio**
 
@@ -64,7 +67,7 @@ Antes do desenvolvimento do sistema, a gestão avaliativa era conduzida por meio
 
 #### **Solução Desenvolvida**
 
-Foi desenvolvida uma aplicação desktop com o objetivo de aprimorar todo o processo de coleta, processamento e apresentação de dados avaliativos, proporcionando maior eficiência e confiabilidade nas avaliações. As principais entregas do projeto incluíram:
+Foi desenvolvida uma aplicação desktop com o objetivo de aprimorar todo o processo de coleta, processamento e apresentação de dados avaliativos. A solução oferece recursos de gerenciamento de pessoas e times, autoavaliação, padronização de critérios de avaliação e hierarquia de permissões, proporcionando maior transparência, consistência e eficiência nos processos de feedback e desenvolvimento profissional. As principais entregas do projeto incluíram:
 
 - **Interface Gráfica com TKinter:** Oferecendo uma navegação intuitiva e amigável, facilitando a interação do usuário com o sistema.
 - **Armazenamento em JSON:** Estrutura de dados organizada, escalável e de fácil manutenção, permitindo centralização e acesso rápido às informações.  
@@ -83,7 +86,7 @@ Os resultados foram notáveis, com **redução de 70% no tempo necessário para 
 
 #### **Contribuições Pessoais**
 
-##### **Desenvolvimento de Telas**
+##### **Desenvolvimento Front End**
 <details>
   <summary>Detalhes</summary>
   <br/>
@@ -93,7 +96,7 @@ Os resultados foram notáveis, com **redução de 70% no tempo necessário para 
   <img src="https://github.com/user-attachments/assets/157df508-46e8-4d71-883d-3ba03e0685a9" alt="Tela Dashboard" />
 </details>
 
-##### **Estrutura de Dados**
+##### **Desenvolvimento Back End**
 <details>
   <summary>Detalhes</summary>
   <br/>
@@ -131,7 +134,7 @@ Plataforma desktop desenvolvida para a **gestão e acompanhamento de Trabalhos d
 
 #### **Desafio**
 
-O processo de avaliação de TG enfrentava dificuldades no acompanhamento de prazos, falta de centralização das informações e uma burocracia excessiva. Essas limitações comprometiam a agilidade das análises, geravam retrabalho e dificultavam a tomada de decisões com base em dados atualizados.
+Antes da implementação de melhorias no processo, a gestão dos Trabalhos de Graduação apresentava entraves relacionados ao acompanhamento de prazos, à ausência de uma estrutura centralizada para organização das informações e a fluxos administrativos excessivamente burocráticos. Esse cenário impactava diretamente a eficiência das análises, gerando retrabalho, atrasos e dificultando a obtenção de dados atualizados que subsidiassem decisões mais assertivas e bem fundamentadas.
 
 #### **Solução Desenvolvida**
 
