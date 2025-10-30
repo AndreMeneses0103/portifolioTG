@@ -431,17 +431,26 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
   <img src="https://github.com/user-attachments/assets/157df508-46e8-4d71-883d-3ba03e0685a9" alt="Tela Dashboard" />
 </details>
 
+##### **DevOps**
+<details>
+  <summary>Detalhes</summary>
+  <br/>
+  <b>Documento de requisitos:</b> Criação e manutenção do documento oficial de requisitos funcionais e não funcionais.<br/><br/>
+  <b>Implementação da rastreabilidade:</b> Criação de ciclo para rastrear todas as entregas relacionando-as com os requisitos levantados.<br/><br/>
+  <b>Jira:</b> Ligação da plataforma Jira com Github para automatizar o rastreamento de commits/branches e liga-los nos requisitos.<br/><br/>
+  <b>Pre-Commit:</b> Implementação da ferramenta para estabelecer padrões na abertura de commits.<br/><br/>
+  <img src="https://github.com/user-attachments/assets/157df508-46e8-4d71-883d-3ba03e0685a9" alt="Tela Dashboard" />
+</details>
+
 ---
 
 ### **Hard Skills**
 
 - **Java 17:** Desenvolvimento de lógicas de negócio robustas e seguras com recursos modernos da linguagem.  
-- **Spring Boot:** Criação de APIs RESTful e configuração simplificada de serviços com injeção de dependência.  
-- **Spring Security:** Implementação de autenticação, autorização e controle de acesso por perfis de usuário.  
-- **Hibernate:** Mapeamento objeto-relacional (ORM), criação de entidades e consultas com JPQL.  
-- **Oracle:** Criação de tabelas, procedimentos armazenados e consultas SQL otimizadas para grandes volumes de dados.  
-- **Vue.js:** Criação de componentes reutilizáveis, gerenciamento de estado com Pinia e construção de interfaces reativas.  
-- **Figma:** Interpretação e adaptação de protótipos para desenvolvimento de interfaces web funcionais.
+- **Spring Boot:** Criação de APIs RESTful no modelo MVC. 
+- **Vue.js:** Criação de componentes reutilizáveis, organização da arquitetura e integração com Back End.
+- **CSS:** Implementação da estilização com foco na responsividade.  
+- **Figma:** Criação, interpretação e adaptação de protótipos para desenvolvimento de interfaces web funcionais.
 
 ---
 
