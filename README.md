@@ -446,17 +446,17 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
 
 ### **Hard Skills**
 
-- **Java 17:** Desenvolvimento de lógicas de negócio robustas e seguras com recursos modernos da linguagem.  
+- **Java:** Desenvolvimento de lógicas de negócio robustas e seguras com recursos modernos da linguagem.  
 - **Spring Boot:** Criação de APIs RESTful no modelo MVC. 
 - **Vue.js:** Criação de componentes reutilizáveis, organização da arquitetura e integração com Back End.
 - **CSS:** Implementação da estilização com foco na responsividade.  
 - **Figma:** Criação, interpretação e adaptação de protótipos para desenvolvimento de interfaces web funcionais.
+- **Jira:** Utilização de funcionalidades adicionais da ferramenta e conexão com plataformas externas.  
 
 ---
 
 ### **Soft Skills**
-- **Comunicação:** Habilidade em negociar, apresentar resultados e alinhar expectativas.
-- **Organização:** Estruturação de tarefas e priorização conforme prazos e relevância.
-- **Adaptabilidade:** Flexibilidade para lidar com mudanças e novas demandas.
-- **Resolução de Problemas:** Soluções criativas e eficientes para desafios técnicos.
-- **Proatividade:** Identificação de melhorias e ações rápidas para evitar atrasos.
+- **Método e Estrutura:** Capacidade de compreender o projeto como um todo, conectando processos e requisitos de forma organizada. Atua na definição clara de objetivos e fluxos, garantindo coerência entre as etapas e alinhamento com o propósito final do sistema.
+- **Autonomia:** Execução de tarefas de forma independente, com responsabilidade e capacidade de tomada de decisão fundamentada.
+- **Atenção aos detalhes:** Cuidado minucioso na análise, codificação e revisão, prevenindo falhas e garantindo consistência nas soluções.
+- **Gestão de conhecimento:** Organização e compartilhamento de aprendizados, documentações e insights que fortalecem a equipe e o projeto.
