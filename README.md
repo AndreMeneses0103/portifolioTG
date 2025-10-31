@@ -130,7 +130,7 @@ Os resultados foram notáveis, com **redução de 70% no tempo necessário para 
 
 #### **Parceria com Fatec São José dos Campos**
 
-Plataforma desktop desenvolvida para a **gestão e acompanhamento de Trabalhos de Conclusão de Curso (TCCs)** da Fatec São José dos Campos. O objetivo era modernizar o fluxo de acompanhamento e avaliação dos projetos finais dos alunos.
+Plataforma desktop desenvolvida para a **gestão e acompanhamento de Trabalhos de Conclusão de Curso (TCCs)** da Fatec São José dos Campos. O objetivo foi modernizar o fluxo de acompanhamento e avaliação dos projetos finais dos alunos.
 
 #### **Desafio**
 
@@ -138,21 +138,21 @@ Antes da implementação de melhorias no processo, a gestão dos Trabalhos de Gr
 
 #### **Solução Desenvolvida**
 
-Foi criada uma plataforma desktop com funcionalidades voltadas à automação e controle dos TCCs. As principais entregas foram:
+Foi desenvolvida uma plataforma desktop com o propósito de automatizar e otimizar a gestão dos Trabalhos de Conclusão de Curso, centralizando informações e simplificando o acompanhamento das etapas do processo. A solução foi estruturada para oferecer maior praticidade, segurança e integração entre alunos, professores e coordenação, assegurando um fluxo mais organizado e eficiente. As principais entregas do projeto contemplaram:
 
-- **Interface com JavaFX:** Navegação intuitiva e responsiva.  
-- **Banco de dados MySQL:** Armazenamento persistente e seguro das informações.  
-- **Sistema de Upload de Arquivos:** Facilita o envio de documentos por alunos e professores.  
-- **Geração Automática de Relatórios:** Resumo e status dos projetos exportáveis.
+- **Interface com JavaFX:** Proporcionando uma navegação intuitiva, moderna e responsiva, que facilita a interação do usuário com o sistema. 
+- **Banco de dados MySQL:** Garantindo armazenamento persistente, estruturado e seguro das informações acadêmicas.
+- **Sistema de Upload de Arquivos:** Permitindo o envio ágil e controlado de documentos, otimizando a troca de materiais entre alunos e professores.
+- **Geração Automática de Relatórios:** Viabilizando a criação de resumos e status de projetos em formatos exportáveis, assegurando transparência e rastreabilidade das informações.
 
-Os resultados incluíram **melhor acompanhamento por parte da coordenação**, **redução do uso de planilhas manuais** e **facilidade na geração de relatórios consolidados**, o que representou um **aumento significativo na eficiência do processo avaliativo**.
+A implementação da plataforma resultou em maior controle e visibilidade das atividades pela coordenação, eliminação de processos manuais baseados em planilhas e simplificação na geração de relatórios consolidados, representando um avanço expressivo na eficiência e confiabilidade do processo avaliativo.
 
 #### **Tecnologias Utilizadas**
 
-- **Java 11:** Linguagem principal utilizada no projeto.  
-- **JavaFX:** Framework para construção da interface gráfica.  
-- **MySQL:** Banco de dados relacional para armazenamento de dados.  
-- **Figma:** Ferramenta de prototipagem e definição de layout.
+- **Java:** Linguagem principal do projeto, escolhida por sua estabilidade, desempenho e amplo ecossistema de bibliotecas, facilitando a implementação de soluções robustas e seguras.
+- **JavaFX:** Framework voltado ao desenvolvimento de interfaces modernas e dinâmicas, permitindo uma navegação fluida e uma experiência de uso mais intuitiva. 
+- **MySQL:** Banco de dados relacional utilizado para garantir armazenamento estruturado, consultas rápidas e integridade das informações do sistema.
+- **Figma:** Ferramenta de prototipagem e design que possibilitou a definição visual da aplicação, promovendo padronização e consistência na interface.
 
 #### **Contribuições Pessoais**
 
