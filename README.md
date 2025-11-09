@@ -130,9 +130,9 @@ Os resultados foram notáveis, com **redução no tempo necessário para avalia�
 
 ![image](https://github.com/user-attachments/assets/cf8fdeb1-d79d-4d77-8c7e-3b47abfd4262)
 
-#### **Parceria com Fatec São José dos Campos**
+#### **Parceria**
 
-Plataforma desktop desenvolvida para a **gestão e acompanhamento de Trabalhos de Conclusão de Curso (TCCs)** da Fatec São José dos Campos. O objetivo foi modernizar o fluxo de acompanhamento e avaliação dos projetos finais dos alunos.
+O projeto foi desenvolvido em colaboração com o corpo docente da Fatec São José dos Campos, tendo como objetivo criar uma plataforma desktop para a gestão e acompanhamento de Trabalhos de Conclusão de Curso (TCCs), aprimorando o processo de acompanhamento e avaliação dos projetos finais dos alunos.
 
 #### **Desafio**
 
