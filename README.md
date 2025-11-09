@@ -35,7 +35,9 @@ Busco o avanço contínuo da minha carreira por meio de desafios complexos que e
 **Bancos de Dados**:
 
 Relacionais:
-- SQL (MySQL e PostgreSQL, com criação de queries e modelagem relacional)
+<br/>
+- MySQL (uso em sistemas que demandam estabilidade e ampla compatibilidade com diversas aplicações)
+- PostgreSQL (uso em projetos que exigem alto nível de consistência e consultas complexas)
 
 Não relacionais:
 <br/>
@@ -74,7 +76,7 @@ Foi desenvolvida uma aplicação desktop com o objetivo de aprimorar todo o proc
 - **Algoritmos de Cálculo de Desempenho:** Processamento automático das avaliações, incluindo médias e indicadores de desempenho, reduzindo erros humanos. 
 - **Geração de Relatórios Consolidados:** Exportação de informações em formatos claros e estruturados, garantindo relatórios confiáveis e de fácil interpretação.
 
-Os resultados foram notáveis, com **redução de 70% no tempo necessário para avaliações**, **maior organização dos dados** e **relatórios gerados automaticamente com maior confiabilidade**.
+Os resultados foram notáveis, com **redução no tempo necessário para avaliações**, **maior organização dos dados** e **relatórios gerados automaticamente com maior confiabilidade**.
 
 #### **Tecnologias Utilizadas**
 
