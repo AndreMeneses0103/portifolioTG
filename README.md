@@ -201,33 +201,33 @@ A implementação da plataforma resultou em maior controle e visibilidade das at
 
 #### Parceria com a Dom Rock
 
-Este projeto foi desenvolvido em colaboração com a **Dom Rock**, uma empresa especializada em soluções de processamento de dados em pipeline. Sua tecnologia é amplamente utilizada para processar grandes volumes de dados, gerar insights automatizados e auxiliar a tomada de decisões estratégicas.
+Este projeto foi desenvolvido em colaboração com a Dom Rock, empresa especializada em soluções de processamento de dados em pipeline. Sua tecnologia é amplamente utilizada para processar grandes volumes de informações, gerar insights automatizados e apoiar a tomada de decisões estratégicas, contribuindo para maior eficiência e assertividade nas análises.
 
 ![Imagem do sistema](https://github.com/user-attachments/assets/f04147f3-5d4e-4455-9837-d0b7ecc3e73a)
 
 #### **Desafio**
-A configuração manual das fontes de dados era um gargalo no processo de operação da plataforma, demandando muito tempo e expertise técnica, comprometendo a agilidade no atendimento aos clientes.
+A configuração manual das fontes de dados era um gargalo no funcionamento da plataforma, tomando muito tempo e exigindo conhecimento técnico específico, o que acabava afetando a agilidade e a eficiência no atendimento aos clientes. Por isso, foi necessário buscar uma forma de tornar esse processo mais prático e automatizado, reduzindo o esforço da equipe e permitindo uma integração de dados mais rápida e consistente.
 
 #### **Solução Desenvolvida**
-Foi criada uma interface inovadora e automatizada para configuração das fontes de dados, eliminando a necessidade de processos manuais. As principais entregas incluíram:
+Foi desenvolvida uma interface inovadora e automatizada para a configuração das fontes de dados, eliminando a necessidade de processos manuais e tornando o fluxo mais ágil e intuitivo. A solução foi estruturada para proporcionar praticidade, segurança e integração entre os diferentes perfis de usuários, assegurando uma operação mais eficiente e confiável. As principais entregas contemplaram:
 
-- **Sistema de Cadastro:** Interfaces para registro de clientes, usuários e soluções.
-- **Upload e Visualização de Dados:** Ferramenta para importar arquivos CSV ou Excel, permitindo visualizar e estruturar os dados.
-- **Dashboard Administrativo:** Painel com métricas quantitativas e análises para gestores.
-- **Mapeamento e Regras de Negócio:** Funcionalidades que automatizam a associação de campos-chave e a aplicação de regras específicas.
-- **Segurança e Auditoria:** Implementação de autenticação, controle de acesso e rastreabilidade de ações no sistema.
+- **Sistema de Cadastro:** Interfaces voltadas ao registro de clientes, usuários e soluções, centralizando informações essenciais para o gerenciamento.
+- **Upload e Visualização de Dados:** Ferramenta que permite importar arquivos CSV ou Excel, oferecendo visualização estruturada e organizada das informações.
+- **Dashboard Administrativo:** Painel com métricas quantitativas e análises direcionadas a gestores, facilitando o acompanhamento de resultados.
+- **Mapeamento e Regras de Negócio:** Funcionalidades que automatizam a associação de campos-chave e a aplicação de regras específicas de cada operação.
+- **Segurança e Auditoria:** Implementação de autenticação, controle de acesso e registro de ações, garantindo confiabilidade e rastreabilidade em todo o sistema.
 
-Os resultados foram notáveis, com maior velocidade na implantação de soluções e menor dependência de técnicos especializados.
+Os resultados foram notáveis, refletindo em maior agilidade na implantação de soluções e em uma redução significativa da dependência de técnicos especializados, o que tornou o processo mais dinâmico e acessível para toda a equipe.
 
 #### **Tecnologias Utilizadas**
-- **Java 17:** Linguagem estável e eficiente com suporte de longo prazo.
-- **Spring Boot:** Framework que simplifica o desenvolvimento de APIs e aplicações web.
-- **Spring Security:** Solução para autenticação e autorização.
-- **Hibernate:** ORM para bancos de dados relacionais.
-- **HTML, CSS e JavaScript:** Desenvolvimento de interfaces web interativas e responsivas.
-- **MySQL:** Banco de dados relacional utilizado para gerenciar informações.
-- **Slack e Discord:** Comunicação efetiva entre equipe e cliente.
-- **Jira:** Gerenciamento de tarefas e projetos com metodologias ágeis.
+- **Java:** Linguagem principal do projeto, reconhecida pela estabilidade e eficiência na construção de aplicações robustas e seguras.
+- **Spring Boot:** Framework que agiliza o desenvolvimento de APIs e aplicações web, com configuração simples e integração facilitada.
+- **Spring Security:** Solução voltada à autenticação e autorização, reforçando a segurança e o controle de acesso ao sistema.
+- **Hibernate:** ORM que simplifica o mapeamento objeto-relacional, tornando a comunicação com o banco de dados mais prática e padronizada.
+- **HTML, CSS e JavaScript:** Tecnologias utilizadas na criação de interfaces web interativas, garantindo boa experiência ao usuário.
+- **MySQL:** Banco de dados relacional responsável pelo armazenamento seguro e estruturado das informações.
+- **Slack e Discord:** Plataformas de comunicação que facilitam a colaboração entre equipe e cliente.
+- **Jira:** Ferramenta de gestão de tarefas e projetos com suporte a metodologias ágeis.
 
 #### **Comunicação com o Cliente**
 A interação com a **Dom Rock** foi conduzida principalmente pelo **Slack**, garantindo alinhamento de requisitos, discussão de melhorias e acompanhamento do progresso.
@@ -281,11 +281,11 @@ Atuei amplamente na criação, aprimoramento e padronização da interface do si
 
 ### **Hard Skills**
 
-- **JavaScript:** Manipulação de DOM, eventos interativos e integração com APIs.
-- **CSS:** Desenvolvimento de estilos personalizados e reutilizáveis sem frameworks.
-- **HTML:** Estruturação semântica e acessível para páginas web.
-- **Java:** Contribuição na integração com APIs e alinhamento com lógica de negócios.
-- **MySQL:** Modelagem, definição de relacionamentos e realização de consultas.
+- **JavaScript:** Aprimorado o domínio da linguagem para manipulação do DOM, criar interações dinâmicas e integrar dados por meio de APIs.
+- **CSS:** Desenvolvimento de estilos personalizados e reutilizáveis sem frameworks, com boas práticas de design.
+- **HTML:** Consolidação de conhecimentos sobre estruturação semântica e acessibilidade, garantindo organização e compatibilidade entre navegadores.
+- **Java:** Experiência na integração com APIs e na aplicação de lógica de negócios, fortalecendo o entendimento sobre comunicação entre camadas.
+- **MySQL:** Aperfeiçoamento em modelagem, definição de relacionamentos e execução de consultas para gerenciamento eficiente de dados.
 
 ---
 
@@ -303,24 +303,24 @@ Atuei amplamente na criação, aprimoramento e padronização da interface do si
 
 #### Parceria com a ITO1
 
-Este projeto foi desenvolvido em colaboração com a ITO1, uma empresa especializada em soluções com dados e dispositivos IoT. Sua tecnologia é utilizada para coletar e processar grandes volumes de dados de geolocalização, garantindo escalabilidade, rastreabilidade e alta disponibilidade para consultas em tempo real.
+Este projeto foi desenvolvido em colaboração com a ITO1, empresa especializada em soluções com dados e dispositivos IoT. Sua tecnologia é utilizada para coletar e processar grandes volumes de informações de geolocalização, garantindo escalabilidade, rastreabilidade e alta disponibilidade para consultas em tempo real. Essa parceria contribuiu para maior eficiência e confiabilidade nas integrações desenvolvidas.
 
 ![image](https://github.com/user-attachments/assets/c4bd0c47-c557-4758-8b2a-f5b35fbf2006)
 
 #### **Desafio**
-O grande volume de dados gerados por dispositivos IoT exigia um sistema capaz de armazenar, consultar e rastrear geolocalizações de forma eficiente, escalável e com alta disponibilidade, sem comprometer a integridade das informações.
+O grande volume de dados gerados por dispositivos IoT demandava um sistema capaz de armazenar, consultar e rastrear geolocalizações de forma eficiente e escalável. A complexidade desse cenário evidenciava a necessidade de uma solução que garantisse alta disponibilidade e integridade das informações, mantendo o desempenho mesmo em situações de grande fluxo de dados.
 
 #### **Solução Desenvolvida**  
-Foi desenvolvido um sistema que integra registro e consulta de dados de geolocalização de dispositivos, com funcionalidades escaláveis e alta disponibilidade. As principais entregas incluíram:
+Foi desenvolvido um sistema robusto para o registro, consulta e rastreamento de dados de geolocalização provenientes de dispositivos IoT, projetado para operar de forma escalável e com alta disponibilidade. A solução foi estruturada para oferecer desempenho, segurança e confiabilidade, garantindo consultas rápidas e integridade das informações em tempo real. As principais entregas do projeto contemplaram:
 
-- **Registro de dados do cliente:** Cadastro completo dos usuários e dispositivos.  
-- **Visualização em tempo real:** Exibição dos dispositivos no mapa atualizado ao vivo.  
-- **Filtros de busca:** Pesquisa por intervalo de datas e outros critérios.  
-- **Alertas georreferenciados:** Notificações quando dispositivos saem de áreas demarcadas.  
-- **Rastreabilidade:** Histórico completo e auditável das localizações registradas.  
-- **Gestão de usuários e segurança:** Autenticação e controle de acesso ao sistema.
+- **Registro de dados do cliente:** Implementação de um módulo completo para cadastro de usuários e dispositivos, centralizando informações essenciais para o gerenciamento.
+- **Visualização em tempo real:** Exibição dinâmica dos dispositivos em um mapa atualizado continuamente, permitindo monitoramento instantâneo das localizações.
+- **Filtros de busca:** Ferramentas de pesquisa refinada por intervalo de datas, áreas geográficas e critérios personalizados, otimizando a análise de dados.
+- **Alertas Georreferenciados:** Sistema de notificações configurável para detecção de movimentações fora de zonas definidas, auxiliando na resposta rápida a ocorrências.
+- **Rastreabilidade:** Armazenamento e consulta de históricos de localização de forma auditável, assegurando transparência e controle das operações.
+- **Gestão de usuários e segurança:** Mecanismos de autenticação, controle de acesso e registro de ações, fortalecendo a proteção e a governança do sistema.
 
-Os resultados foram uma solução escalável com alta disponibilidade, garantindo consultas rápidas e confiáveis, além da rastreabilidade completa dos dados de geolocalização.
+A implementação resultou em uma plataforma escalável e eficiente, capaz de processar grandes volumes de dados em tempo real, garantindo confiabilidade, velocidade nas consultas e rastreabilidade integral das informações de geolocalização.
 
 #### **Tecnologias Utilizadas**
 
