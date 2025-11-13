@@ -198,12 +198,12 @@ A implementação da plataforma resultou em maior controle e visibilidade das at
 
 ### NextSchema (2024/1)
 
+<img width="500" height="221" alt="2-removebg-preview(1)" src="https://github.com/user-attachments/assets/85afad1f-bafc-493f-bd07-f0a24b456e27" />
+
 
 #### Parceria com a Dom Rock
 
 Este projeto foi desenvolvido em colaboração com a Dom Rock, empresa especializada em soluções de processamento de dados em pipeline. Sua tecnologia é amplamente utilizada para processar grandes volumes de informações, gerar insights automatizados e apoiar a tomada de decisões estratégicas, contribuindo para maior eficiência e assertividade nas análises.
-
-![Imagem do sistema](https://github.com/user-attachments/assets/f04147f3-5d4e-4455-9837-d0b7ecc3e73a)
 
 #### **Desafio**
 A configuração manual das fontes de dados era um gargalo no funcionamento da plataforma, tomando muito tempo e exigindo conhecimento técnico específico, o que acabava afetando a agilidade e a eficiência no atendimento aos clientes. Por isso, foi necessário buscar uma forma de tornar esse processo mais prático e automatizado, reduzindo o esforço da equipe e permitindo uma integração de dados mais rápida e consistente.
