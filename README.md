@@ -158,21 +158,21 @@ A implementação da plataforma resultou em maior controle e visibilidade das at
 
 #### **Contribuições Pessoais**
 
-##### **Módulo de Login**
+##### **Desenvolvimento Front End**
 <details>
   <summary>Detalhes</summary>
-  - Implementação de diferentes níveis de acesso.  
-  - Sistema de autenticação seguro com validações.  
-    <br/>
+  <br/>
+
+  <b>Módulo de Registro e Rastreamento:</b>  
+  - Implementação do registro e vinculação de dispositivos aos respectivos usuários, assegurando integridade e rastreabilidade dos dados coletados.  
+  - Desenvolvimento da visualização em mapa com atualização em tempo real, permitindo o acompanhamento dinâmico das localizações.  
+  <br/>
   <img src="https://github.com/user-attachments/assets/7093511b-14dd-4dce-a98d-f053554287e5" alt="Tela Dashboard" />
+  <br/><br/>
 
-</details>
-
-##### **Visualização de Status**
-<details>
-  <summary>Detalhes</summary>
-  - Filtros por aluno e professor.  
-  - Ordenação por datas e status de entrega.  
+  <b>Módulo de Alertas e Consultas:</b>  
+  - Criação de filtros personalizados para consultas por data, dispositivo e região, otimizando a análise das informações de geolocalização.  
+  - Desenvolvimento de alertas georreferenciados e históricos auditáveis, garantindo monitoramento contínuo e ações proativas.  
   <br/>
   <img src="https://github.com/user-attachments/assets/925d948a-7296-4ca5-8140-5e3adaeb8823" alt="Tela Dashboard" />
 </details>
