@@ -300,12 +300,12 @@ Atuei amplamente na criação, aprimoramento e padronização da interface do si
 
 ### LocalTracker (2024/2)
 
+<img width="500" height="291" alt="localtracker" src="https://github.com/user-attachments/assets/42020f90-8875-4141-9e69-b1fe447832cd" />
+
 
 #### Parceria com a ITO1
 
 Este projeto foi desenvolvido em colaboração com a ITO1, empresa especializada em soluções com dados e dispositivos IoT. Sua tecnologia é utilizada para coletar e processar grandes volumes de informações de geolocalização, garantindo escalabilidade, rastreabilidade e alta disponibilidade para consultas em tempo real. Essa parceria contribuiu para maior eficiência e confiabilidade nas integrações desenvolvidas.
-
-![image](https://github.com/user-attachments/assets/c4bd0c47-c557-4758-8b2a-f5b35fbf2006)
 
 #### **Desafio**
 O grande volume de dados gerados por dispositivos IoT demandava um sistema capaz de armazenar, consultar e rastrear geolocalizações de forma eficiente e escalável. A complexidade desse cenário evidenciava a necessidade de uma solução que garantisse alta disponibilidade e integridade das informações, mantendo o desempenho mesmo em situações de grande fluxo de dados.
