@@ -340,24 +340,31 @@ A implementação resultou em uma plataforma escalável e eficiente, capaz de pr
 - **Figma:** Plataforma para criação de protótipos e design de interfaces visuais.  
 
 #### **Contribuições Pessoais**
-#### **Atuação como Front-end e Back-End**
-Atuei amplamente na criação, aprimoramento e padronização da interface do sistema, abordando diversos aspectos:
 
-1. **Gerenciamento e Configuração de Dados:**
-    <details>
-      <summary>Detalhes</summary>
-      - Gerenciei e configurei dados de geolocalização no Oracle, importando tipos específicos para otimizar a eficiência e a solução.  
-      <br/>
-      <img src="https://github.com/user-attachments/assets/53cc1796-66bb-4303-9f1c-79fa8ab1ba5a" alt="Configuração de dados Oracle" />
-    </details>
+##### **Desenvolvimento Back End**
+<details>
+<summary>Detalhes</summary>
+<br/>
 
-2. **Criação de Componentes:**
-    <details>
-      <summary>Detalhes</summary>
-      - Desenvolvi componentes em Vue.js, modelando elementos primordiais conforme as necessidades do cliente e prototipações de telas.  
-      <br/>
-      <img src="https://github.com/user-attachments/assets/dc39795f-bb15-472a-a695-3411a3eab0e1" alt="Criação de componentes Vue.js" />
-    </details>
+<b>Gerenciamento e Configuração de Dados:</b>  
+Gerenciamento e configuração de dados de geolocalização no Oracle, com importação de tipos específicos para otimizar a eficiência e a solução.  
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/53cc1796-66bb-4303-9f1c-79fa8ab1ba5a" alt="Configuração de dados Oracle" />
+
+</details>
+
+##### **Desenvolvimento Front End**
+<details>
+<summary>Detalhes</summary>
+<br/>
+
+<b>Criação de Componentes:</b>  
+Desenvolvimento de componentes em Vue.js, modelando elementos primordiais conforme as necessidades do cliente e prototipações de telas.  
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/dc39795f-bb15-472a-a695-3411a3eab0e1" alt="Criação de componentes Vue.js" />
+
+</details>
+
 
 ---
 
