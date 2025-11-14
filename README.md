@@ -21,10 +21,10 @@ Atualmente, atuo como Estagiário em Segurança da Informação na Johnson & Joh
 Busco o avanço contínuo da minha carreira por meio de desafios complexos que exijam a aplicação e a expansão do meu conhecimento. Acredito no aprendizado perpétuo e no desenvolvimento profissional como pilares para um impacto significativo no campo da tecnologia.
 
 ## Contatos e Links
+- Website: [andremenesesdev.vercel.app](https://andremenesesdev.vercel.app/)  
 - Email: andremeneses0103@gmail.com  
 - LinkedIn: [linkedin.com/in/andre-meneses-dev](https://www.linkedin.com/in/andre-meneses-dev)  
 - GitHub: [github.com/AndreMeneses0103](https://github.com/AndreMeneses0103)  
-- Website: [andremenesesdev.vercel.app](https://andremenesesdev.vercel.app/)  
 
 ## Conhecimentos Técnicos
 **Linguagens e Frameworks**:
