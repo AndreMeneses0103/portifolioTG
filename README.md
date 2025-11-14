@@ -202,7 +202,7 @@ A implementação da plataforma resultou em maior controle e visibilidade das at
 
 ---
 
-### NextSchema (2024/1)
+### NextSchema - Sistema de Pipeline para Configuração de Dados (2024/1)
 
 <p align="center">
   <img 
@@ -296,7 +296,7 @@ A interação com a **Dom Rock** foi conduzida principalmente pelo **Slack**, ga
 
 ---
 
-### LocalTracker (2024/2)
+### LocalTracker - Sistema de Tracking de Dispositivos (2024/2)
 
 <p align="center">
   <img 
@@ -382,7 +382,7 @@ Atuei amplamente na criação, aprimoramento e padronização da interface do si
 
 ---
 
-### Stratify (2025/1)
+### Stratify - Sistema de Monitoramento de Projetos (2025/1)
 
 
 #### Parceria com a Youtan
