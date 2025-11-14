@@ -245,48 +245,34 @@ Os resultados foram notáveis, refletindo em maior agilidade na implantação de
 A interação com a **Dom Rock** foi conduzida principalmente pelo **Slack**, garantindo alinhamento de requisitos, discussão de melhorias e acompanhamento do progresso.
 
 #### **Contribuições Pessoais**
-#### **Atuação como Front-end e Product Owner**
 
-##### **Desenvolvimento Front-end**
-Atuei amplamente na criação, aprimoramento e padronização da interface do sistema, abordando diversos aspectos:
+#### Desenvolvimento Front End
+<details>
+  <summary>Detalhes</summary>
+  <br/>
 
-1. **Desenvolvimento de Telas e Funcionalidades:**
-      <details>
-        <summary>Detalhes</summary>
-        - Criação de telas interativas para cadastro de clientes, usuários e soluções.
-        - Implementação de funcionalidades como upload de arquivos CSV e visualização dos dados carregados.
-        - Integração das interfaces com APIs para comunicação eficiente entre front-end e back-end.
-        <br/>
-        <img src="https://github.com/user-attachments/assets/237cb4a7-03ce-4759-a3f5-8c20a6af7d19" alt="Tela interativa de cadastro" />
-      </details>
+  <b>Criação de interfaces:</b> Desenvolvimento de telas funcionais, organizadas e projetadas para facilitar a navegação e o fluxo do usuário.<br/><br/>
+  <b>Melhoria da experiência do usuário:</b> Ajustes visuais e estruturais que tornam o sistema mais intuitivo, responsivo e agradável de utilizar.<br/><br/>
+  <img src="https://github.com/user-attachments/assets/237cb4a7-03ce-4759-a3f5-8c20a6af7d19" alt="Imagem" /><br/><br/>
+  <b>Integração com dados:</b> Exibição clara, dinâmica e consistente das informações, garantindo comunicação eficiente entre front-end e back-end.<br/><br/>
+  <img src="https://github.com/user-attachments/assets/bd5aebfc-fef7-4a09-91a1-31fea353530e" alt="Imagem" />
+  <br/>
+</details>
+
+#### Product Owner
+<details>
+  <summary>Detalhes</summary>
+  <br/>
+
+  <b>Comunicação com o cliente:</b> Realização de alinhamentos frequentes para esclarecer necessidades, apresentar avanços e ajustar prioridades conforme o feedback recebido.<br/><br/>
+  <b>Definição de prioridades:</b> Organização estratégica das demandas para garantir entregas relevantes e alinhadas às necessidades do projeto.<br/><br/>
+  <b>Acompanhamento de desenvolvimento:</b> Suporte contínuo à equipe para esclarecer requisitos, remover impedimentos e garantir progresso consistente.<br/><br/>
+  <b>Validação de funcionalidades:</b> Análise detalhada das entregas, assegurando aderência às expectativas do cliente e ao valor do produto.<br/><br/>
+<img src="https://github.com/user-attachments/assets/346bedb7-c5ba-4846-82c6-f506749b46e0" alt="Imagem" />
+  <br/><br/>
+</details>
 
 
-2. **Conexão com APIs:**
-      <details>
-       <summary>Detalhes</summary>
-       - Configurei chamadas para os endpoints do back-end, permitindo o envio e recebimento dinâmico de dados.
-       - Garanti uma experiência fluida com sincronização precisa entre as ações do usuário e os dados exibidos.
-       <img src="https://github.com/user-attachments/assets/bd5aebfc-fef7-4a09-91a1-31fea353530e" alt="Conexão com API" />
-      
-      </details>
-
-3. **Padronização de Estilos:**
-   <details>
-      <summary>Detalhes</summary>
-      - Uniformizei as interfaces, criando um padrão visual coeso.
-      - Centralizei estilos em arquivos CSS reutilizáveis, reduzindo duplicação e facilitando a manutenção do código.
-      <br/>
-      <img src="https://github.com/user-attachments/assets/7860c69f-5c90-471c-9dfd-34e580e41e95" alt="Imagem de interface padronizada" />
-  </details>
-
-##### **Comunicação com o Cliente**
-  <details>
-    <summary>Detalhes</summary>
-    - Realizei levantamento de requisitos e priorização com o cliente via Slack.
-    - Propus ajustes e melhorias com base no feedback, garantindo alinhamento de expectativas.
-    <br/>
-    <img src="https://github.com/user-attachments/assets/346bedb7-c5ba-4846-82c6-f506749b46e0" alt="Imagem do levantamento de requisitos"/>
-  </details>
 
 
 ---
