@@ -384,13 +384,18 @@ Atuei amplamente na criação, aprimoramento e padronização da interface do si
 
 ### Stratify - Sistema de Monitoramento de Projetos (2025/1)
 
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/f939a3bc-7612-4279-bc3f-f55836b3ee32"
+    alt="LocalTracker" 
+    width="750" 
+    height="750" 
+  />
+</p>
 
 #### Parceria com a Youtan
 
 Este projeto foi desenvolvido em colaboração com a Youtan, uma empresa especializada no desenvolvimento de sistemas web. 
-
-<img width="400" height="157" alt="logo-youtan" src="https://github.com/user-attachments/assets/166189a1-d80d-48e1-809d-96ca406f8ec4" />
-
 
 #### **Desafio**
 O cliente, na utilização do sistema Taiga, enfrentava dificuldades pela ausência de um espaço centralizado que permitisse visualizar os indicadores dos projetos e acompanhar as atividades. Além disso, a falta de um controle de acesso por nível de usuário comprometia a organização das informações e tornava o processo de decisão menos eficiente.
