@@ -57,7 +57,14 @@ Não relacionais:
 
 ### Insight 360 - Sistema de Avaliação Educacional (2023/1)
 
-![image](https://github.com/user-attachments/assets/24b12545-1472-4a4f-802d-233d7fb5615d)
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/24b12545-1472-4a4f-802d-233d7fb5615d" 
+    alt="Insight360" 
+    width="800" 
+    height="800" 
+  />
+</p>
 
 #### **Parceria**
 
@@ -128,7 +135,14 @@ Os resultados foram notáveis, com **redução no tempo necessário para avalia�
 
 ### TGSync - Sistema de Gestão de TCCs (2023/2)
 
-![image](https://github.com/user-attachments/assets/cf8fdeb1-d79d-4d77-8c7e-3b47abfd4262)
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/cf8fdeb1-d79d-4d77-8c7e-3b47abfd4262" 
+    alt="TGSync" 
+    width="750" 
+    height="750" 
+  />
+</p>
 
 #### **Parceria**
 
@@ -190,8 +204,14 @@ A implementação da plataforma resultou em maior controle e visibilidade das at
 
 ### NextSchema (2024/1)
 
-<img width="500" height="221" alt="2-removebg-preview(1)" src="https://github.com/user-attachments/assets/85afad1f-bafc-493f-bd07-f0a24b456e27" />
-
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/85afad1f-bafc-493f-bd07-f0a24b456e27" 
+    alt="NextSchema" 
+    width="750" 
+    height="750" 
+  />
+</p>
 
 #### Parceria com a Dom Rock
 
@@ -292,7 +312,14 @@ Atuei amplamente na criação, aprimoramento e padronização da interface do si
 
 ### LocalTracker (2024/2)
 
-<img width="500" height="291" alt="localtracker" src="https://github.com/user-attachments/assets/42020f90-8875-4141-9e69-b1fe447832cd" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/42020f90-8875-4141-9e69-b1fe447832cd" 
+    alt="LocalTracker" 
+    width="750" 
+    height="750" 
+  />
+</p>
 
 
 #### Parceria com a ITO1
