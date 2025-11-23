@@ -584,4 +584,3 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
 - **Autonomia:** Execução de tarefas de forma independente, com responsabilidade e capacidade de tomada de decisão fundamentada.
 - **Atenção aos detalhes:** Cuidado minucioso na análise, codificação e revisão, prevenindo falhas e garantindo consistência nas soluções.
 - **Gestão de conhecimento:** Organização e compartilhamento de aprendizados, documentações e insights que fortalecem a equipe e o projeto.
-
