@@ -485,3 +485,103 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
 - **Autonomia:** Execução de tarefas de forma independente, com responsabilidade e capacidade de tomada de decisão fundamentada.
 - **Atenção aos detalhes:** Cuidado minucioso na análise, codificação e revisão, prevenindo falhas e garantindo consistência nas soluções.
 - **Gestão de conhecimento:** Organização e compartilhamento de aprendizados, documentações e insights que fortalecem a equipe e o projeto.
+
+---
+
+### HelpAI - Sistema de Monitoramento e auxílio em Chamados (2025/2)
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/f939a3bc-7612-4279-bc3f-f55836b3ee32"
+    alt="LocalTracker" 
+    width="750" 
+    height="750" 
+  />
+</p>
+
+#### Parceria com a Pro4Tech
+
+Este projeto foi desenvolvido em colaboração com a Pro4Tech, uma empresa especializada no desenvolvimento de sistemas web. 
+
+#### **Desafio**
+O cliente, na utilização do sistema Taiga, enfrentava dificuldades pela ausência de um espaço centralizado que permitisse visualizar os indicadores dos projetos e acompanhar as atividades. Além disso, a falta de um controle de acesso por nível de usuário comprometia a organização das informações e tornava o processo de decisão menos eficiente.
+
+#### **Solução Desenvolvida**  
+O Stratify foi desenvolvido como uma solução integrada ao Taiga, voltada para tornar a análise de projetos mais clara e acessível. A plataforma reúne informações em painéis visuais e permite definir diferentes níveis de permissão, garantindo que cada perfil de usuário acompanhasse o andamento das atividades de acordo com sua função.
+
+- **Dashboard Interativo:** visualização dinâmica dos indicadores dos projetos.
+- **ETL integrado ao Taiga:** extração, transformação e carregamento de dados de forma automática.
+- **Modelo Data Warehouse:** estrutura organizada para armazenamento e consulta eficiente de informações.
+- **Exportação de dados em CSVs:** possibilidade de gerar relatórios e planilhas para análise externa.
+- **Responsividade:** interface adaptável a diferentes dispositivos, garantindo acesso prático em qualquer tela.  
+- **Gestão de usuários e segurança:** Autenticação e controle de acesso ao sistema.
+
+A implementação do Stratify trouxe maior clareza na gestão dos projetos, agilidade nas decisões e fortalecimento da colaboração entre os membros da equipe.
+
+#### **Tecnologias Utilizadas**
+
+- **Python:** Linguagem utilizada para desenvolver o ETL, permitindo extrair, transformar e carregar dados de forma automatizada.
+- **Java 17:** Linguagem de programação utilizada para desenvolver aplicações robustas e escaláveis.  
+- **Spring Boot:** Framework que agiliza a construção de aplicações Java, oferecendo configuração automática e recursos prontos para APIs e serviços.
+- **Spring Security:** Ferramenta do Spring para gerenciar autenticação e definir permissões de acesso em sistemas.
+- **JavaScript:** Linguagem base que adiciona dinamismo, interatividade e lógica às páginas e aplicações web.
+- **Vue.js:** Framework JavaScript voltado para criar interfaces interativas e reativas de forma eficiente.  
+- **CSS (Cascading Style Sheets):** Linguagem usada para definir aparência, layout e estilo visual de sites e aplicações.
+- **PostgreSQL:** Banco de dados relacional para armazenar e consultar informações de forma organizada e confiável.
+- **Figma:** Plataforma para criar protótipos e designs de interfaces visuais de maneira colaborativa.
+
+#### **Contribuições Pessoais**
+
+##### **Desenvolvimento Back End**
+<details>
+  <summary>Detalhes</summary>
+  <br/>
+  <b>Desenvolvimento da API Rest em MVC:</b> Desenvolvimento de Repositories, Services e Controllers observando as regras de negócio e boas práticas de codificação<br/><br/>
+  <b>Implementação de testes unitários:</b> Construção de testes unitários automatizados para garantir a qualidade do sistema.<br/><br/>
+  <img width="584" height="466" alt="image" src="https://github.com/user-attachments/assets/a18165c0-9477-402f-b6a8-1da44eb57590" alt="Teste"/>
+
+</details>
+
+##### **Desenvolvimento Front End**
+<details>
+  <summary>Detalhes</summary>
+  <br/>
+  <b>Criação de Componentes:</b> Desenvolvimento de diversos componentes e páginas baseadas em protótipos construidos e requisitos do cliente<br/><br/>
+  <b>Padronização da Arquitetura:</b> Planejamento da arquitetura utilizada no sistema, sendo dividida em Views, Components e Services. Com objetivo de garantir qualidade e organização no desenvolvimento do projeto.<br/><br/>
+  <b>Responsividade e estilização:</b> Implementação de estilizações organizadas e técnicas para tornar o sistema utilizável em dispositivos Desktop e Mobile<br/><br/>
+  <b>Conexão com Back End e Assincronia:</b> Desenvolvimento de lógicas para enviar e receber dados do Back End, com métodos assíncronos para garantir qualidade e eficiência no uso do sistema.<br/><br/>
+  <img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/9ca94e93-28ee-45c0-be6b-68dc2b7f3230" alt="Tela Dashboard"/>
+
+</details>
+
+##### **DevOps**
+<details>
+  <summary>Detalhes</summary>
+  <br/>
+  <b>Documento de requisitos:</b> Criação e manutenção do documento oficial de requisitos funcionais e não funcionais.<br/><br/>
+  <b>Implementação da rastreabilidade:</b> Criação de ciclo para rastrear todas as entregas relacionando-as com os requisitos levantados.<br/><br/>
+  <b>Jira:</b> Ligação da plataforma Jira com Github para automatizar o rastreamento de commits/branches e liga-los nos requisitos.<br/><br/>
+  <b>Pre-Commit:</b> Implementação da ferramenta para estabelecer padrões na abertura de commits.<br/><br/>
+  <img width="1243" height="648" alt="image" src="https://github.com/user-attachments/assets/8f26ddd4-6d19-4418-a4a0-2da68fec2629" alt="Documento Requisitos"/>
+
+</details>
+
+---
+
+### **Hard Skills**
+
+- **Java:** Desenvolvimento de lógicas de negócio robustas e seguras com recursos modernos da linguagem.  
+- **Spring Boot:** Criação de APIs RESTful no modelo MVC. 
+- **Vue.js:** Criação de componentes reutilizáveis, organização da arquitetura e integração com Back End.
+- **CSS:** Implementação da estilização com foco na responsividade.  
+- **Figma:** Criação, interpretação e adaptação de protótipos para desenvolvimento de interfaces web funcionais.
+- **Jira:** Utilização de funcionalidades adicionais da ferramenta e conexão com plataformas externas.  
+
+---
+
+### **Soft Skills**
+- **Método e Estrutura:** Capacidade de compreender o projeto como um todo, conectando processos e requisitos de forma organizada. Atua na definição clara de objetivos e fluxos, garantindo coerência entre as etapas e alinhamento com o propósito final do sistema.
+- **Autonomia:** Execução de tarefas de forma independente, com responsabilidade e capacidade de tomada de decisão fundamentada.
+- **Atenção aos detalhes:** Cuidado minucioso na análise, codificação e revisão, prevenindo falhas e garantindo consistência nas soluções.
+- **Gestão de conhecimento:** Organização e compartilhamento de aprendizados, documentações e insights que fortalecem a equipe e o projeto.
+
