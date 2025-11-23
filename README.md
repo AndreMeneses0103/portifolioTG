@@ -504,7 +504,7 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
 Este projeto foi desenvolvido em colaboração com a Pro4Tech, uma empresa especializada no desenvolvimento de sistemas web. 
 
 #### **Desafio**
-O cliente, na utilização do sistema Taiga, enfrentava dificuldades pela ausência de um espaço centralizado que permitisse visualizar os indicadores dos projetos e acompanhar as atividades. Além disso, a falta de um controle de acesso por nível de usuário comprometia a organização das informações e tornava o processo de decisão menos eficiente.
+O sistema de chamados acabou se tornando um ponto de atraso, já que muitos tickets eram recorrentes e abordavam problemas que já tinham sido solucionados, o que gerava retrabalho e consumia tempo da equipe. Isso comprometia a agilidade do suporte e dificultava a identificação de padrões, pois as informações permaneciam dispersas. Por isso, tornou-se importante adotar uma forma mais eficiente de organizar essas solicitações, reduzindo o esforço do time e permitindo uma gestão mais rápida e confiável das ocorrências repetidas.
 
 #### **Solução Desenvolvida**  
 O Stratify foi desenvolvido como uma solução integrada ao Taiga, voltada para tornar a análise de projetos mais clara e acessível. A plataforma reúne informações em painéis visuais e permite definir diferentes níveis de permissão, garantindo que cada perfil de usuário acompanhasse o andamento das atividades de acordo com sua função.
