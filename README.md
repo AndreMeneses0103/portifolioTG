@@ -507,16 +507,16 @@ Este projeto foi desenvolvido em colaboração com a Pro4Tech, uma empresa espec
 O sistema de chamados acabou se tornando um ponto de atraso, já que muitos tickets eram recorrentes e abordavam problemas que já tinham sido solucionados, o que gerava retrabalho e consumia tempo da equipe. Isso comprometia a agilidade do suporte e dificultava a identificação de padrões, pois as informações permaneciam dispersas. Por isso, tornou-se importante adotar uma forma mais eficiente de organizar essas solicitações, reduzindo o esforço do time e permitindo uma gestão mais rápida e confiável das ocorrências repetidas.
 
 #### **Solução Desenvolvida**  
-O Stratify foi desenvolvido como uma solução integrada ao Taiga, voltada para tornar a análise de projetos mais clara e acessível. A plataforma reúne informações em painéis visuais e permite definir diferentes níveis de permissão, garantindo que cada perfil de usuário acompanhasse o andamento das atividades de acordo com sua função.
+A HelpAI foi criada como uma solução inteligente para otimizar a gestão de suporte e tornar as operações de atendimento ao cliente mais eficientes e estratégicas. Ela reúne recursos avançados que facilitam a análise de informações, garantem segurança dos dados e tornam o processo de tomada de decisão mais assertivo.
 
-- **Dashboard Interativo:** visualização dinâmica dos indicadores dos projetos.
-- **ETL integrado ao Taiga:** extração, transformação e carregamento de dados de forma automática.
-- **Modelo Data Warehouse:** estrutura organizada para armazenamento e consulta eficiente de informações.
-- **Exportação de dados em CSVs:** possibilidade de gerar relatórios e planilhas para análise externa.
-- **Responsividade:** interface adaptável a diferentes dispositivos, garantindo acesso prático em qualquer tela.  
-- **Gestão de usuários e segurança:** Autenticação e controle de acesso ao sistema.
+- **Busca avançada de tickets:** permite localizar chamados com rapidez e precisão.
+- **Geração automática de insights estratégicos:** identifica padrões e oportunidades de melhoria.
+- **Dashboard interativo:** oferece visualização clara e dinâmica dos principais indicadores.
+- **Análise de tendências com IA:** interpreta o histórico de forma inteligente para revelar comportamentos e recorrências.
+- **Anonimização de dados com conformidade LGPD:** assegura proteção e privacidade total das informações.
+- **Relatórios automáticos com IA:** gera análises detalhadas e documentos completos de forma inteligente, reduzindo trabalho repetitivo.
 
-A implementação do Stratify trouxe maior clareza na gestão dos projetos, agilidade nas decisões e fortalecimento da colaboração entre os membros da equipe.
+Ao longo do tempo, o histórico de atendimento se transforma em uma fonte valiosa de inteligência corporativa, permitindo melhorias contínuas, maior eficiência operacional e decisões de negócio mais inteligentes.
 
 #### **Tecnologias Utilizadas**
 
