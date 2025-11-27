@@ -563,6 +563,7 @@ Ao longo do tempo, o histórico de atendimento se transforma em uma fonte valios
 ---
 
 ### **Soft Skills**
+
 - **Liderança Técnica:** Atuo como uma referência técnica no front-end, auxiliando o time na resolução de problemas, esclarecimento de dúvidas e garantia da qualidade do código entregue.
 - **Comunicação e Facilitação:** Consigo conduzir cerimônias, promover alinhamentos claros e facilitar conversas importantes, garantindo que todos estejam na mesma página.
 - **Organização e Planejamento:** Sou capaz de estruturar tarefas, priorizar demandas e manter o fluxo de trabalho organizado, utilizando o Jira para acompanhar o progresso e evitar desalinhamentos.
