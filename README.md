@@ -492,10 +492,10 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
 
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/f939a3bc-7612-4279-bc3f-f55836b3ee32"
-    alt="LocalTracker" 
-    width="750" 
-    height="750" 
+    src="https://github.com/user-attachments/assets/15cc5601-9d74-4794-a84d-7aa0af34e526"
+    alt="HelpAI" 
+    width="600" 
+    height="600" 
   />
 </p>
 
