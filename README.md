@@ -556,17 +556,15 @@ Ao longo do tempo, o histórico de atendimento se transforma em uma fonte valios
 
 ### **Hard Skills**
 
-- **Java:** Desenvolvimento de lógicas de negócio robustas e seguras com recursos modernos da linguagem.  
-- **Spring Boot:** Criação de APIs RESTful no modelo MVC. 
-- **Vue.js:** Criação de componentes reutilizáveis, organização da arquitetura e integração com Back End.
-- **CSS:** Implementação da estilização com foco na responsividade.  
-- **Figma:** Criação, interpretação e adaptação de protótipos para desenvolvimento de interfaces web funcionais.
-- **Jira:** Utilização de funcionalidades adicionais da ferramenta e conexão com plataformas externas.  
+- **Python:** Experiência ampliada no desenvolvimento de APIs utilizando Flask, atuando na criação de endpoints estruturados em controllers, services e models. Além disso, envolveu boas práticas de organização, tratamento de dados e padronização das camadas da aplicação.  
+- **Vue.js:** Desenvolvimento de componentes reutilizáveis e modularizados, utilizando a Options API para manter organização, clareza e eficiência na estrutura dos componentes. Atuação também na definição da arquitetura do front-end e na integração completa com o Back End, garantindo escalabilidade, legibilidade e manutenção facilitada do código.
+- **Jira:** Utilização avançada da ferramenta para gerenciamento completo das tasks, incluindo criação, priorização, organização e acompanhamento de demandas ao longo do ciclo de desenvolvimento. Além disso, uso de funcionalidades adicionais e integrações com plataformas externas para automatizar processos, melhorar a visibilidade do progresso e fortalecer o fluxo de trabalho do time.
 
 ---
 
 ### **Soft Skills**
-- **Método e Estrutura:** Capacidade de compreender o projeto como um todo, conectando processos e requisitos de forma organizada. Atua na definição clara de objetivos e fluxos, garantindo coerência entre as etapas e alinhamento com o propósito final do sistema.
-- **Autonomia:** Execução de tarefas de forma independente, com responsabilidade e capacidade de tomada de decisão fundamentada.
-- **Atenção aos detalhes:** Cuidado minucioso na análise, codificação e revisão, prevenindo falhas e garantindo consistência nas soluções.
-- **Gestão de conhecimento:** Organização e compartilhamento de aprendizados, documentações e insights que fortalecem a equipe e o projeto.
+- **Liderança Técnica:** Atuo como uma referência técnica no front-end, auxiliando o time na resolução de problemas, esclarecimento de dúvidas e garantia da qualidade do código entregue.
+- **Comunicação e Facilitação:** Consigo conduzir cerimônias, promover alinhamentos claros e facilitar conversas importantes, garantindo que todos estejam na mesma página.
+- **Organização e Planejamento:** Sou capaz de estruturar tarefas, priorizar demandas e manter o fluxo de trabalho organizado, utilizando o Jira para acompanhar o progresso e evitar desalinhamentos.
+- **Colaboração Multidisciplinar:** Trabalho bem ao lado do backend, design e demais áreas, assegurando que as integrações e funcionalidades sigam um fluxo consistente e eficiente.
+- **Pensamento Sistêmico:** Tenho facilidade em enxergar o projeto como um todo, entendendo como cada parte se conecta, o que me permite tomar decisões mais assertivas sobre arquitetura e desenvolvimento.
