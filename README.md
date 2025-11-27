@@ -520,49 +520,35 @@ Ao longo do tempo, o histórico de atendimento se transforma em uma fonte valios
 
 #### **Tecnologias Utilizadas**
 
-- **Python:** Linguagem utilizada para desenvolver o ETL, permitindo extrair, transformar e carregar dados de forma automatizada.
-- **Java 17:** Linguagem de programação utilizada para desenvolver aplicações robustas e escaláveis.  
-- **Spring Boot:** Framework que agiliza a construção de aplicações Java, oferecendo configuração automática e recursos prontos para APIs e serviços.
-- **Spring Security:** Ferramenta do Spring para gerenciar autenticação e definir permissões de acesso em sistemas.
-- **JavaScript:** Linguagem base que adiciona dinamismo, interatividade e lógica às páginas e aplicações web.
-- **Vue.js:** Framework JavaScript voltado para criar interfaces interativas e reativas de forma eficiente.  
-- **CSS (Cascading Style Sheets):** Linguagem usada para definir aparência, layout e estilo visual de sites e aplicações.
-- **PostgreSQL:** Banco de dados relacional para armazenar e consultar informações de forma organizada e confiável.
-- **Figma:** Plataforma para criar protótipos e designs de interfaces visuais de maneira colaborativa.
+- **Python:** Linguagem utilizada para implementar toda a lógica das funcionalidades do backend, processar dados e estruturar os comportamentos necessários para o funcionamento das APIs.
+- **Flask:** Framework utilizado juntamente com Python para construir as APIs, fornecendo rotas, controle de requisições, respostas e integração com outros serviços de forma leve e flexível.
+- **Figma:** Ferramenta colaborativa utilizada para projetar interfaces e protótipos, facilitando a comunicação entre design e desenvolvimento.
+- **Vue.js:** Framework moderno para construir interfaces reativas, oferecendo uma estrutura leve e eficiente para o frontend.
+- **Jira:** Plataforma de gestão de projetos e tarefas utilizada para organizar demandas, acompanhar progresso e garantir agilidade no desenvolvimento.
+- **Elasticsearch:** Ferramenta de busca e análise de dados em tempo real, ideal para indexação rápida e consultas complexas.
+- **PostgreSQL:** Banco de dados relacional robusto, usado para armazenar e gerenciar informações com alto desempenho e confiabilidade.
 
 #### **Contribuições Pessoais**
-
-##### **Desenvolvimento Back End**
-<details>
-  <summary>Detalhes</summary>
-  <br/>
-  <b>Desenvolvimento da API Rest em MVC:</b> Desenvolvimento de Repositories, Services e Controllers observando as regras de negócio e boas práticas de codificação<br/><br/>
-  <b>Implementação de testes unitários:</b> Construção de testes unitários automatizados para garantir a qualidade do sistema.<br/><br/>
-  <img width="584" height="466" alt="image" src="https://github.com/user-attachments/assets/a18165c0-9477-402f-b6a8-1da44eb57590" alt="Teste"/>
-
-</details>
 
 ##### **Desenvolvimento Front End**
 <details>
   <summary>Detalhes</summary>
   <br/>
-  <b>Criação de Componentes:</b> Desenvolvimento de diversos componentes e páginas baseadas em protótipos construidos e requisitos do cliente<br/><br/>
-  <b>Padronização da Arquitetura:</b> Planejamento da arquitetura utilizada no sistema, sendo dividida em Views, Components e Services. Com objetivo de garantir qualidade e organização no desenvolvimento do projeto.<br/><br/>
-  <b>Responsividade e estilização:</b> Implementação de estilizações organizadas e técnicas para tornar o sistema utilizável em dispositivos Desktop e Mobile<br/><br/>
-  <b>Conexão com Back End e Assincronia:</b> Desenvolvimento de lógicas para enviar e receber dados do Back End, com métodos assíncronos para garantir qualidade e eficiência no uso do sistema.<br/><br/>
+  <b>Líder no desenvolvimento:</b> Atuação como referência técnica na área de front-end, apoiando o time na resolução de problemas, esclarecimento de dúvidas, organização das demandas e garantia da qualidade do código entregue.<br/><br/>
+  <b>Padronização da Arquitetura:</b> Definição e padronização da arquitetura do sistema, estruturada em Views, Components e Services, garantindo melhor organização, escalabilidade e consistência ao longo do desenvolvimento.<br/><br/>
+  <b>Criação de Páginas e componentes:</b> Desenvolvimento de páginas e componentes fundamentais para o funcionamento do sistema, assegurando alta qualidade, aderência aos requisitos e eficiência na implementação das funcionalidades.<br/><br/>
+  <b>Conexão com Back End e Assincronia:</b> Implementação de lógicas para comunicação com o Back End, utilizando Services assíncronos para envio e recebimento de dados, garantindo integridade, controle e fluidez no gerenciamento das informações.<br/><br/>
   <img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/9ca94e93-28ee-45c0-be6b-68dc2b7f3230" alt="Tela Dashboard"/>
 
 </details>
 
-##### **DevOps**
+##### **Scrum Master**
 <details>
   <summary>Detalhes</summary>
   <br/>
-  <b>Documento de requisitos:</b> Criação e manutenção do documento oficial de requisitos funcionais e não funcionais.<br/><br/>
-  <b>Implementação da rastreabilidade:</b> Criação de ciclo para rastrear todas as entregas relacionando-as com os requisitos levantados.<br/><br/>
-  <b>Jira:</b> Ligação da plataforma Jira com Github para automatizar o rastreamento de commits/branches e liga-los nos requisitos.<br/><br/>
-  <b>Pre-Commit:</b> Implementação da ferramenta para estabelecer padrões na abertura de commits.<br/><br/>
-  <img width="1243" height="648" alt="image" src="https://github.com/user-attachments/assets/8f26ddd4-6d19-4418-a4a0-2da68fec2629" alt="Documento Requisitos"/>
+  <b>Acompanhamento de tasks:</b> Responsável pelo acompanhamento contínuo das tarefas do time, monitorando prazos, responsáveis, progresso, possíveis impedimentos e garantindo o alinhamento geral das entregas<br/><br/>
+  <b>Cerimônias:</b> Condução e participação nas principais cerimônias da metodologia Scrum, incluindo Dailies, Plannings, Reviews e Retrospectives, assegurando organização, alinhamento e melhoria contínua do time.<br/><br/>
+  <img width="584" height="466" alt="image" src="https://github.com/user-attachments/assets/a18165c0-9477-402f-b6a8-1da44eb57590" alt="Teste"/>
 
 </details>
 
