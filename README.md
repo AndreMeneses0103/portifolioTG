@@ -66,6 +66,10 @@ Não relacionais:
   />
 </p>
 
+#### **Repositório**
+
+Link do repositório: https://github.com/AndreMeneses0103/API_1_SEMESTRE
+
 #### **Parceria**
 
 Este projeto foi desenvolvido em parceria com o corpo docente da Fatec São José dos Campos, com o objetivo de criar um sistema de avaliação 360° voltado à gestão e ao aprimoramento do desempenho em equipes.
@@ -144,6 +148,11 @@ Os resultados foram notáveis, com **redução no tempo necessário para avalia�
   />
 </p>
 
+
+#### **Repositório**
+
+Link do repositório: https://github.com/TechHorizonBR/API_2_Sem
+
 #### **Parceria**
 
 O projeto foi desenvolvido em colaboração com o corpo docente da Fatec São José dos Campos, tendo como objetivo criar uma plataforma desktop para a gestão e acompanhamento de Trabalhos de Conclusão de Curso (TCCs), aprimorando o processo de acompanhamento e avaliação dos projetos finais dos alunos.
@@ -213,6 +222,10 @@ A implementação da plataforma resultou em maior controle e visibilidade das at
   />
 </p>
 
+#### **Repositório**
+
+Link do repositório: https://github.com/TechHorizonBR/API_3SEM
+
 #### Parceria com a Dom Rock
 
 Este projeto foi desenvolvido em colaboração com a Dom Rock, empresa especializada em soluções de processamento de dados em pipeline. Sua tecnologia é amplamente utilizada para processar grandes volumes de informações, gerar insights automatizados e apoiar a tomada de decisões estratégicas, contribuindo para maior eficiência e assertividade nas análises.
@@ -272,9 +285,6 @@ A interação com a **Dom Rock** foi conduzida principalmente pelo **Slack**, ga
   <br/><br/>
 </details>
 
-
-
-
 ---
 
 ### **Hard Skills**
@@ -307,6 +317,9 @@ A interação com a **Dom Rock** foi conduzida principalmente pelo **Slack**, ga
   />
 </p>
 
+#### **Repositório**
+
+Link do repositório: https://github.com/TechHorizonBR/API_4SEM
 
 #### Parceria com a ITO1
 
@@ -399,6 +412,10 @@ Desenvolvimento de componentes em Vue.js, modelando elementos primordiais confor
     height="750" 
   />
 </p>
+
+#### **Repositório**
+
+Link do repositório: https://github.com/QuantumBitBR/API_5SEM
 
 #### Parceria com a Youtan
 
@@ -498,6 +515,10 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
     height="600" 
   />
 </p>
+
+#### **Repositório**
+
+Link do repositório: https://github.com/QuantumBitBR/API_6SEM
 
 #### Parceria com a Pro4Tech
 
