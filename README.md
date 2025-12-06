@@ -177,10 +177,10 @@ A implementação da plataforma resultou em maior controle e visibilidade das at
 
 #### **Tecnologias Utilizadas**
 
-- **Java:** Linguagem principal do projeto, escolhida por sua estabilidade, desempenho e amplo ecossistema de bibliotecas, facilitando a implementação de soluções robustas e seguras.
-- **JavaFX:** Framework voltado ao desenvolvimento de interfaces modernas e dinâmicas, permitindo uma navegação fluida e uma experiência de uso mais intuitiva. 
-- **MySQL:** Banco de dados relacional utilizado para garantir armazenamento estruturado, consultas rápidas e integridade das informações do sistema.
-- **Figma:** Ferramenta de prototipagem e design que possibilitou a definição visual da aplicação, promovendo padronização e consistência na interface.
+- **Java:** Linguagem utilizada para implementar as regras de negócio, validações e processamento do sistema. Garantiu estabilidade na execução e facilitou a criação de funcionalidades consistentes.
+- **JavaFX:** Framework aplicado no desenvolvimento das interfaces, permitindo organizar telas, componentes e navegação. Tornou a interação mais clara, fluida e alinhada ao uso real da aplicação.
+- **MySQL:** Banco de dados usado para estruturar tabelas, relacionamentos e consultas importantes do sistema. Assegurou integridade das informações e desempenho nas operações de leitura e escrita.
+- **Figma:** Ferramenta de design utilizada para planejar a interface, padronizar elementos visuais e validar a experiência antes da implementação. Ajudou a manter coerência entre o layout e o produto final.
 
 #### **Contribuições Pessoais**
 
@@ -202,7 +202,7 @@ A implementação da plataforma resultou em maior controle e visibilidade das at
 - **Java:** Implementei a lógica principal do sistema utilizando princípios de programação orientada a objetos, estruturando módulos bem definidos e garantindo organização, clareza e fácil expansão do projeto. Trabalhei com classes coesas, separação de responsabilidades e padrões que facilitaram integrações futuras.
 - **JavaFX:** Desenvolvi interfaces completas e funcionais, alinhadas aos protótipos do Figma. Criei telas dinâmicas, implementei validações visuais, navegação fluida e feedbacks claros ao usuário, garantindo uma experiência estável, intuitiva e coerente em toda a aplicação.
 - **MySQL:** Modelei partes do banco de dados relacional do projeto, definindo tabelas, chaves e relacionamentos. Implementei consultas SQL otimizadas e funções de manipulação de dados que garantiram integridade, segurança e desempenho na persistência das informações acadêmicas.
-- **Figma:** Analisei e interpretei os protótipos fornecidos para adaptar a interface conforme os requisitos. Ajustei componentes, alinhei detalhes visuais e transformei as telas projetadas em interfaces funcionais e consistentes dentro da aplicação.nas s
+- **Figma:** Analisei e interpretei os protótipos fornecidos para adaptar a interface conforme os requisitos. Ajustei componentes, alinhei detalhes visuais e transformei as telas projetadas em interfaces funcionais e consistentes dentro da aplicação.
 
 ### **Soft Skills**
 
@@ -290,20 +290,20 @@ A interação com a **Dom Rock** foi conduzida principalmente pelo **Slack**, ga
 
 ### **Hard Skills**
 
-- **JavaScript:** Aprimorado o domínio da linguagem para manipulação do DOM, criar interações dinâmicas e integrar dados por meio de APIs.
-- **CSS:** Desenvolvimento de estilos personalizados e reutilizáveis sem frameworks, com boas práticas de design.
-- **HTML:** Consolidação de conhecimentos sobre estruturação semântica e acessibilidade, garantindo organização e compatibilidade entre navegadores.
-- **Java:** Experiência na integração com APIs e na aplicação de lógica de negócios, fortalecendo o entendimento sobre comunicação entre camadas.
-- **MySQL:** Aperfeiçoamento em modelagem, definição de relacionamentos e execução de consultas para gerenciamento eficiente de dados.
+- **JavaScript:** Aprimorei o domínio da linguagem ao manipular o DOM, criar interações dinâmicas e integrar dados por meio de APIs. Apliquei esses conceitos diretamente nas telas, garantindo respostas rápidas, comportamento interativo e comunicação eficiente com o backend.
+- **CSS:** Desenvolvi estilos personalizados e reutilizáveis sem uso de frameworks, aplicando boas práticas de design e organização. Estruturei componentes visuais consistentes, assegurando identidade visual e clareza na interface.
+- **HTML:** Consolidei conhecimentos de estruturação semântica e acessibilidade ao construir páginas organizadas e compatíveis entre navegadores. Mantive marcação clara, hierarquia bem definida e elementos preparados para integrações visuais e funcionais.
+- **Java:** Atuei na integração com APIs e na aplicação de lógica de negócios, reforçando a comunicação entre diferentes camadas da aplicação. Implementei estruturas estáveis e alinhadas ao fluxo de dados necessário para o funcionamento correto do sistema.
+- **MySQL:** Aperfeiçoei modelagem, definição de relacionamentos e execução de consultas essenciais para o gerenciamento eficiente de dados. Trabalhei com organização de tabelas, integridade das informações e otimização de operações de leitura e escrita.
 
 ---
 
 ### **Soft Skills**
-- **Comunicação:** Habilidade em negociar, apresentar resultados e alinhar expectativas.
-- **Organização:** Estruturação de tarefas e priorização conforme prazos e relevância.
-- **Adaptabilidade:** Flexibilidade para lidar com mudanças e novas demandas.
-- **Resolução de Problemas:** Soluções criativas e eficientes para desafios técnicos.
-- **Proatividade:** Identificação de melhorias e ações rápidas para evitar atrasos.
+- **Comunicação:** Negociei alinhamentos com o time e apresentei resultados de forma clara, garantindo entendimento comum e expectativas bem definidas. Mantive conversas frequentes para evitar ruídos e assegurar que cada etapa estivesse caminhando na direção correta.
+- **Organização:** Estruturei minhas tarefas de acordo com prazos e relevância, mantendo um fluxo de trabalho consistente e previsível. Organizei entregas, priorizei demandas e mantive o desenvolvimento sob controle mesmo em períodos de maior carga.
+- **Adaptabilidade:** Ajustei rapidamente minhas ações frente a mudanças e novas demandas, adaptando abordagens sem comprometer a qualidade. Essa flexibilidade permitiu que o projeto mantivesse continuidade mesmo diante de alterações inesperadas.
+- **Resolução de Problemas:** Enfrentei desafios técnicos propondo soluções práticas e criativas, avaliando opções e implementando alternativas eficazes. Essa postura contribuiu para reduzir bloqueios e manter o desenvolvimento sempre avançando.
+- **Proatividade:** Identifiquei pontos de melhoria no processo e tomei iniciativas rápidas para evitar atrasos ou retrabalhos. Antecipei necessidades do time e do projeto, garantindo um desenvolvimento mais fluido e preparado para as próximas etapas.
 
 ---
 
