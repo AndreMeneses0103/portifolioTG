@@ -199,18 +199,16 @@ A implementação da plataforma resultou em maior controle e visibilidade das at
 
 ### **Hard Skills**
 
-- **Java:** Programação orientada a objetos, estruturação de módulos.  
-- **JavaFX:** Criação de interfaces gráficas desktop modernas.  
-- **MySQL:** Modelagem relacional, consultas SQL, manipulação de dados.  
-- **Git/GitHub:** Controle de versão, gerenciamento de branches e commits.  
-- **Figma:** Leitura e adaptação de protótipos para implementação.
+- **Java:** Implementei a lógica principal do sistema utilizando princípios de programação orientada a objetos, estruturando módulos bem definidos e garantindo organização, clareza e fácil expansão do projeto. Trabalhei com classes coesas, separação de responsabilidades e padrões que facilitaram integrações futuras.
+- **JavaFX:** Desenvolvi interfaces completas e funcionais, alinhadas aos protótipos do Figma. Criei telas dinâmicas, implementei validações visuais, navegação fluida e feedbacks claros ao usuário, garantindo uma experiência estável, intuitiva e coerente em toda a aplicação.
+- **MySQL:** Modelei partes do banco de dados relacional do projeto, definindo tabelas, chaves e relacionamentos. Implementei consultas SQL otimizadas e funções de manipulação de dados que garantiram integridade, segurança e desempenho na persistência das informações acadêmicas.
+- **Figma:** Analisei e interpretei os protótipos fornecidos para adaptar a interface conforme os requisitos. Ajustei componentes, alinhei detalhes visuais e transformei as telas projetadas em interfaces funcionais e consistentes dentro da aplicação.nas s
 
 ### **Soft Skills**
 
-- **Comunicação:** Alinhamento constante com os professores orientadores e equipe.  
-- **Colaboração:** Trabalho em equipe para integrar múltiplos módulos no sistema.  
-- **Organização:** Estruturação clara de código e banco de dados para facilitar manutenção.  
-
+- **Adaptabilidade:** Ajustei rapidamente implementações e fluxos frente a mudanças de requisitos ou prioridades, mantendo a qualidade e a consistência do sistema. Essa flexibilidade permitiu ao time entregar funcionalidades alinhadas ao objetivo do projeto.  
+- **Colaboração:** Trabalhei de forma integrada com o time, conectando meu módulo aos demais e auxiliando na padronização de nomenclaturas, fluxos e interações. Atuei revisando trechos de código, discutindo soluções técnicas e apoiando colegas em pontos mais complexos do sistema.
+- **Resolução de problemas:** Abordei obstáculos técnicos e processuais com soluções estruturadas, avaliando alternativas e implementando ações eficazes. Contribuí para minimizar falhas e garantir continuidade no desenvolvimento.
 
 ---
 
