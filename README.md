@@ -91,11 +91,11 @@ Os resultados foram notáveis, com **redução no tempo necessário para avalia�
 
 #### **Tecnologias Utilizadas**
 
-- **Python:** Linguagem principal utilizada no desenvolvimento, responsável pelo processamento de dados e lógica do sistema. 
-- **TKinter:** Framework empregado na construção da interface gráfica, garantindo uma navegação intuitiva e interação amigável para o usuário.
-- **Matplotlib:** Biblioteca utilizada para a criação de gráficos a partir dos dados, oferecendo uma forma visual aprimorada de apresentar feedbacks e análises de desempenho.
-- **JSON:** Utilizado como base de dados local, permitindo armazenamento estruturado, centralizado e persistência simulada das informações. 
-- **Git/GitHub:** Ferramentas de controle de versão e colaboração, assegurando gerenciamento eficiente do código e histórico de alterações.
+- **Python:** Responsável pela implementação das regras de cálculo, processamento das avaliações e organização modular da aplicação, garantindo consistência e desempenho no tratamento dos dados.
+- **TKinter:** Utilizado na construção das interfaces gráficas, estruturando telas, navegação e validações que asseguram uma experiência clara e intuitiva para o usuário.
+- **Matplotlib:** Empregado para gerar visualizações e gráficos integrados ao sistema, facilitando a análise dos resultados e o entendimento dos indicadores de desempenho.
+- **JSON:** Adotado como base de armazenamento local, com estrutura padronizada, validações de integridade e funções específicas para persistência, atualização e consulta das informações.
+- **Git/GitHub:** Ferramentas utilizadas para controle de versão e organização do fluxo de desenvolvimento, garantindo rastreabilidade, revisão estruturada e evolução contínua do projeto.
 
 #### **Contribuições Pessoais**
 
@@ -103,9 +103,11 @@ Os resultados foram notáveis, com **redução no tempo necessário para avalia�
 <details>
   <summary>Detalhes</summary>
   <br/>
-  <b>Criação de telas para cadastro de turmas:</b> Desenvolvimento de interfaces intuitivas que permitem o registro e gerenciamento eficiente das turmas.<br/><br/>
-  <b>Implementação de visualização de médias:</b> Construção de recursos visuais para acompanhamento e análise de desempenho, facilitando a interpretação dos dados.<br/><br/>
-  <b>Desenvolvimento de relatórios finais:</b> Geração de relatórios estruturados e claros, consolidando informações essenciais para tomada de decisão e feedbacks aprimorados.<br/><br/>
+  <b>Criação de telas para cadastro de turmas:</b> Desenvolvi interfaces completas para registro, edição e visualização de turmas, garantindo um fluxo simples, intuitivo e alinhado às necessidades do usuário. Estruturei a navegação, organizei os componentes e assegurei a consistência entre as telas,            permitindo que a gestão de turmas fosse realizada de forma clara e eficiente.<br/><br/>
+  <b>Implementação de visualização de médias:</b> Construí telas e componentes dedicados à exibição de médias e indicadores, integrando cálculos automáticos vindos da lógica do sistema. Trabalhei para tornar a interpretação dos resultados mais intuitiva, incluindo elementos visuais e estruturais que              facilitam a análise das avaliações pelos usuários.<br/><br/>
+  <b>Desenvolvimento de relatórios finais:</b> Estruturei tanto a lógica quanto o layout dos relatórios consolidados, garantindo clareza visual, organização das informações e uma apresentação profissional dos dados. Padronizei seções, destaquei indicadores relevantes e assegurei que o relatório fosse             facilmente compreendido por diferentes perfis de usuários.<br/><br/>
+  <b>Padronização visual:</b> Apliquei padrões consistentes de tipografia, espaçamentos, cores e nomenclaturas em todas as telas, elevando a coerência visual do sistema. Ajustei componentes repetidos, refinei alinhamentos e otimizei elementos da interface para garantir uma experiência mais harmoniosa,           fluida e profissional em todas as seções da aplicação.<br/><br/>
+
   <img src="https://github.com/user-attachments/assets/157df508-46e8-4d71-883d-3ba03e0685a9" alt="Tela Dashboard" />
 </details>
 
@@ -113,8 +115,9 @@ Os resultados foram notáveis, com **redução no tempo necessário para avalia�
 <details>
   <summary>Detalhes</summary>
   <br/>
-  <b>Organização e manipulação dos arquivos JSON:</b> Estruturação e gerenciamento eficiente dos dados, garantindo consistência, acessibilidade e manutenção simplificada.<br/><br/>
-  <b>Implementação de estrutura modular e escalável:</b> Desenvolvimento de código organizado em módulos, facilitando a expansão do sistema e a integração de novas funcionalidades.<br/><br/>
+  <b>Organização e manipulação dos arquivos JSON:</b> Estruturei o armazenamento de forma modular, criando funções dedicadas para leitura, escrita e atualização dos dados com consistência e segurança. Além disso, padronizei o formato dos arquivos e implementei validações para garantir integridade, evitando     duplicidades e inconsistências durante o fluxo de uso.<br/><br/>
+  <b>Implementação de estrutura modular e escalável:</b> Organizei o projeto em múltiplos módulos independentes, distribuindo responsabilidades e separando lógica de interface, serviços e dados. Essa abordagem tornou o código mais limpo, facilitou a manutenção e permitiu que novas funcionalidade fossem         adicionadas sem impacto negativo nas partes já existentes do sistema.<br/><br/>
+  <b>Implementação de criptografia:</b> Implementei criptografia SHA-512 no sistema de autenticação, garantindo mais segurança no armazenamento de senhas e reduzindo riscos de exposição de credenciais. A integração foi realizada de forma transparente ao usuário, reforçando a proteção dos dados e elevando o     nível de segurança geral da aplicação.<br/><br/>
   <img src="https://github.com/user-attachments/assets/dffc4243-de74-4149-a245-44c6792a35a1" alt="Tela Dashboard" />
 </details>
 
@@ -122,18 +125,18 @@ Os resultados foram notáveis, com **redução no tempo necessário para avalia�
 
 ### **Hard Skills**
 
-- **Python:** Experiência em manipulação de arquivos, estruturas de dados e implementação de cálculos automáticos, com foco em soluções eficientes e confiáveis.  
-- **TKinter:** Desenvolvimento de interfaces gráficas intuitivas e funcionais, proporcionando uma experiência amigável para o usuário.  
-- **JSON:** Estruturação, leitura e escrita de dados em formato leve, garantindo organização, centralização e persistência das informações.  
-- **Git/GitHub:** Controle de versão, gerenciamento de branches e commits frequentes, facilitando a colaboração e manutenção de projetos.
+- **Python:** Implementei diversas lógicas complexas de cálculo, tratamento e transformação de dados, além de organizar o sistema em módulos bem definidos. Trabalhei com funções reutilizáveis, estruturas de controle robustas e boas práticas que tornaram o código limpo, escalável e fácil de manter.
+- **TKinter:** Desenvolvi interfaces completas e funcionais, cuidando de navegação e validações visuais. Apliquei componentes personalizados, telas conectadas ao backend e feedbacks claros ao usuário, garantindo uma experiência mais intuitiva e profissional em todas as etapas do uso.
+- **JSON:** Estruturei um banco de dados local sólido, criando funções específicas para persistência, consultas, atualização e integração dos dados com a aplicação. Garanti consistência entre as operações, padronizei formatos e implementei validações que reduziram erros e facilitaram a segurança e a organização das informações.
+- **Git/GitHub:** Mantive versionamento contínuo com commits descritivos e bem categorizados, garantindo rastreabilidade clara das mudanças. Estruturei os branches de forma organizada, resolvi conflitos complexos e mantive o fluxo de desenvolvimento sempre sincronizado, assegurando evolução consistente e colaborativa do projeto.
   
 
 ### **Soft Skills**
 
-- **Organização:** Capacidade de estruturar código, dados e processos de forma clara e eficiente, facilitando manutenção e escalabilidade.  
-- **Comunicação:** Habilidade em manter alinhamento constante com equipes e coordenação, garantindo entendimento e execução eficaz das demandas. 
-- **Proatividade:** Identificação de gargalos e oportunidades de melhoria, propondo soluções digitais que aumentam a eficiência e reduzem erros.
-- **Colaboração:** Auxílio proativo a colegas com menor familiaridade, promovendo aprendizado e fortalecimento da equipe.
+- **Organização:** Estruturei o código, os módulos e as telas de maneira clara e lógica, aplicando padrões que facilitaram a leitura, manutenção e expansão futura do sistema. Padronizei nomenclaturas, separei responsabilidades e deixei o fluxo da aplicação mais intuitivo para todo o time.
+- **Comunicação:** Mantive alinhamento constante com membros da equipe, esclarecendo requisitos, validando decisões e ajustando funcionalidades conforme orientações. Essa troca contínua garantiu que todas as entregas estivessem de acordo com as expectativas e necessidades do projeto.
+- **Proatividade:** Observei processos manuais ou pouco eficientes e sugeri melhorias para automatizar cálculos, organizar dados e otimizar a experiência do usuário. Minhas propostas ajudaram a tornar o fluxo avaliativo mais rápido, menos propenso a erros e melhor estruturado.
+- **Colaboração:** Auxiliei colegas com menor experiência em Python, Tkinter ou versionamento, explicando conceitos, revisando trechos de código e destravando bloqueios técnicos. Essa contribuição colaborativa fortaleceu o desempenho do grupo e elevou a qualidade da entrega final.
 
 ---
 
