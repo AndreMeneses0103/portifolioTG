@@ -265,10 +265,10 @@ A interação com a **Dom Rock** foi conduzida principalmente pelo **Slack**, ga
   <summary>Detalhes</summary>
   <br/>
 
-  <b>Criação de interfaces:</b> Desenvolvimento de telas funcionais, organizadas e projetadas para facilitar a navegação e o fluxo do usuário.<br/><br/>
-  <b>Melhoria da experiência do usuário:</b> Ajustes visuais e estruturais que tornam o sistema mais intuitivo, responsivo e agradável de utilizar.<br/><br/>
+  <b>Criação de interfaces:</b> Desenvolvi telas funcionais e organizadas, projetadas para facilitar a navegação e o fluxo do usuário. Estruturei cada interface de forma clara e coerente, garantindo que os elementos fossem apresentados de maneira lógica e acessível durante todas as etapas de uso.<br/><br/>
+  <b>Melhoria da experiência do usuário:</b> Realizei ajustes visuais e estruturais que tornaram o sistema mais intuitivo, responsivo e agradável de utilizar. Refinei elementos de layout, aperfeiçoei interações e alinhei detalhes visuais para oferecer uma experiência mais harmoniosa e eficiente.<br/><br/>
   <img src="https://github.com/user-attachments/assets/237cb4a7-03ce-4759-a3f5-8c20a6af7d19" alt="Imagem" /><br/><br/>
-  <b>Integração com dados:</b> Exibição clara, dinâmica e consistente das informações, garantindo comunicação eficiente entre front-end e back-end.<br/><br/>
+  <b>Integração com dados:</b> Desenvolvi a exibição clara, dinâmica e consistente das informações do sistema, garantindo comunicação eficiente entre front-end e back-end. Ajustei componentes para apresentar dados de forma precisa e fluida, facilitando a compreensão e o uso pelas pessoas que acessam a aplicação.<br/><br/>
   <img src="https://github.com/user-attachments/assets/bd5aebfc-fef7-4a09-91a1-31fea353530e" alt="Imagem" />
   <br/>
 </details>
@@ -278,10 +278,10 @@ A interação com a **Dom Rock** foi conduzida principalmente pelo **Slack**, ga
   <summary>Detalhes</summary>
   <br/>
 
-  <b>Comunicação com o cliente:</b> Realização de alinhamentos frequentes para esclarecer necessidades, apresentar avanços e ajustar prioridades conforme o feedback recebido.<br/><br/>
-  <b>Definição de prioridades:</b> Organização estratégica das demandas para garantir entregas relevantes e alinhadas às necessidades do projeto.<br/><br/>
-  <b>Acompanhamento de desenvolvimento:</b> Suporte contínuo à equipe para esclarecer requisitos, remover impedimentos e garantir progresso consistente.<br/><br/>
-  <b>Validação de funcionalidades:</b> Análise detalhada das entregas, assegurando aderência às expectativas do cliente e ao valor do produto.<br/><br/>
+  <b>Comunicação com o cliente:</b> Mantive alinhamentos frequentes com o cliente para esclarecer necessidades, apresentar avanços do projeto e validar cada etapa do desenvolvimento. Esses encontros constantes garantiram que as decisões fossem tomadas com clareza e que o direcionamento permanecesse sempre fiel às expectativas e objetivos do produto.<br/><br/>
+  <b>Definição de prioridades:</b> Estruturei a organização estratégica das demandas, analisando impacto, urgência e valor entregue ao cliente. A partir disso, estabeleci prioridades claras, permitindo que o time direcionasse esforços para entregas realmente relevantes e alinhadas às necessidades do projeto.<br/><br/>
+  <b>Acompanhamento de desenvolvimento:</b> Atuei no suporte contínuo à equipe, esclarecendo requisitos, removendo impedimentos e garantindo fluidez no progresso das tarefas. Mantive proximidade com o ciclo de desenvolvimento para assegurar que todos tivessem as informações necessárias para avançar com segurança e consistência.<br/><br/>
+  <b>Validação de funcionalidades:</b> Realizei análises detalhadas das funcionalidades entregues, verificando aderência aos requisitos definidos, coerência com o produto e conformidade com as expectativas do cliente. Esse processo reforçou a qualidade das entregas e garantiu que cada funcionalidade agregasse valor real ao sistema.<br/><br/>
 <img src="https://github.com/user-attachments/assets/346bedb7-c5ba-4846-82c6-f506749b46e0" alt="Imagem" />
   <br/><br/>
 </details>
