@@ -384,22 +384,21 @@ Desenvolvimento de componentes em Vue.js, modelando elementos primordiais confor
 
 ### **Hard Skills**
 
-- **Java 17:** Desenvolvimento de lógicas de negócio robustas e seguras com recursos modernos da linguagem.  
-- **Spring Boot:** Criação de APIs RESTful e configuração simplificada de serviços com injeção de dependência.  
-- **Spring Security:** Implementação de autenticação, autorização e controle de acesso por perfis de usuário.  
-- **Hibernate:** Mapeamento objeto-relacional (ORM), criação de entidades e consultas com JPQL.  
-- **Oracle:** Criação de tabelas, procedimentos armazenados e consultas SQL otimizadas para grandes volumes de dados.  
-- **Vue.js:** Criação de componentes reutilizáveis, gerenciamento de estado com Pinia e construção de interfaces reativas.  
-- **Figma:** Interpretação e adaptação de protótipos para desenvolvimento de interfaces web funcionais.
+- **Java 17:** Desenvolvi lógicas de negócio robustas e seguras utilizando os recursos modernos da linguagem, estruturando fluxos estáveis, reduzindo complexidades e garantindo que cada serviço entregasse comportamento consistente. Trabalhei com boas práticas, organização modular e implementação de processos que fortalecem a manutenção e a escalabilidade do sistema.
+- **Spring Boot:** Construí APIs RESTful completas, configurando serviços com injeção de dependência, validações, tratamento de exceções e padronização de rotas. Estruturei camadas de aplicação de forma clara, garantindo desempenho, fácil manutenção e integração fluida com outros módulos do projeto.
+- **Spring Security:** Implementei autenticação e autorização com diferentes níveis de acesso, aplicando filtros, configurações de segurança e boas práticas para proteger as operações sensíveis do sistema. Ajustei permissões por perfil, tratei fluxos de login e refinei mecanismos de proteção para elevar a segurança geral da aplicação.
+- **Hibernate:** Modelei entidades, realizei mapeamento objeto-relacional e construí consultas eficientes utilizando JPQL. Trabalhei para otimizar relações, reduzir cargas desnecessárias e garantir que os processos de persistência fossem consistentes, performáticos e alinhados à lógica de negócios.
+- **Oracle:** Desenvolvi estruturas de banco de dados, como tabelas, procedures e consultas otimizadas para grandes volumes de dados, com foco especial no tratamento de informações de localização e geografia. Modelei estruturas espaciais, refinei consultas relacionadas a coordenadas e distâncias e organizei o fluxo de dados para garantir desempenho, precisão e integridade nas operações que dependem de dados geoespaciais.
+- **Vue.js:** Criei componentes reutilizáveis e interfaces reativas, organizando estados com Pinia e estruturando fluxos visuais e funcionais alinhados à experiência esperada pelo usuário. Trabalhei com comunicação entre componentes, refinamentos de UI e boas práticas para manter consistência e fluidez na aplicação.
+- **Figma:** Interpretei, adaptei e também criei protótipos para orientar o desenvolvimento das interfaces. Trabalhei na definição visual dos componentes, ajustei fluxos, alinhei elementos de usabilidade e garanti que o resultado final refletisse fielmente as necessidades funcionais e a identidade visual planejada.
 
 ---
 
 ### **Soft Skills**
-- **Comunicação:** Habilidade em negociar, apresentar resultados e alinhar expectativas.
-- **Organização:** Estruturação de tarefas e priorização conforme prazos e relevância.
-- **Adaptabilidade:** Flexibilidade para lidar com mudanças e novas demandas.
-- **Resolução de Problemas:** Soluções criativas e eficientes para desafios técnicos.
-- **Proatividade:** Identificação de melhorias e ações rápidas para evitar atrasos.
+- **Colaboração:** Atuei de forma integrada com o time, compartilhando decisões técnicas, alinhando dependências e contribuindo para manter a coesão entre módulos. Essa atuação conjunta garantiu avanços consistentes e um ambiente de desenvolvimento mais eficiente.
+- **Pensamento Crítico:** Analisei cenários técnicos e impactos de cada decisão antes da implementação, avaliando riscos, alternativas e consequências. Essa postura ajudou o time a evitar retrabalhos e escolher soluções mais sustentáveis.
+- **Resolução de Problemas:** Abordei desafios técnicos com análises estruturadas, incluindo a busca por soluções adequadas para o tratamento de dados geoespaciais, identificando causas, avaliando opções e aplicando abordagens eficazes. Essa atuação contribuiu para minimizar falhas e garantir precisão nas informações processadas.
+- **Autonomia:** Mantive independência na execução das tarefas, organizando meu próprio fluxo de trabalho, investigando soluções e antecipando desafios sem comprometer alinhamentos essenciais. Essa autonomia acelerou entregas e aumentou a eficiência geral do projeto.
 
 ---
 
