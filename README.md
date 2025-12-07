@@ -360,8 +360,7 @@ A implementação resultou em uma plataforma escalável e eficiente, capaz de pr
 <summary>Detalhes</summary>
 <br/>
 
-<b>Gerenciamento e Configuração de Dados:</b>  
-Gerenciamento e configuração de dados de geolocalização no Oracle, com importação de tipos específicos para otimizar a eficiência e a solução.  
+<b>Gerenciamento e Configuração de Dados:</b> Realizei o gerenciamento e a configuração dos dados de geolocalização no Oracle, importando e ajustando tipos específicos para garantir o melhor desempenho no tratamento das informações. Estruturei o ambiente de dados para otimizar consultas, melhorar a precisão geoespacial e assegurar que todo o fluxo funcionasse de forma estável e eficiente.
 <br/><br/>
 <img src="https://github.com/user-attachments/assets/53cc1796-66bb-4303-9f1c-79fa8ab1ba5a" alt="Configuração de dados Oracle" />
 
@@ -372,9 +371,7 @@ Gerenciamento e configuração de dados de geolocalização no Oracle, com impor
 <summary>Detalhes</summary>
 <br/>
 
-<b>Criação de Componentes:</b>  
-Desenvolvimento de componentes em Vue.js, modelando elementos primordiais conforme as necessidades do cliente e prototipações de telas.  
-<br/><br/>
+<b>Criação de Componentes:</b> Desenvolvi componentes em Vue.js estruturando elementos essenciais da interface conforme as necessidades do cliente e as prototipações definidas. Modelei cada componente para garantir reutilização, consistência visual e integração fluida com o restante da aplicação, mantendo alinhamento com os requisitos funcionais e o fluxo proposto nas telas.<br/><br/>
 <img src="https://github.com/user-attachments/assets/dc39795f-bb15-472a-a695-3411a3eab0e1" alt="Criação de componentes Vue.js" />
 
 </details>
@@ -488,20 +485,19 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
 
 ### **Hard Skills**
 
-- **Java:** Desenvolvimento de lógicas de negócio robustas e seguras com recursos modernos da linguagem.  
-- **Spring Boot:** Criação de APIs RESTful no modelo MVC. 
-- **Vue.js:** Criação de componentes reutilizáveis, organização da arquitetura e integração com Back End.
-- **CSS:** Implementação da estilização com foco na responsividade.  
-- **Figma:** Criação, interpretação e adaptação de protótipos para desenvolvimento de interfaces web funcionais.
-- **Jira:** Utilização de funcionalidades adicionais da ferramenta e conexão com plataformas externas.  
+- **Java:** Desenvolvi lógicas de negócio robustas e seguras utilizando os recursos modernos da linguagem. Estruturei módulos bem definidos, apliquei princípios de orientação a objetos e garanti que cada funcionalidade fosse implementada de forma clara, estável e escalável.
+- **Vue.js:** Desenvolvi componentes reutilizáveis e bem estruturados, organizei a arquitetura do front-end e integrei o sistema com o back-end. Modelei layouts, gerenciei estado e garanti reatividade e consistência entre as telas da aplicação.
+- **CSS:** Implementei estilizações com forte foco em responsividade, garantindo que cada tela se adaptasse perfeitamente tanto a celulares quanto a computadores. Ajustei layouts, espaçamentos e tipografias para preservar consistência visual e assegurar uma experiência de uso estável e fluida em diferentes tamanhos de tela.
+- **Figma:** Criei, interpretei e adaptei protótipos para transformar propostas visuais em interfaces web funcionais. Ajustei fluxos, refinei elementos e assegurei que as telas finais refletissem fielmente as necessidades do projeto.
+- **Jira:** Utilizei funcionalidades avançadas da ferramenta para organizar e acompanhar tarefas, configurando integrações com plataformas externas. Além disso, implementei um método de rastreamento de commits e branches, conectando atividades do repositório ao fluxo de trabalho e garantindo maior transparência e controle sobre o desenvolvimento.
 
 ---
 
 ### **Soft Skills**
-- **Método e Estrutura:** Capacidade de compreender o projeto como um todo, conectando processos e requisitos de forma organizada. Atua na definição clara de objetivos e fluxos, garantindo coerência entre as etapas e alinhamento com o propósito final do sistema.
-- **Autonomia:** Execução de tarefas de forma independente, com responsabilidade e capacidade de tomada de decisão fundamentada.
-- **Atenção aos detalhes:** Cuidado minucioso na análise, codificação e revisão, prevenindo falhas e garantindo consistência nas soluções.
-- **Gestão de conhecimento:** Organização e compartilhamento de aprendizados, documentações e insights que fortalecem a equipe e o projeto.
+- **Método e Estrutura:** Apliquei uma visão ampla do projeto para conectar processos e requisitos de forma organizada, estruturando objetivos e fluxos com clareza. Atuei para garantir coerência entre as etapas e manter todas as decisões alinhadas ao propósito final do sistema.
+- **Raciocínio Analítico (Debugging):** Atuei de forma investigativa na identificação e correção de falhas, analisando comportamentos inesperados e rastreando causas raiz com precisão. Apliquei métodos estruturados de debugging para isolar problemas, validar hipóteses e garantir soluções consistentes e definitivas.
+- **Atenção aos detalhes:** Mantive cuidado minucioso na análise, codificação e revisão, identificando inconsistências e prevenindo falhas antes que impactassem o sistema. Essa atenção garantiu maior qualidade, estabilidade e precisão nas soluções entregues.
+- **Gestão de conhecimento:** Organizei e compartilhei aprendizados, documentações e insights relevantes, fortalecendo a comunicação interna e contribuindo para o crescimento coletivo da equipe. Esse processo tornou a colaboração mais eficiente e o projeto mais sustentável ao longo do tempo.
 
 ---
 
