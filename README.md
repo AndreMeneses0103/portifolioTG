@@ -573,16 +573,16 @@ Ao longo do tempo, o histórico de atendimento se transforma em uma fonte valios
 
 ### **Hard Skills**
 
-- **Python:** Experiência ampliada no desenvolvimento de APIs utilizando Flask, atuando na criação de endpoints estruturados em controllers, services e models. Além disso, envolveu boas práticas de organização, tratamento de dados e padronização das camadas da aplicação.  
-- **Vue.js:** Desenvolvimento de componentes reutilizáveis e modularizados, utilizando a Options API para manter organização, clareza e eficiência na estrutura dos componentes. Atuação também na definição da arquitetura do front-end e na integração completa com o Back End, garantindo escalabilidade, legibilidade e manutenção facilitada do código.
-- **Jira:** Utilização avançada da ferramenta para gerenciamento completo das tasks, incluindo criação, priorização, organização e acompanhamento de demandas ao longo do ciclo de desenvolvimento. Além disso, uso de funcionalidades adicionais e integrações com plataformas externas para automatizar processos, melhorar a visibilidade do progresso e fortalecer o fluxo de trabalho do time.
+- **Python:** Desenvolvi APIs utilizando Flask, estruturando endpoints em camadas organizadas de controllers, services e models. Apliquei boas práticas de organização, padronização e tratamento de dados, garantindo clareza, separação de responsabilidades e uma base sólida para evolução da aplicação.
+- **Vue.js:** Criei componentes reutilizáveis e modularizados utilizando a Options API, mantendo organização, legibilidade e eficiência na estrutura dos arquivos. Atuei diretamente na definição da arquitetura do front-end e na integração completa com o Back End, assegurando escalabilidade, facilidade de manutenção e um fluxo consistente entre as camadas.
+- **Jira:** Utilizei a ferramenta de forma avançada para gerenciar todo o ciclo das tasks, desde criação, priorização e organização até o acompanhamento detalhado das entregas. Explorei funcionalidades adicionais e integrações externas para automatizar processos, aumentar a visibilidade do progresso e tornar o fluxo de trabalho do time mais eficiente e transparente.
 
 ---
 
 ### **Soft Skills**
 
-- **Liderança Técnica:** Atuo como uma referência técnica no front-end, auxiliando o time na resolução de problemas, esclarecimento de dúvidas e garantia da qualidade do código entregue.
-- **Comunicação e Facilitação:** Consigo conduzir cerimônias, promover alinhamentos claros e facilitar conversas importantes, garantindo que todos estejam na mesma página.
-- **Organização e Planejamento:** Sou capaz de estruturar tarefas, priorizar demandas e manter o fluxo de trabalho organizado, utilizando o Jira para acompanhar o progresso e evitar desalinhamentos.
-- **Colaboração Multidisciplinar:** Trabalho bem ao lado do backend, design e demais áreas, assegurando que as integrações e funcionalidades sigam um fluxo consistente e eficiente.
-- **Pensamento Sistêmico:** Tenho facilidade em enxergar o projeto como um todo, entendendo como cada parte se conecta, o que me permite tomar decisões mais assertivas sobre arquitetura e desenvolvimento.
+- **Liderança Técnica:** Atuei como referência no front-end, apoiando o time na resolução de problemas, esclarecendo dúvidas e garantindo que o código entregue mantivesse qualidade, consistência e alinhamento com os padrões definidos.
+- **Comunicação e Facilitação:** Conduzi cerimônias e alinhamentos importantes, facilitando conversas e garantindo clareza entre todos os envolvidos. Essa atuação ajudou o time a manter um entendimento unificado do que precisava ser entregue e como avançar de forma coordenada.
+- **Organização e Planejamento:** Estruturei tarefas, limites e mantive um fluxo de trabalho organizado, utilizando o Jira para acompanhar cada etapa e evitar retrabalhos ou desalinhamentos no desenvolvimento.
+- **Colaboração Multidisciplinar:** Trabalhei de forma integrada com backend, design e outras áreas, assegurando que integrações, protótipos e funcionalidades seguissem um fluxo eficiente e mantendo a coerência entre as diferentes partes do sistema.
+- **Pensamento Sistêmico:** Analisei o projeto de forma ampla, entendendo como cada módulo, camada e decisão técnica impactava o todo. Essa visão me permitiu tomar decisões mais assertivas sobre arquitetura, priorização e desenvolvimento.
