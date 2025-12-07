@@ -343,15 +343,14 @@ A implementação resultou em uma plataforma escalável e eficiente, capaz de pr
 
 #### **Tecnologias Utilizadas**
 
-- **Java 17:** Versão robusta da linguagem Java, trazendo melhorias em desempenho, novos recursos e suporte prolongado (LTS).  
-- **Spring Boot:** Framework Java que facilita a criação de aplicações, oferecendo configurações automáticas e recursos para desenvolver APIs e serviços.  
-- **Spring Security:** Biblioteca do Spring voltada para implementar autenticação e controle de acesso em aplicações.  
-- **Hibernate:** Ferramenta ORM que permite a comunicação eficiente entre aplicações Java e bancos de dados relacionais.  
-- **Oracle:** Sistema de banco de dados relacional utilizado para armazenar e consultar informações.  
-- **JavaScript:** Linguagem de programação que adiciona interatividade às páginas e aplicações web.
-- **Vue.js:** Framework JavaScript para construção de interfaces dinâmicas e reativas.  
-- **CSS (Cascading Style Sheets):** Linguagem responsável pela formatação visual e design das páginas web.  
-- **Figma:** Plataforma para criação de protótipos e design de interfaces visuais.  
+- **Java:** Linguagem principal utilizada para estruturar a lógica de negócio, garantindo organização, consistência e performance no processamento das informações. No projeto, a linguagem foi essencial para lidar com tratamento, manipulação e modelagem de dados — incluindo dados geoespaciais — assegurando precisão, padronização e confiabilidade nas operações.
+- **Spring Boot:** Framework central no desenvolvimento das APIs do projeto, oferecendo uma arquitetura padronizada, modular e de rápida configuração. Além de agilizar a criação dos serviços, o Spring Boot foi fundamental para estruturar endpoints capazes de lidar com operações envolvendo dados geoespaciais, integrando de forma consistente as regras de negócio com o banco Oracle. Sua capacidade de integração com bibliotecas, validações e camadas específicas permitiu construir serviços estáveis e preparados para consultas complexas e processamento de dados.
+- **Spring Security:** Implementado para reforçar a segurança da aplicação, fornecendo autenticação estruturada, autorização detalhada e camadas de proteção alinhadas às boas práticas. A solução garantiu controle rigoroso de acesso e integridade das operações.
+- **Hibernate:** ORM utilizado para abstrair e padronizar a comunicação entre a aplicação Java e o banco de dados Oracle, simplificando operações de persistência e consultas. Sua utilização permitiu mapear entidades de forma clara, reduzir a complexidade de SQL manual e garantir integridade nas transações. O Hibernate também contribuiu para otimizar o desempenho das consultas, padronizar o acesso aos dados e manter o modelo relacional alinhado à estrutura da aplicação.
+- **Oracle:** Banco de dados relacional utilizado para armazenar e consultar informações de forma estruturada, com suporte a consultas complexas, otimização de desempenho e integridade transacional. A tecnologia foi fundamental para manter consistência e escalabilidade no volume de dados trabalhados.
+- **Vue.js:** Framework JavaScript utilizado para construção de interfaces reativas e altamente dinâmicas. Sua estrutura baseada em componentes permitiu desenvolver telas organizadas, reutilizáveis e alinhadas a padrões modernos de front-end.
+- **CSS (Cascading Style Sheets):** Tecnologia responsável pelo estilo e apresentação visual das páginas, garantindo responsividade, hierarquia clara e design coerente com a proposta do sistema.
+- **Figma:** Plataforma utilizada para criação de protótipos, fluxos e interfaces visuais, facilitando o alinhamento entre design e desenvolvimento. Permitindo validar propostas antes da implementação, o Figma acelerou decisões e aprimorou a experiência do usuário.
 
 #### **Contribuições Pessoais**
 
