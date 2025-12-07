@@ -550,10 +550,12 @@ Ao longo do tempo, o histórico de atendimento se transforma em uma fonte valios
 <details>
   <summary>Detalhes</summary>
   <br/>
-  <b>Líder no desenvolvimento:</b> Atuação como referência técnica na área de front-end, apoiando o time na resolução de problemas, esclarecimento de dúvidas, organização das demandas e garantia da qualidade do código entregue.<br/><br/>
-  <b>Padronização da Arquitetura:</b> Definição e padronização da arquitetura do sistema, estruturada em Views, Components e Services, garantindo melhor organização, escalabilidade e consistência ao longo do desenvolvimento.<br/><br/>
-  <b>Criação de Páginas e componentes:</b> Desenvolvimento de páginas e componentes fundamentais para o funcionamento do sistema, assegurando alta qualidade, aderência aos requisitos e eficiência na implementação das funcionalidades.<br/><br/>
-  <b>Conexão com Back End e Assincronia:</b> Implementação de lógicas para comunicação com o Back End, utilizando Services assíncronos para envio e recebimento de dados, garantindo integridade, controle e fluidez no gerenciamento das informações.<br/><br/>
+  <b>Líder no desenvolvimento:</b> Atuei como referência técnica no front-end, apoiando o time na resolução de problemas, esclarecimento de dúvidas e organização das demandas. Além disso, garanti a qualidade do código entregue, orientando boas práticas, padronizações e decisões importantes para manter a       consistência do projeto.<br/><br/>
+  <b>Padronização da Arquitetura:</b> Defini e padronizei a arquitetura da aplicação em Views, Components e Services, organizando o fluxo geral, separando responsabilidades e assegurando mais escalabilidade. Essa estrutura permitiu evoluir o sistema com mais clareza, reduzir retrabalho e manter um padrão       uniforme ao longo do desenvolvimento.<br/><br/>
+  <b>Criação de Páginas e componentes:</b> Desenvolvi páginas e componentes essenciais para o funcionamento do sistema, sempre garantindo alta qualidade, aderência aos requisitos e eficiência na implementação. Como exemplo, trabalhei diretamente na construção da tela de Dashboards e no módulo de               gerenciamento de usuários, estruturando a lógica, organizando os elementos visuais e garantindo que cada detalhe atendesse às necessidades do cliente e do usuário final.<br/><br/>
+  <img width="1919" height="1079" alt="helpAi_dash" src="https://github.com/user-attachments/assets/2dd78450-65cf-4947-91e6-887b13b47567" />
+  <img width="1919" height="947" alt="helpAi_perfil" src="https://github.com/user-attachments/assets/c228ba09-e362-4795-8179-6e762bce4a60" />
+  <b>Conexão com Back End e Assincronia:</b> Implementei toda a lógica de integração com o Back End utilizando Axios como principal cliente HTTP, estruturando Services assíncronos responsáveis por enviar, receber e atualizar dados. Trabalhei no controle dos fluxos de requisição, normalização de respostas,       tratamento de erros e estados, garantindo integridade, confiabilidade e fluidez no tráfego de informações entre as camadas da aplicação<br/><br/>
   <img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/9ca94e93-28ee-45c0-be6b-68dc2b7f3230" alt="Tela Dashboard"/>
 
 </details>
@@ -562,9 +564,11 @@ Ao longo do tempo, o histórico de atendimento se transforma em uma fonte valios
 <details>
   <summary>Detalhes</summary>
   <br/>
-  <b>Acompanhamento de tasks:</b> Responsável pelo acompanhamento contínuo das tarefas do time, monitorando prazos, responsáveis, progresso, possíveis impedimentos e garantindo o alinhamento geral das entregas<br/><br/>
-  <b>Cerimônias:</b> Condução e participação nas principais cerimônias da metodologia Scrum, incluindo Dailies, Plannings, Reviews e Retrospectives, assegurando organização, alinhamento e melhoria contínua do time.<br/><br/>
-  <img width="584" height="466" alt="image" src="https://github.com/user-attachments/assets/a18165c0-9477-402f-b6a8-1da44eb57590" alt="Teste"/>
+  <b>Acompanhamento de tasks:</b> Fui responsável pelo acompanhamento contínuo das tarefas do time, monitorando prazos, responsáveis e progresso. Identifiquei possíveis impedimentos, alinhei prioridades no time e garanti que todas as entregas estivessem dentro do planejado. Esse acompanhamento permitiu         manter o fluxo de trabalho organizado, reduzir retrabalho e assegurar que os objetivos do sprint fossem atingidos de forma eficiente.<br/><br/>
+  <img width="1636" height="574" alt="image" src="https://github.com/user-attachments/assets/e5c45c80-34a7-49c1-a5bb-c3b535ee757c" /><br/>
+
+  <b>Cerimônias:</b> Conduzi e participei ativamente das principais cerimônias da metodologia Scrum, incluindo Dailies, Plannings, Reviews e Retrospectives. Durante essas reuniões, garanti que todos estivessem alinhados com os objetivos do sprint, promovi discussões produtivas e contribuí para a melhoria       contínua do time, incentivando colaboração, feedbacks construtivos e decisões bem fundamentadas.<br/><br/>
+  <img width="1918" height="948" alt="image" src="https://github.com/user-attachments/assets/d45acfab-356d-4b24-a02f-6023b37d5bd4" />
 
 </details>
 
