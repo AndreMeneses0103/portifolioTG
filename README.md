@@ -246,17 +246,17 @@ Foi desenvolvida uma interface inovadora e automatizada para a configuração da
 Os resultados foram notáveis, refletindo em maior agilidade na implantação de soluções e em uma redução significativa da dependência de técnicos especializados, o que tornou o processo mais dinâmico e acessível para toda a equipe.
 
 #### **Tecnologias Utilizadas**
-- **Java:** Linguagem principal do projeto, reconhecida pela estabilidade e eficiência na construção de aplicações robustas e seguras.
-- **Spring Boot:** Framework que agiliza o desenvolvimento de APIs e aplicações web, com configuração simples e integração facilitada.
-- **Spring Security:** Solução voltada à autenticação e autorização, reforçando a segurança e o controle de acesso ao sistema.
-- **Hibernate:** ORM que simplifica o mapeamento objeto-relacional, tornando a comunicação com o banco de dados mais prática e padronizada.
-- **HTML, CSS e JavaScript:** Tecnologias utilizadas na criação de interfaces web interativas, garantindo boa experiência ao usuário.
-- **MySQL:** Banco de dados relacional responsável pelo armazenamento seguro e estruturado das informações.
-- **Slack e Discord:** Plataformas de comunicação que facilitam a colaboração entre equipe e cliente.
-- **Jira:** Ferramenta de gestão de tarefas e projetos com suporte a metodologias ágeis.
+- **Java:** Linguagem principal do projeto, reconhecida pela estabilidade e eficiência, utilizada para estruturar toda a lógica de negócio e garantir uma aplicação robusta, segura e de alta performance, adequada para cenários de maior escala e complexidade.
+- **Spring Boot:** Framework responsável por agilizar o desenvolvimento da aplicação, oferecendo configuração automatizada, padronização de componentes e integração simplificada entre módulos. Sua utilização permitiu entregar APIs organizadas, escaláveis e com excelente manutenção.
+- **Spring Security:** Implementado para assegurar autenticação e autorização completas, aplicando políticas de acesso, validações e camadas de proteção que fortalecem a segurança do sistema e evitam acessos indevidos.
+- **Hibernate:** ORM utilizado para abstrair e padronizar a comunicação com o banco de dados, automatizando mapeamentos, gerenciando transações e reduzindo a complexidade no tratamento de dados, garantindo consistência e eficiência nas operações persistidas.
+- **HTML, CSS e JavaScript:** Tecnologias aplicadas na construção da interface web do sistema, utilizadas sem o apoio de frameworks com o objetivo de aprofundar o aprendizado da base do front-end, resultando em páginas interativas e intuitivas.
+- **MySQL:** Banco de dados relacional adotado para armazenar as informações do sistema de forma segura, estruturada e com integridade garantida. Foi configurado com modelos bem definidos, consultas otimizadas e práticas que reforçam o desempenho.
+- **Slack:** Plataforma essencial para comunicação e colaboração, utilizada para alinhamentos rápidos, resolução de dúvidas e interação contínua com a equipe e o cliente, contribuindo para um fluxo de trabalho eficiente.
+- **Jira:** Ferramenta utilizada para organização e gerenciamento das tarefas, oferecendo suporte a metodologias ágeis, acompanhamento de progresso e rastreabilidade completa das atividades, garantindo planejamento claro e entregas consistentes.
 
 #### **Comunicação com o Cliente**
-A interação com a **Dom Rock** foi conduzida principalmente pelo **Slack**, garantindo alinhamento de requisitos, discussão de melhorias e acompanhamento do progresso.
+A interação com a **Dom Rock** foi conduzida principalmente pelo Slack, onde mantive um fluxo de comunicação contínuo e bem estruturado durante todo o desenvolvimento. Utilizei canais dedicados para alinhar requisitos, validar decisões técnicas e registrar ajustes solicitados pelo cliente. Também compartilhei evidências — como prints, vídeos e logs — para agilizar análises e facilitar o retorno de feedback. Essa proximidade me permitiu trabalhar de forma iterativa e transparente, garantindo que cada funcionalidade, correção e melhoria fosse entregue de acordo com as expectativas e necessidades da empresa.
 
 #### **Contribuições Pessoais**
 
