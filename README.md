@@ -434,15 +434,14 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
 
 #### **Tecnologias Utilizadas**
 
-- **Python:** Linguagem utilizada para desenvolver o ETL, permitindo extrair, transformar e carregar dados de forma automatizada.
-- **Java 17:** Linguagem de programação utilizada para desenvolver aplicações robustas e escaláveis.  
-- **Spring Boot:** Framework que agiliza a construção de aplicações Java, oferecendo configuração automática e recursos prontos para APIs e serviços.
-- **Spring Security:** Ferramenta do Spring para gerenciar autenticação e definir permissões de acesso em sistemas.
-- **JavaScript:** Linguagem base que adiciona dinamismo, interatividade e lógica às páginas e aplicações web.
-- **Vue.js:** Framework JavaScript voltado para criar interfaces interativas e reativas de forma eficiente.  
-- **CSS (Cascading Style Sheets):** Linguagem usada para definir aparência, layout e estilo visual de sites e aplicações.
-- **PostgreSQL:** Banco de dados relacional para armazenar e consultar informações de forma organizada e confiável.
-- **Figma:** Plataforma para criar protótipos e designs de interfaces visuais de maneira colaborativa.
+- **Python:** Linguagem aplicada no desenvolvimento do processo ETL, permitindo extrair, transformar e carregar dados de forma estruturada e automatizada. Sua flexibilidade e bibliotecas específicas facilitaram o tratamento de informações, garantindo eficiência, padronização e confiabilidade na etapa de processamento inicial.
+- **Java:** Linguagem utilizada para estruturar aplicações robustas e escaláveis, sendo responsável por organizar, armazenar e manipular os dados tratados e enviados pelo ETL em Python. Com uma arquitetura bem definida, o Java garantiu consistência na modelagem, segurança nas operações e desempenho nas etapas de integração e consumo dos dados processados. 
+- **Spring Boot:** Framework que acelerou o desenvolvimento dos serviços da aplicação, oferecendo configuração automática, padronização de componentes e integração simplificada entre módulos. Foi essencial para criar APIs estáveis, organizadas e capazes de lidar com alto volume de dados provenientes do processo de ETL.
+- **Spring Security:** Ferramenta implementada para garantir autenticação estruturada e controle de permissões, aplicando regras de acesso, validações e camadas de proteção. Contribuiu diretamente para a segurança dos endpoints e para o tratamento confiável das informações sensíveis manipuladas pelas APIs.
+- **Vue.js:** Framework JavaScript utilizado para criar interfaces dinâmicas, reativas e bem estruturadas. Sua arquitetura baseada em componentes permitiu desenvolver telas organizadas, ágeis e alinhadas com boas práticas de front-end, otimizando a experiência do usuário.
+- **CSS (Cascading Style Sheets):** Linguagem responsável pela definição do design e da identidade visual da interface. Foi trabalhada com atenção especial à responsividade, um requisito central do projeto, garantindo adaptação fluida das telas a diferentes tamanhos de dispositivos e mantendo boa usabilidade em qualquer resolução.
+- **PostgreSQL:** Banco de dados relacional utilizado para armazenar e consultar informações de forma estruturada, com suporte a consultas complexas, integridade transacional e consistência dos dados tratados pelo pipeline do projeto. Sua robustez garantiu estabilidade e desempenho no fluxo de leitura e escrita.
+- **Figma:** Plataforma utilizada para criação colaborativa de protótipos e interfaces visuais, permitindo validar layouts, fluxos de navegação e estilos antes da implementação. Facilitou o alinhamento entre equipe e requisitos, reduzindo retrabalho e garantindo coerência visual no produto final.
 
 #### **Contribuições Pessoais**
 
@@ -536,13 +535,14 @@ Ao longo do tempo, o histórico de atendimento se transforma em uma fonte valios
 
 #### **Tecnologias Utilizadas**
 
-- **Python:** Linguagem utilizada para implementar toda a lógica das funcionalidades do backend, processar dados e estruturar os comportamentos necessários para o funcionamento das APIs.
-- **Flask:** Framework utilizado juntamente com Python para construir as APIs, fornecendo rotas, controle de requisições, respostas e integração com outros serviços de forma leve e flexível.
-- **Figma:** Ferramenta colaborativa utilizada para projetar interfaces e protótipos, facilitando a comunicação entre design e desenvolvimento.
-- **Vue.js:** Framework moderno para construir interfaces reativas, oferecendo uma estrutura leve e eficiente para o frontend.
-- **Jira:** Plataforma de gestão de projetos e tarefas utilizada para organizar demandas, acompanhar progresso e garantir agilidade no desenvolvimento.
-- **Elasticsearch:** Ferramenta de busca e análise de dados em tempo real, ideal para indexação rápida e consultas complexas.
-- **PostgreSQL:** Banco de dados relacional robusto, usado para armazenar e gerenciar informações com alto desempenho e confiabilidade.
+- **Python:** Linguagem central no desenvolvimento do backend, responsável por implementar toda a lógica de negócio, estruturar fluxos das APIs, manipular dados e integrar diferentes serviços do sistema. Além de sua versatilidade, um ponto determinante foi a agilidade no desenvolvimento, já que Python permite resolver requisitos com muito menos código em comparação a linguagens mais verbosas, como Java. Essa concisão acelerou a criação de funcionalidades, reduziu complexidade e aumentou a produtividade geral do projeto.
+- **Flask:** Framework utilizado como base para a construção das APIs do projeto, trabalhando em conjunto com Python para oferecer rotas bem definidas, controle de requisições, tratamento de respostas e integração flexível com outros serviços. Sua arquitetura leve permitiu criar endpoints enxutos, performáticos e altamente adaptáveis às necessidades do backend.
+- **Prophet:** Biblioteca utilizada para treinar e implementar modelos de previsão de tickets, aplicando técnicas de séries temporais para identificar padrões, tendências e projeções. O Prophet foi fundamental para adicionar inteligência ao sistema, permitindo antecipar demandas e oferecer insights automatizados com precisão.
+- **Figma:** Ferramenta essencial no processo de design, utilizada para elaborar protótipos, fluxos e interfaces visuais de forma colaborativa. A plataforma facilitou o alinhamento entre designers e desenvolvedores, garantindo que a implementação seguisse fielmente a experiência planejada e reduzindo retrabalho durante as etapas de desenvolvimento.
+- **Vue.js:** Framework moderno adotado para construir interfaces reativas e dinâmicas no frontend. Sua simplicidade, organização por componentes e fácil integração com APIs permitiram criar telas ágeis, intuitivas e estruturadas, elevando a qualidade da experiência do usuário.
+- **Jira:** Plataforma utilizada para gestão de tarefas e organização do fluxo de trabalho. A ferramenta possibilitou dividir atividades de forma clara, acompanhar o progresso em tempo real e assegurar que as entregas seguissem um processo ágil, transparente e bem coordenado.
+- **Elasticsearch:** Tecnologia chave no projeto, empregada como mecanismo de busca e análise de dados em tempo real, possibilitando indexação rápida, consultas complexas e respostas altamente performáticas. O Elasticsearch foi essencial para o desenvolvimento do chatbot, permitindo compreender consultas, localizar informações relevantes e responder rapidamente, garantindo uma experiência natural e eficiente na interação com o usuário.
+- **PostgreSQL:** Banco de dados relacional utilizado para armazenar e gerenciar informações com segurança, integridade e desempenho. Sua robustez possibilitou trabalhar com consultas estruturadas, relacionamentos bem definidos e operações consistentes, assegurando confiabilidade para todo o fluxo de dados do sistema.
 
 #### **Contribuições Pessoais**
 
