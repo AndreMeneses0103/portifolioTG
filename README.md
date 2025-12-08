@@ -18,7 +18,7 @@ Minha experiência prática foi construída de forma sólida e ascendente. Inici
 
 Atualmente, atuo como Estagiário em Segurança da Informação na Johnson & Johnson, onde tenho a oportunidade de aplicar conceitos de cibersegurança na avaliação de novos negócios e projetos da companhia relacionados a terceiros. Minha atuação está centrada na análise e no gerenciamento de riscos cibernéticos associados a essas iniciativas, garantindo que novas parcerias e modelos de operação sejam implementados com conformidade aos padrões de segurança desde o seu estágio inicial.
 
-Busco o avanço contínuo da minha carreira por meio de desafios complexos que exijam a aplicação e a expansão do meu conhecimento. Acredito no aprendizado perpétuo e no desenvolvimento profissional como pilares para um impacto significativo no campo da tecnologia.
+Busco o avanço contínuo na minha carreira por meio de desafios complexos que exijam a aplicação e a expansão do meu conhecimento. Acredito no aprendizado perpétuo e no desenvolvimento profissional como pilares para um impacto significativo no campo da tecnologia.
 
 ## Contatos e Links
 - Website: [andremenesesdev.vercel.app](https://andremenesesdev.vercel.app/)  
