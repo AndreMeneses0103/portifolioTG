@@ -140,7 +140,7 @@ Os resultados foram notáveis, com **redução no tempo necessário para avalia�
 
 ---
 
-### TGSync - Sistema de Gestão de TCCs (2023/2)
+### TGSync - Sistema de Gestão de TGs (2023/2)
 
 <p align="center">
   <img 
