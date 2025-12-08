@@ -451,8 +451,8 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
 <details>
   <summary>Detalhes</summary>
   <br/>
-  <b>Desenvolvimento da API Rest em MVC:</b> Desenvolvimento de Repositories, Services e Controllers observando as regras de negócio e boas práticas de codificação<br/><br/>
-  <b>Implementação de testes unitários:</b> Construção de testes unitários automatizados para garantir a qualidade do sistema.<br/><br/>
+  <b>Desenvolvimento da API Rest em MVC:</b> Desenvolvi toda a estrutura da API REST utilizando o padrão MVC, implementando Repositories, Services e Controllers de forma organizada e alinhada às regras de negócio. Estruturei cada camada para garantir separação clara de responsabilidades, facilitar a manutenção e ampliar a escalabilidade da aplicação. Além disso, apliquei boas práticas de codificação, organização de pacotes, tratamento adequado de erros e padronização de respostas, assegurando um backend mais consistente, seguro e confiável.<br/><br/>
+  <b>Implementação de testes unitários:</b> Construí testes unitários automatizados para validar o comportamento das funcionalidades críticas do sistema, garantindo que cada método operasse exatamente como esperado. Trabalhei para aumentar a cobertura de testes, proteger fluxos sensíveis e antecipar falhas, promovendo uma entrega mais robusta e reduzindo riscos durante evoluções futuras do projeto. Esses testes também ajudaram a reforçar a estabilidade da API e a manter a qualidade do código ao longo do desenvolvimento.<br/><br/>
   <img width="584" height="466" alt="image" src="https://github.com/user-attachments/assets/a18165c0-9477-402f-b6a8-1da44eb57590" alt="Teste"/>
 
 </details>
@@ -461,10 +461,10 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
 <details>
   <summary>Detalhes</summary>
   <br/>
-  <b>Criação de Componentes:</b> Desenvolvimento de diversos componentes e páginas baseadas em protótipos construidos e requisitos do cliente<br/><br/>
-  <b>Padronização da Arquitetura:</b> Planejamento da arquitetura utilizada no sistema, sendo dividida em Views, Components e Services. Com objetivo de garantir qualidade e organização no desenvolvimento do projeto.<br/><br/>
-  <b>Responsividade e estilização:</b> Implementação de estilizações organizadas e técnicas para tornar o sistema utilizável em dispositivos Desktop e Mobile<br/><br/>
-  <b>Conexão com Back End e Assincronia:</b> Desenvolvimento de lógicas para enviar e receber dados do Back End, com métodos assíncronos para garantir qualidade e eficiência no uso do sistema.<br/><br/>
+  <b>Criação de Componentes:</b> Desenvolvi diversos componentes e páginas com base nos protótipos criados e nos requisitos definidos pelo cliente. Estruturei cada elemento com foco em clareza, reutilização e padronização visual, garantindo que todas as telas representassem fielmente o que havia sido planejado e que entregassem uma navegação fluida e consistente ao usuário.<br/><br/>
+  <b>Padronização da Arquitetura:</b> Planejei e defini a arquitetura do sistema, organizando-o em Views, Components e Services. Essa divisão foi essencial para garantir organização, escalabilidade e facilidade de manutenção ao longo do projeto. A estrutura padronizada ajudou a orientar o time, evitar duplicações desnecessárias e manter a coerência técnica entre todas as etapas do desenvolvimento.<br/><br/>
+  <b>Responsividade e estilização:</b> Implementei estilos organizados e técnicas voltadas para tornar o sistema totalmente responsivo, garantindo sua utilização em dispositivos Desktop e Mobile. Trabalhei com espaçamentos, alinhamentos, grids e breakpoints adequados, assegurando uma experiência confortável e adaptada a diferentes tamanhos de tela, sem perda de legibilidade ou funcionalidade.<br/><br/>
+  <b>Conexão com Back End e Assincronia:</b> Desenvolvi lógicas para envio e recebimento de dados do Back End, utilizando métodos assíncronos e integrando o Axios como ferramenta principal para realizar requisições HTTP. Estruturei fluxos de comunicação robustos para garantir integridade dos dados, controle das respostas e estabilidade no funcionamento da aplicação, tornando a interação entre frontend e backend mais fluida, eficiente e segura.<br/><br/>
   <img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/9ca94e93-28ee-45c0-be6b-68dc2b7f3230" alt="Tela Dashboard"/>
 
 </details>
@@ -473,11 +473,14 @@ A implementação do Stratify trouxe maior clareza na gestão dos projetos, agil
 <details>
   <summary>Detalhes</summary>
   <br/>
-  <b>Documento de requisitos:</b> Criação e manutenção do documento oficial de requisitos funcionais e não funcionais.<br/><br/>
-  <b>Implementação da rastreabilidade:</b> Criação de ciclo para rastrear todas as entregas relacionando-as com os requisitos levantados.<br/><br/>
-  <b>Jira:</b> Ligação da plataforma Jira com Github para automatizar o rastreamento de commits/branches e liga-los nos requisitos.<br/><br/>
-  <b>Pre-Commit:</b> Implementação da ferramenta para estabelecer padrões na abertura de commits.<br/><br/>
+  <b>Documento de requisitos:</b> Fui responsável por criar e manter o documento oficial de requisitos funcionais e não funcionais do projeto, estruturando cada necessidade de forma organizada, clara e rastreável. Trabalhei para garantir precisão nas descrições, padronização das informações e alinhamento contínuo entre time técnico, stakeholders e objetivos do sistema, facilitando tomadas de decisão e reduzindo ambiguidades durante o desenvolvimento.<br/><br/>
   <img width="1243" height="648" alt="image" src="https://github.com/user-attachments/assets/8f26ddd4-6d19-4418-a4a0-2da68fec2629" alt="Documento Requisitos"/>
+  <b>Implementação da rastreabilidade:</b> Estruturei um ciclo completo de rastreabilidade que relaciona requisitos, tarefas, entregas e validações. Organizei fluxos que permitiram acompanhar a evolução de cada funcionalidade desde sua concepção até sua entrega final, aumentando o controle, a previsibilidade e a transparência do processo. Esse mapeamento foi essencial para auditar o projeto e garantir que nada fosse negligenciado ao longo do desenvolvimento.<br/><br/>
+  <b>Jira:</b> Realizei a integração entre Jira e GitHub para automatizar o rastreamento de commits, branches e pull requests, vinculando-os diretamente aos requisitos documentados. Essa automação reduziu falhas humanas, aumentou a velocidade de acompanhamento e permitiu uma visão unificada do progresso técnico, associando código, tarefas e objetivos do projeto em um único fluxo contínuo e coeso.<br/><br/>
+  <b>Pre-Commit:</b> Implementei a ferramenta Pre-Commit para padronizar a abertura de commits, garantindo conformidade com regras definidas, formatação adequada e validações automáticas antes que o código fosse enviado para o repositório. Essa prática elevou a qualidade das contribuições, reduziu erros simples e ajudou a manter um padrão uniforme entre todos os membros do time.<br/><br/>
+  <img width="1105" height="58" alt="image" src="https://github.com/user-attachments/assets/76a25d51-a1f3-4ac2-9fb3-f2cdb30ef3a3" />
+
+  
 
 </details>
 
