@@ -103,10 +103,10 @@ Os resultados foram notáveis, com **redução no tempo necessário para avalia�
 <details>
   <summary>Detalhes</summary>
   <br/>
-  <b>Criação de telas para cadastro de turmas:</b> Desenvolvi interfaces completas para registro, edição e visualização de turmas, garantindo um fluxo simples, intuitivo e alinhado às necessidades do usuário. Estruturei a navegação, organizei os componentes e assegurei a consistência entre as telas,            permitindo que a gestão de turmas fosse realizada de forma clara e eficiente.<br/><br/>
-  <b>Implementação de visualização de médias:</b> Construí telas e componentes dedicados à exibição de médias e indicadores, integrando cálculos automáticos vindos da lógica do sistema. Trabalhei para tornar a interpretação dos resultados mais intuitiva, incluindo elementos visuais e estruturais que              facilitam a análise das avaliações pelos usuários.<br/><br/>
-  <b>Desenvolvimento de relatórios finais:</b> Estruturei tanto a lógica quanto o layout dos relatórios consolidados, garantindo clareza visual, organização das informações e uma apresentação profissional dos dados. Padronizei seções, destaquei indicadores relevantes e assegurei que o relatório fosse             facilmente compreendido por diferentes perfis de usuários.<br/><br/>
-  <b>Padronização visual:</b> Apliquei padrões consistentes de tipografia, espaçamentos, cores e nomenclaturas em todas as telas, elevando a coerência visual do sistema. Ajustei componentes repetidos, refinei alinhamentos e otimizei elementos da interface para garantir uma experiência mais harmoniosa,           fluida e profissional em todas as seções da aplicação.<br/><br/>
+  <b>Criação de telas para cadastro de turmas:</b> Desenvolvi interfaces completas para registro, edição e visualização de turmas, garantindo um fluxo simples, intuitivo e alinhado às necessidades do usuário. Estruturei a navegação, organizei os componentes e assegurei a consistência entre as telas, permitindo que a gestão de turmas fosse realizada de forma clara e eficiente.<br/><br/>
+  <b>Implementação de visualização de médias:</b> Construí telas e componentes dedicados à exibição de médias e indicadores, integrando cálculos automáticos vindos da lógica do sistema. Trabalhei para tornar a interpretação dos resultados mais intuitiva, incluindo elementos visuais e estruturais que facilitam a análise das avaliações pelos usuários.<br/><br/>
+  <b>Desenvolvimento de relatórios finais:</b> Estruturei tanto a lógica quanto o layout dos relatórios consolidados, garantindo clareza visual, organização das informações e uma apresentação profissional dos dados. Padronizei seções, destaquei indicadores relevantes e assegurei que o relatório fosse facilmente compreendido por diferentes perfis de usuários.<br/><br/>
+  <b>Padronização visual:</b> Apliquei padrões consistentes de tipografia, espaçamentos, cores e nomenclaturas em todas as telas, elevando a coerência visual do sistema. Ajustei componentes repetidos, refinei alinhamentos e otimizei elementos da interface para garantir uma experiência mais harmoniosa, fluida e profissional em todas as seções da aplicação.<br/><br/>
 
   <img src="https://github.com/user-attachments/assets/157df508-46e8-4d71-883d-3ba03e0685a9" alt="Tela Dashboard" />
 </details>
@@ -115,9 +115,9 @@ Os resultados foram notáveis, com **redução no tempo necessário para avalia�
 <details>
   <summary>Detalhes</summary>
   <br/>
-  <b>Organização e manipulação dos arquivos JSON:</b> Estruturei o armazenamento de forma modular, criando funções dedicadas para leitura, escrita e atualização dos dados com consistência e segurança. Além disso, padronizei o formato dos arquivos e implementei validações para garantir integridade, evitando     duplicidades e inconsistências durante o fluxo de uso.<br/><br/>
-  <b>Implementação de estrutura modular e escalável:</b> Organizei o projeto em múltiplos módulos independentes, distribuindo responsabilidades e separando lógica de interface, serviços e dados. Essa abordagem tornou o código mais limpo, facilitou a manutenção e permitiu que novas funcionalidade fossem         adicionadas sem impacto negativo nas partes já existentes do sistema.<br/><br/>
-  <b>Implementação de criptografia:</b> Implementei criptografia SHA-512 no sistema de autenticação, garantindo mais segurança no armazenamento de senhas e reduzindo riscos de exposição de credenciais. A integração foi realizada de forma transparente ao usuário, reforçando a proteção dos dados e elevando o     nível de segurança geral da aplicação.<br/><br/>
+  <b>Organização e manipulação dos arquivos JSON:</b> Estruturei o armazenamento de forma modular, criando funções dedicadas para leitura, escrita e atualização dos dados com consistência e segurança. Além disso, padronizei o formato dos arquivos e implementei validações para garantir integridade, evitando duplicidades e inconsistências durante o fluxo de uso.<br/><br/>
+  <b>Implementação de estrutura modular e escalável:</b> Organizei o projeto em múltiplos módulos independentes, distribuindo responsabilidades e separando lógica de interface, serviços e dados. Essa abordagem tornou o código mais limpo, facilitou a manutenção e permitiu que novas funcionalidade fossem adicionadas sem impacto negativo nas partes já existentes do sistema.<br/><br/>
+  <b>Implementação de criptografia:</b> Implementei criptografia SHA-512 no sistema de autenticação, garantindo mais segurança no armazenamento de senhas e reduzindo riscos de exposição de credenciais. A integração foi realizada de forma transparente ao usuário, reforçando a proteção dos dados e elevando o nível de segurança geral da aplicação.<br/><br/>
   <img src="https://github.com/user-attachments/assets/dffc4243-de74-4149-a245-44c6792a35a1" alt="Tela Dashboard" />
 </details>
 
@@ -188,12 +188,24 @@ A implementação da plataforma resultou em maior controle e visibilidade das at
 <details>
   <summary>Detalhes</summary>
   <br/>
-  <b>Módulo de Login:</b> Responsável pela implementação completa da interface de autenticação, com diferentes níveis de acesso (administrador, professor e aluno). O módulo foi desenvolvido com foco em usabilidade e segurança, incluindo validações de entrada, feedback visual e mensagens dinâmicas de erro e sucesso.<br/><br/>
+  <b>Módulo de Login:</b> Desenvolvi o módulo de autenticação, estruturando uma interface clara e eficiente para três níveis de acesso (administrador, professor e aluno). Implementei validações de entrada, feedbacks visuais e mensagens dinâmicas para garantir segurança, consistência e uma experiência fluida para o usuário. Também cuidei da organização do fluxo de estados para evitar comportamentos inesperados e melhorar a manutenção do código.<br/><br/>
   <img src="https://github.com/user-attachments/assets/7093511b-14dd-4dce-a98d-f053554287e5" alt="Tela Login" /><br/><br/>
-  <b>Visualização de Status:</b> Criação de uma interface intuitiva para consulta do progresso de atividades, com filtros por aluno e professor e opções de ordenação por datas e status de entrega. Esse recurso proporcionou maior clareza no acompanhamento de desempenho e facilitou a análise de resultados por parte dos docentes.<br/><br/>
+  <b>Visualização de Status:</b> Desenvolvi uma interface intuitiva para consulta e acompanhamento do progresso das atividades. Criei filtros por aluno e professor, além de ordenações por datas e status, permitindo uma análise mais rápida e eficiente. Estruturei os componentes pensando em reusabilidade e desempenho, garantindo que a experiência se mantivesse consistente mesmo com grandes volumes de dados.<br/><br/>
   <img src="https://github.com/user-attachments/assets/925d948a-7296-4ca5-8140-5e3adaeb8823" alt="Tela Status" />
 </details>
 
+##### **Desenvolvimento Back End**
+<details>
+<summary>Detalhes</summary>
+<br/>
+
+<b>Desenvolvimento de Lógicas e Manipulação de Dados:</b> Implementei toda a camada de acesso a dados referente ao gerenciamento de notas, utilizando JDBC puro para garantir controle total sobre consultas, transações e tratamento de erros. Desenvolvi métodos completos para inserção, atualização e recuperação de notas, incluindo buscas específicas por aluno, entrega ou ID, sempre aplicando prepared statements para reforçar segurança e evitar SQL Injection.<br/><br/>
+<img width="748" height="700" alt="image" src="https://github.com/user-attachments/assets/57d226bb-ff58-4a04-aede-5e294554f7e6" />
+
+<b>Modelagem de DTOs e Estruturação de DAOs:</b> Modelei DTOs claros e objetivos para representar entidades essenciais do sistema, garantindo um transporte de dados consistente e seguro entre as camadas. Estruturei DAOs dedicados para cada operação de persistência, aplicando separação de responsabilidades, padronização de métodos e organização baseada em boas práticas de arquitetura. Essa modelagem permitiu aumentar a legibilidade, reduzir acoplamento e facilitar a manutenção e evolução do backend ao longo do desenvolvimento.<br/><br/>
+<img width="677" height="751" alt="image" src="https://github.com/user-attachments/assets/93e35ec6-78cf-4c19-813c-5a7034dec1fb" />
+
+</details>
 
 ---
 
@@ -382,7 +394,7 @@ A implementação resultou em uma plataforma escalável e eficiente, capaz de pr
 
 ### **Hard Skills**
 
-- **Java 17:** Desenvolvi lógicas de negócio robustas e seguras utilizando os recursos modernos da linguagem, estruturando fluxos estáveis, reduzindo complexidades e garantindo que cada serviço entregasse comportamento consistente. Trabalhei com boas práticas, organização modular e implementação de processos que fortalecem a manutenção e a escalabilidade do sistema.
+- **Java:** Desenvolvi lógicas de negócio robustas e seguras utilizando os recursos modernos da linguagem, estruturando fluxos estáveis, reduzindo complexidades e garantindo que cada serviço entregasse comportamento consistente. Trabalhei com boas práticas, organização modular e implementação de processos que fortalecem a manutenção e a escalabilidade do sistema.
 - **Spring Boot:** Construí APIs RESTful completas, configurando serviços com injeção de dependência, validações, tratamento de exceções e padronização de rotas. Estruturei camadas de aplicação de forma clara, garantindo desempenho, fácil manutenção e integração fluida com outros módulos do projeto.
 - **Spring Security:** Implementei autenticação e autorização com diferentes níveis de acesso, aplicando filtros, configurações de segurança e boas práticas para proteger as operações sensíveis do sistema. Ajustei permissões por perfil, tratei fluxos de login e refinei mecanismos de proteção para elevar a segurança geral da aplicação.
 - **Hibernate:** Modelei entidades, realizei mapeamento objeto-relacional e construí consultas eficientes utilizando JPQL. Trabalhei para otimizar relações, reduzir cargas desnecessárias e garantir que os processos de persistência fossem consistentes, performáticos e alinhados à lógica de negócios.
