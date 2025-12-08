@@ -359,7 +359,7 @@ A implementação resultou em uma plataforma escalável e eficiente, capaz de pr
 <summary>Detalhes</summary>
 <br/>
 
-<b>Gerenciamento e Configuração de Dados:</b> Realizei o gerenciamento e a configuração dos dados de geolocalização no Oracle, importando e ajustando tipos específicos para garantir o melhor desempenho no tratamento das informações. Estruturei o ambiente de dados para otimizar consultas, melhorar a precisão geoespacial e assegurar que todo o fluxo funcionasse de forma estável e eficiente.
+<b>Gerenciamento e Configuração de Dados:</b> Realizei o gerenciamento e a configuração dos dados de geolocalização no Oracle, importando e ajustando tipos específicos para garantir o melhor desempenho no tratamento das informações. Estruturei o ambiente de dados com foco em otimizar consultas geoespaciais, aumentar a precisão dos resultados e assegurar que todo o fluxo de processamento funcionasse de forma estável, consistente e confiável. Esse trabalho permitiu que os dados fossem manipulados com maior eficiência, reduzindo erros, melhorando a velocidade das operações e garantindo uma base sólida para as funcionalidades dependentes dessas informações.
 <br/><br/>
 <img src="https://github.com/user-attachments/assets/53cc1796-66bb-4303-9f1c-79fa8ab1ba5a" alt="Configuração de dados Oracle" />
 
@@ -370,7 +370,9 @@ A implementação resultou em uma plataforma escalável e eficiente, capaz de pr
 <summary>Detalhes</summary>
 <br/>
 
-<b>Criação de Componentes:</b> Desenvolvi componentes em Vue.js estruturando elementos essenciais da interface conforme as necessidades do cliente e as prototipações definidas. Modelei cada componente para garantir reutilização, consistência visual e integração fluida com o restante da aplicação, mantendo alinhamento com os requisitos funcionais e o fluxo proposto nas telas.<br/><br/>
+<b>Criação de Componentes:</b> Desenvolvi componentes em Vue.js estruturando elementos essenciais da interface conforme as necessidades do cliente e as prototipações definidas. Modelei cada componente para garantir reutilização, consistência visual e integração fluida com o restante da aplicação. Trabalhei para assegurar aderência total aos requisitos funcionais, mantendo coerência visual, responsividade e alinhamento com o fluxo projetado nas telas, o que contribuiu diretamente para uma experiência mais intuitiva e organizada.<br/><br/>
+<b>Manipulação de dados Geoespaciais:</b> Desenvolvi métodos e lógicas para aplicar os dados de geolocalização no mapa utilizando a biblioteca MapTiler. Trabalhei na interpretação, formatação e renderização dos dados no mapa, garantindo precisão visual, performance e correta representação das informações geoespaciais exibidas para o usuário. Esse processo foi fundamental para assegurar que os elementos fossem posicionados e apresentados de forma confiável e clara.<br/><br/>
+<b>Implementação de Senha forte:</b> Desenvolvi métodos e componentes dedicados a auxiliar o usuário na criação de senhas fortes para sua conta, utilizando expressões regulares (regex) para validar cada condição necessária. Estruturei indicadores visuais e lógicas de verificação que orientam o usuário em tempo real, tornando o processo mais seguro, acessível e fácil de entender, fortalecendo assim a segurança geral da aplicação.<br/><br/>
 <img src="https://github.com/user-attachments/assets/dc39795f-bb15-472a-a695-3411a3eab0e1" alt="Criação de componentes Vue.js" />
 
 </details>
