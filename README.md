@@ -383,9 +383,14 @@ A implementação resultou em uma plataforma escalável e eficiente, capaz de pr
 <br/>
 
 <b>Criação de Componentes:</b> Desenvolvi componentes em Vue.js estruturando elementos essenciais da interface conforme as necessidades do cliente e as prototipações definidas. Modelei cada componente para garantir reutilização, consistência visual e integração fluida com o restante da aplicação. Trabalhei para assegurar aderência total aos requisitos funcionais, mantendo coerência visual, responsividade e alinhamento com o fluxo projetado nas telas, o que contribuiu diretamente para uma experiência mais intuitiva e organizada.<br/><br/>
-<b>Manipulação de dados Geoespaciais:</b> Desenvolvi métodos e lógicas para aplicar os dados de geolocalização no mapa utilizando a biblioteca MapTiler. Trabalhei na interpretação, formatação e renderização dos dados no mapa, garantindo precisão visual, performance e correta representação das informações geoespaciais exibidas para o usuário. Esse processo foi fundamental para assegurar que os elementos fossem posicionados e apresentados de forma confiável e clara.<br/><br/>
-<b>Implementação de Senha forte:</b> Desenvolvi métodos e componentes dedicados a auxiliar o usuário na criação de senhas fortes para sua conta, utilizando expressões regulares (regex) para validar cada condição necessária. Estruturei indicadores visuais e lógicas de verificação que orientam o usuário em tempo real, tornando o processo mais seguro, acessível e fácil de entender, fortalecendo assim a segurança geral da aplicação.<br/><br/>
 <img src="https://github.com/user-attachments/assets/dc39795f-bb15-472a-a695-3411a3eab0e1" alt="Criação de componentes Vue.js" />
+
+<b>Manipulação de dados Geoespaciais:</b> Desenvolvi métodos e lógicas para aplicar os dados de geolocalização no mapa utilizando a biblioteca MapTiler. Trabalhei na interpretação, formatação e renderização dos dados no mapa, garantindo precisão visual, performance e correta representação das informações geoespaciais exibidas para o usuário. Esse processo foi fundamental para assegurar que os elementos fossem posicionados e apresentados de forma confiável e clara.<br/><br/>
+<img width="1919" height="1079" alt="localtracker" src="https://github.com/user-attachments/assets/558a9d93-93dd-4f4d-9b59-2f4b83c19844" />
+
+<b>Implementação de Senha forte:</b> Desenvolvi métodos e componentes dedicados a auxiliar o usuário na criação de senhas fortes para sua conta, utilizando expressões regulares (regex) para validar cada condição necessária. Estruturei indicadores visuais e lógicas de verificação que orientam o usuário em tempo real, tornando o processo mais seguro, acessível e fácil de entender, fortalecendo assim a segurança geral da aplicação.<br/><br/>
+<img width="1919" height="1079" alt="localtracker_senha" src="https://github.com/user-attachments/assets/1ae8bedb-451e-4507-99d3-08bf241ffdb3" />
+
 
 </details>
 
