@@ -18,7 +18,7 @@ Minha experiência prática foi construída de forma sólida e ascendente. Inici
 
 Atualmente, atuo como Estagiário em Segurança da Informação na Johnson & Johnson, onde tenho a oportunidade de aplicar conceitos de cibersegurança na avaliação de novos negócios e projetos da companhia relacionados a terceiros. Minha atuação está centrada na análise e no gerenciamento de riscos cibernéticos associados a essas iniciativas, garantindo que novas parcerias e modelos de operação sejam implementados com conformidade aos padrões de segurança desde o seu estágio inicial.
 
-Busco o avanço contínuo na minha carreira por meio de desafios complexos que exijam a aplicação e a expansão do meu conhecimento. Acredito no aprendizado perpétuo e no desenvolvimento profissional como pilares para um impacto significativo no campo da tecnologia.
+Busco o avanço contínuo na minha carreira por meio de desafios complexos que exijam a aplicação e a expansão do meu conhecimento. Acredito no aprendizado contínuo e no desenvolvimento profissional como pilares para um impacto significativo no campo da tecnologia.
 
 ## Contatos e Links
 - Website: [andremenesesdev.vercel.app](https://andremenesesdev.vercel.app/)  
@@ -429,7 +429,7 @@ Link do repositório: https://github.com/QuantumBitBR/API_5SEM
 
 #### Parceria com a Youtan
 
-Este projeto foi desenvolvido em colaboração com a Youtan, uma empresa especializada no desenvolvimento de sistemas web. 
+Este projeto foi desenvolvido para a Youtan, que assumiu o papel de cliente durante toda a construção da solução. As orientações e definições fornecidas pela empresa foram essenciais para direcionar o desenvolvimento e garantir que o sistema atendesse aos objetivos propostos.
 
 #### **Desafio**
 O cliente, na utilização do sistema Taiga, enfrentava dificuldades pela ausência de um espaço centralizado que permitisse visualizar os indicadores dos projetos e acompanhar as atividades. Além disso, a falta de um controle de acesso por nível de usuário comprometia a organização das informações e tornava o processo de decisão menos eficiente.
@@ -533,7 +533,7 @@ Link do repositório: https://github.com/QuantumBitBR/API_6SEM
 
 #### Parceria com a Pro4Tech
 
-Este projeto foi desenvolvido em colaboração com a Pro4Tech, uma empresa especializada no desenvolvimento de sistemas web. 
+Este projeto foi desenvolvido em colaboração com a Pro4Tech, que atuou como cliente durante todo o processo. A participação deles foi essencial para esclarecer requisitos, alinhar prioridades e garantir que o sistema atendesse às necessidades reais da organização.
 
 #### **Desafio**
 O sistema de chamados acabou se tornando um ponto de atraso, já que muitos tickets eram recorrentes e abordavam problemas que já tinham sido solucionados, o que gerava retrabalho e consumia tempo da equipe. Isso comprometia a agilidade do suporte e dificultava a identificação de padrões, pois as informações permaneciam dispersas. Por isso, tornou-se importante adotar uma forma mais eficiente de organizar essas solicitações, reduzindo o esforço do time e permitindo uma gestão mais rápida e confiável das ocorrências repetidas.
