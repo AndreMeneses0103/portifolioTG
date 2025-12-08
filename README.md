@@ -10,7 +10,7 @@
 </p>
 
 ## Sobre Mim
-Sou André Meneses, técnico em Informática pela Universidade do Vale do Paraíba (Univap), concluído em 2022, e atualmente graduando em Banco de Dados pela Faculdade de Tecnologia de São José dos Campos (Fatec-SJC).
+Sou André Meneses, técnico em Informática pelo Colégio UNIVAP, concluído em 2022, e atualmente graduando em Banco de Dados pela Faculdade de Tecnologia de São José dos Campos (Fatec-SJC).
 
 Minha trajetória é guiada por uma genuína paixão por lógica, raciocínio estratégico e a resolução prática de problemas, interesses que direcionaram minha escolha profissional e minha evolução na área de tecnologia.
 
